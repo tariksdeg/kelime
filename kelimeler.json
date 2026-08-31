@@ -1067,29 +1067,6 @@
    "lesson": "s01-l04"
   },
   {
-   "id": "ac914aedd2",
-   "en": "phases",
-   "tr": "evreler, aşamalar • aşamalar",
-   "type": "kalip",
-   "sections": [
-    1,
-    11,
-    38
-   ],
-   "lesson": "s01-l04"
-  },
-  {
-   "id": "664d2123a2",
-   "en": "follows",
-   "tr": "… izler, … şeklinde ilerler • … izler",
-   "type": "kalip",
-   "sections": [
-    1,
-    11
-   ],
-   "lesson": "s01-l04"
-  },
-  {
    "id": "4195d6d4d2",
    "en": "maps directly to",
    "tr": "doğrudan …e karşılık gelir • doğrudan …ile eşleşir",
@@ -1634,17 +1611,6 @@
     16
    ],
    "lesson": "s02-l02"
-  },
-  {
-   "id": "899531e0f8",
-   "en": "workflow",
-   "tr": "iş akışı: bir işin hangi adımlarla, hangi sırayla yapılacağının tanımı • iş akışı",
-   "type": "terim",
-   "sections": [
-    2,
-    11
-   ],
-   "lesson": "s02-l03"
   },
   {
    "id": "7d60ba295c",
@@ -3990,20 +3956,6 @@
    "lesson": "s04-l01"
   },
   {
-   "id": "2b29c3ceee",
-   "en": "simultaneously",
-   "tr": "aynı anda • aynı anda, hepsini birden • aynı anda, eş zamanlı • aynı anda, tek seferde",
-   "type": "terim",
-   "sections": [
-    4,
-    11,
-    15,
-    20,
-    29
-   ],
-   "lesson": "s04-l01"
-  },
-  {
    "id": "e3851ebbbb",
    "en": "SDN",
    "tr": "ağın kararlarını yazılımdan merkezî olarak veren mimari • ağ kararlarını merkezî yazılımdan veren mimari",
@@ -4144,17 +4096,6 @@
    "type": "terim",
    "sections": [
     4
-   ],
-   "lesson": "s04-l01"
-  },
-  {
-   "id": "adcc783886",
-   "en": "map … to",
-   "tr": "…i … ile eşleştirmek • …i … ile eşlemek",
-   "type": "kalip",
-   "sections": [
-    4,
-    11
    ],
    "lesson": "s04-l01"
   },
@@ -12445,16 +12386,6 @@
    "lesson": "s11-l01"
   },
   {
-   "id": "0d07c80401",
-   "en": "points toward but does not prove",
-   "tr": "sınav dili: işaret eder ama kanıt değildir — bu nüans sorulur",
-   "type": "terim",
-   "sections": [
-    11
-   ],
-   "lesson": "s11-l01"
-  },
-  {
    "id": "220926c8a3",
    "en": "observable evidence",
    "tr": "gözlemlenebilir kanıt",
@@ -12476,16 +12407,6 @@
    "lesson": "s11-l01"
   },
   {
-   "id": "5b91d8e9d0",
-   "en": "may have been",
-   "tr": "olmuş olabilir",
-   "type": "kalip",
-   "sections": [
-    11
-   ],
-   "lesson": "s11-l01"
-  },
-  {
    "id": "3f91f84180",
    "en": "IoC lifecycle",
    "tr": "göstergenin toplanması → analizi → sahada uygulanması döngüsü",
@@ -12496,29 +12417,9 @@
    "lesson": "s11-l01"
   },
   {
-   "id": "01d1ebbd33",
-   "en": "tested directly",
-   "tr": "doğrudan sorulur",
-   "type": "kalip",
-   "sections": [
-    11
-   ],
-   "lesson": "s11-l01"
-  },
-  {
    "id": "19e20b26c0",
    "en": "atomic indicator",
    "tr": "tek başına anlamlı, bölünemez gösterge (IP, hash, alan adı)",
-   "type": "terim",
-   "sections": [
-    11
-   ],
-   "lesson": "s11-l01"
-  },
-  {
-   "id": "7bea98a5ad",
-   "en": "behavioral indicator",
-   "tr": "tek bir değer değil, davranış örüntüsü olan gösterge",
    "type": "terim",
    "sections": [
     11
@@ -12536,41 +12437,10 @@
    "lesson": "s11-l01"
   },
   {
-   "id": "9ea89b0f66",
-   "en": "patterns of activity",
-   "tr": "faaliyet örüntüleri",
-   "type": "kalip",
-   "sections": [
-    11
-   ],
-   "lesson": "s11-l01"
-  },
-  {
    "id": "5d288ad264",
    "en": "fallback",
    "tr": "yedek plan; asıl yöntem işe yaramadığında başvurulan",
    "type": "terim",
-   "sections": [
-    11
-   ],
-   "lesson": "s11-l01"
-  },
-  {
-   "id": "3b24ecf0c1",
-   "en": "anomaly detection",
-   "tr": "bilinen göstergeyi değil, normalden sapmayı arayan tespit • normalden sapan davranışın yakalanması",
-   "type": "terim",
-   "sections": [
-    11,
-    25
-   ],
-   "lesson": "s11-l01"
-  },
-  {
-   "id": "f49933f13f",
-   "en": "do not match",
-   "tr": "tutmuyor, eşleşmiyor",
-   "type": "kalip",
    "sections": [
     11
    ],
@@ -12587,60 +12457,10 @@
    "lesson": "s11-l01"
   },
   {
-   "id": "3311d4d2b1",
-   "en": "pays off across",
-   "tr": "sınav dili: buraya harcanan emek … genelinde karşılığını verir",
-   "type": "terim",
-   "sections": [
-    11
-   ],
-   "lesson": "s11-l01"
-  },
-  {
-   "id": "ea213780e7",
-   "en": "investment",
-   "tr": "yatırım, harcanan emek",
-   "type": "kalip",
-   "sections": [
-    11
-   ],
-   "lesson": "s11-l01"
-  },
-  {
-   "id": "3426b425fa",
-   "en": "distinct, testable concepts",
-   "tr": "sınav dili: birbirinden ayrı ve ayrı ayrı sorulabilir kavramlar",
-   "type": "terim",
-   "sections": [
-    11
-   ],
-   "lesson": "s11-l01"
-  },
-  {
    "id": "098f189a83",
    "en": "retrospective",
    "tr": "geriye dönük; olan bitene bakar",
    "type": "terim",
-   "sections": [
-    11
-   ],
-   "lesson": "s11-l02"
-  },
-  {
-   "id": "c5e0a0b714",
-   "en": "not proof of breach",
-   "tr": "sınav dili: ihlalin kanıtı değildir, yalnızca göstergesidir",
-   "type": "terim",
-   "sections": [
-    11
-   ],
-   "lesson": "s11-l02"
-  },
-  {
-   "id": "f9128df347",
-   "en": "may have occurred",
-   "tr": "gerçekleşmiş olabilir",
-   "type": "kalip",
    "sections": [
     11
    ],
@@ -12667,62 +12487,10 @@
    "lesson": "s11-l02"
   },
   {
-   "id": "5e79bd2db4",
-   "en": "IoC look backward, IoA look forward",
-   "tr": "sınav dili: yön farkı — ayrımı bununla hatırla",
-   "type": "terim",
-   "sections": [
-    11
-   ],
-   "lesson": "s11-l02"
-  },
-  {
    "id": "6bc964bd61",
    "en": "registry modifications",
    "tr": "Windows kayıt defterinde yapılan değişiklikler; kalıcılığın klasik izi",
    "type": "terim",
-   "sections": [
-    11
-   ],
-   "lesson": "s11-l02"
-  },
-  {
-   "id": "10a0ae407a",
-   "en": "file hash",
-   "tr": "dosyanın benzersiz parmak izi",
-   "type": "terim",
-   "sections": [
-    11
-   ],
-   "lesson": "s11-l02"
-  },
-  {
-   "id": "c341591bac",
-   "en": "login geography",
-   "tr": "oturum açılan coğrafi konum",
-   "type": "terim",
-   "sections": [
-    11
-   ],
-   "lesson": "s11-l02"
-  },
-  {
-   "id": "50b9e78177",
-   "en": "categories",
-   "tr": "kategoriler",
-   "type": "kalip",
-   "sections": [
-    11,
-    12,
-    24
-   ],
-   "lesson": "s11-l02"
-  },
-  {
-   "id": "baf6e3e88f",
-   "en": "malicious domains",
-   "tr": "zararlı alan adları",
-   "type": "kalip",
    "sections": [
     11
    ],
@@ -12761,16 +12529,6 @@
    "lesson": "s11-l02"
   },
   {
-   "id": "bc1b5f8be7",
-   "en": "how applicable",
-   "tr": "ne kadar uygulanabilir",
-   "type": "kalip",
-   "sections": [
-    11
-   ],
-   "lesson": "s11-l02"
-  },
-  {
    "id": "cb78473845",
    "en": "STIX",
    "tr": "tehdit istihbaratını tarif etmenin standart dili/biçimi • tehdit istihbaratının nasıl tarif edileceğini belirleyen standart biçim",
@@ -12793,84 +12551,6 @@
    "lesson": "s11-l02"
   },
   {
-   "id": "bc88ed0afc",
-   "en": "standardized language",
-   "tr": "standartlaştırılmış dil",
-   "type": "kalip",
-   "sections": [
-    11
-   ],
-   "lesson": "s11-l02"
-  },
-  {
-   "id": "5b310a1ee8",
-   "en": "transport protocol",
-   "tr": "taşıma protokolü",
-   "type": "kalip",
-   "sections": [
-    11
-   ],
-   "lesson": "s11-l02"
-  },
-  {
-   "id": "90c4793da5",
-   "en": "moves … between",
-   "tr": "…i … arasında taşır",
-   "type": "kalip",
-   "sections": [
-    11
-   ],
-   "lesson": "s11-l02"
-  },
-  {
-   "id": "7814a1d4e3",
-   "en": "weighing all three together",
-   "tr": "sınav dili: üç faktörü birlikte tart, birine bakıp karar verme",
-   "type": "terim",
-   "sections": [
-    11
-   ],
-   "lesson": "s11-l02"
-  },
-  {
-   "id": "8d83a84eda",
-   "en": "in isolation",
-   "tr": "tek başına, bağlamdan kopuk • bağlamdan kopuk, tek başına • yalıtılmış olarak, tek başına • diğerlerinden kopuk, tek başına",
-   "type": "terim",
-   "sections": [
-    11,
-    12,
-    32,
-    38
-   ],
-   "lesson": "s11-l02"
-  },
-  {
-   "id": "0d2490ded2",
-   "en": "a common exam trap",
-   "tr": "sık görülen sınav tuzağı • sınav dili: sık kurulan bir tuzak • sınav dili: sık kurulan tuzak • sık kurulan bir tuzak • sık kurulan tuzak",
-   "type": "terim",
-   "sections": [
-    11,
-    21,
-    22,
-    23,
-    34,
-    38
-   ],
-   "lesson": "s11-l02"
-  },
-  {
-   "id": "3f685c7bbc",
-   "en": "trusted source",
-   "tr": "güvenilir kaynak",
-   "type": "kalip",
-   "sections": [
-    11
-   ],
-   "lesson": "s11-l02"
-  },
-  {
    "id": "c546af2db7",
    "en": "delivery mechanism",
    "tr": "iletim/teslim mekanizması • saldırının kurbana ulaştırılma yolu",
@@ -12878,26 +12558,6 @@
    "sections": [
     11,
     15
-   ],
-   "lesson": "s11-l02"
-  },
-  {
-   "id": "3b388e809e",
-   "en": "tested separately",
-   "tr": "sınav dili: ayrı ayrı sorulur",
-   "type": "terim",
-   "sections": [
-    11
-   ],
-   "lesson": "s11-l02"
-  },
-  {
-   "id": "1d6e9ab7b1",
-   "en": "the format",
-   "tr": "biçim, format",
-   "type": "kalip",
-   "sections": [
-    11
    ],
    "lesson": "s11-l02"
   },
@@ -12922,90 +12582,9 @@
    "lesson": "s11-l03"
   },
   {
-   "id": "ef3561af81",
-   "en": "single, discrete",
-   "tr": "tek ve ayrık",
-   "type": "kalip",
-   "sections": [
-    11
-   ],
-   "lesson": "s11-l03"
-  },
-  {
-   "id": "758b7f6ca5",
-   "en": "easy to share and block",
-   "tr": "paylaşması ve engellemesi kolay",
-   "type": "kalip",
-   "sections": [
-    11
-   ],
-   "lesson": "s11-l03"
-  },
-  {
    "id": "c37ca64aaa",
    "en": "TTP",
    "tr": "Tactics, Techniques, Procedures: saldırganın çalışma tarzı; değiştirmesi en pahalı olan şey",
-   "type": "terim",
-   "sections": [
-    11
-   ],
-   "lesson": "s11-l03"
-  },
-  {
-   "id": "294edf7f68",
-   "en": "sequencing of actions",
-   "tr": "eylemlerin hangi sırayla yapıldığı",
-   "type": "terim",
-   "sections": [
-    11
-   ],
-   "lesson": "s11-l03"
-  },
-  {
-   "id": "fadecced1b",
-   "en": "how an attacker operates",
-   "tr": "saldırganın çalışma biçimi",
-   "type": "terim",
-   "sections": [
-    11
-   ],
-   "lesson": "s11-l03"
-  },
-  {
-   "id": "5aa483674f",
-   "en": "reflect",
-   "tr": "yansıtır",
-   "type": "kalip",
-   "sections": [
-    11
-   ],
-   "lesson": "s11-l03"
-  },
-  {
-   "id": "782ad08489",
-   "en": "much harder to change",
-   "tr": "değiştirmesi çok daha zor",
-   "type": "kalip",
-   "sections": [
-    11
-   ],
-   "lesson": "s11-l03"
-  },
-  {
-   "id": "5d33448434",
-   "en": "Pyramid of Pain",
-   "tr": "göstergeleri saldırgana \"acı\" verme derecesine göre sıralayan model • göstergeleri saldırgana verdikleri zorluğa göre sıralayan model • göstergeleri, engellenmeleri hâlinde saldırgana verdikleri zorluğa göre sıralayan model",
-   "type": "terim",
-   "sections": [
-    11,
-    23
-   ],
-   "lesson": "s11-l03"
-  },
-  {
-   "id": "fbf89fd0f8",
-   "en": "ranks … by how much it costs",
-   "tr": "…i saldırgana maliyetine göre sıralar",
    "type": "terim",
    "sections": [
     11
@@ -13024,31 +12603,10 @@
    "lesson": "s11-l03"
   },
   {
-   "id": "a7d0738aca",
-   "en": "from bottom to top",
-   "tr": "alttan üste • aşağıdan yukarıya",
-   "type": "kalip",
-   "sections": [
-    11,
-    23
-   ],
-   "lesson": "s11-l03"
-  },
-  {
    "id": "3d9ffc648b",
    "en": "network and host artifacts",
    "tr": "ağ ve host izleri",
    "type": "kalip",
-   "sections": [
-    11
-   ],
-   "lesson": "s11-l03"
-  },
-  {
-   "id": "22806e3ae8",
-   "en": "maximum defensive value",
-   "tr": "savunma açısından en yüksek değer",
-   "type": "terim",
    "sections": [
     11
    ],
@@ -13061,27 +12619,6 @@
    "type": "terim",
    "sections": [
     11
-   ],
-   "lesson": "s11-l03"
-  },
-  {
-   "id": "6b0a8cb86e",
-   "en": "at the top of",
-   "tr": "…in tepesinde",
-   "type": "kalip",
-   "sections": [
-    11
-   ],
-   "lesson": "s11-l03"
-  },
-  {
-   "id": "41b3c8e78a",
-   "en": "forces",
-   "tr": "zorlar, mecbur bırakır • …e zorlar",
-   "type": "kalip",
-   "sections": [
-    11,
-    23
    ],
    "lesson": "s11-l03"
   },
@@ -13126,16 +12663,6 @@
    "lesson": "s11-l03"
   },
   {
-   "id": "9de514080a",
-   "en": "speed of detection",
-   "tr": "tespit hızı",
-   "type": "kalip",
-   "sections": [
-    11
-   ],
-   "lesson": "s11-l03"
-  },
-  {
    "id": "2f5d98a7a5",
    "en": "APT",
    "tr": "Advanced Persistent Threat: uzun süre gizli kalabilen, kaynaklı ve ısrarlı saldırgan",
@@ -13150,16 +12677,6 @@
    "en": "most durable",
    "tr": "en dayanıklı, en uzun ömürlü",
    "type": "terim",
-   "sections": [
-    11
-   ],
-   "lesson": "s11-l03"
-  },
-  {
-   "id": "53efbb8dc5",
-   "en": "high-value",
-   "tr": "yüksek değerli • yüksek değerli, en işe yarar",
-   "type": "kalip",
    "sections": [
     11
    ],
@@ -13196,38 +12713,6 @@
    "lesson": "s11-l04"
   },
   {
-   "id": "9f33a7c798",
-   "en": "internal",
-   "tr": "iç, kurum içi • içeriden • kurum içi",
-   "type": "kalip",
-   "sections": [
-    11,
-    28,
-    29
-   ],
-   "lesson": "s11-l04"
-  },
-  {
-   "id": "3dcd40712b",
-   "en": "collection sources",
-   "tr": "toplama kaynakları",
-   "type": "kalip",
-   "sections": [
-    11
-   ],
-   "lesson": "s11-l04"
-  },
-  {
-   "id": "7538bf6608",
-   "en": "open-source feed",
-   "tr": "herkese açık, ücretsiz tehdit göstergesi beslemesi",
-   "type": "terim",
-   "sections": [
-    11
-   ],
-   "lesson": "s11-l04"
-  },
-  {
    "id": "bba493c77b",
    "en": "Automated Indicator Sharing",
    "tr": "CISA'nın göstergeleri otomatik dağıttığı devlet programı",
@@ -13245,16 +12730,6 @@
    "sections": [
     11,
     13
-   ],
-   "lesson": "s11-l04"
-  },
-  {
-   "id": "b45084ab22",
-   "en": "industry-specific",
-   "tr": "sektöre özgü",
-   "type": "kalip",
-   "sections": [
-    11
    ],
    "lesson": "s11-l04"
   },
@@ -13279,74 +12754,12 @@
    "lesson": "s11-l04"
   },
   {
-   "id": "f383522859",
-   "en": "higher confidence with more context",
-   "tr": "daha güvenilir ve daha çok arka plan bilgisiyle gelen",
-   "type": "terim",
-   "sections": [
-    11
-   ],
-   "lesson": "s11-l04"
-  },
-  {
-   "id": "7f6e1ab2b8",
-   "en": "freely available",
-   "tr": "serbestçe erişilebilir",
-   "type": "kalip",
-   "sections": [
-    11
-   ],
-   "lesson": "s11-l04"
-  },
-  {
-   "id": "1fda44ed6b",
-   "en": "subscription-based",
-   "tr": "abonelikle sunulan • abonelikle kullanılan",
-   "type": "terim",
-   "sections": [
-    11,
-    30
-   ],
-   "lesson": "s11-l04"
-  },
-  {
-   "id": "eafd8d1cde",
-   "en": "generally",
-   "tr": "genellikle",
-   "type": "kalip",
-   "sections": [
-    11
-   ],
-   "lesson": "s11-l04"
-  },
-  {
    "id": "e34823134f",
    "en": "indicator pattern",
    "tr": "göstergenin neyi arayacağını tarif eden ifade",
    "type": "terim",
    "sections": [
     11
-   ],
-   "lesson": "s11-l04"
-  },
-  {
-   "id": "0b83ee3b52",
-   "en": "valid time range",
-   "tr": "göstergenin geçerli sayıldığı zaman aralığı",
-   "type": "terim",
-   "sections": [
-    11
-   ],
-   "lesson": "s11-l04"
-  },
-  {
-   "id": "f131da74b4",
-   "en": "confidence score",
-   "tr": "göstergeye duyulan güvenin sayısal derecesi • verilen hükmün ne kadar güvenilir olduğunu gösteren puan",
-   "type": "terim",
-   "sections": [
-    11,
-    20
    ],
    "lesson": "s11-l04"
   },
@@ -13361,48 +12774,12 @@
    "lesson": "s11-l04"
   },
   {
-   "id": "5ca3e72b8c",
-   "en": "structured JSON",
-   "tr": "yapılandırılmış JSON",
-   "type": "kalip",
-   "sections": [
-    11,
-    17
-   ],
-   "lesson": "s11-l04"
-  },
-  {
-   "id": "6c125717ec",
-   "en": "automatically",
-   "tr": "otomatik olarak • kendiliğinden",
-   "type": "kalip",
-   "sections": [
-    11,
-    18,
-    25,
-    35
-   ],
-   "lesson": "s11-l04"
-  },
-  {
    "id": "306a967f97",
    "en": "TIP",
    "tr": "Threat Intelligence Platform: göstergeleri toplayıp yöneten platform",
    "type": "terim",
    "sections": [
     11
-   ],
-   "lesson": "s11-l04"
-  },
-  {
-   "id": "894c8d0951",
-   "en": "MISP",
-   "tr": "en yaygın açık kaynak tehdit istihbaratı paylaşım platformu • kurumlar arası tehdit göstergesi paylaşım platformu • gösterge paylaşım platformu; UEBA ile ilgisi yok",
-   "type": "terim",
-   "sections": [
-    11,
-    17,
-    18
    ],
    "lesson": "s11-l04"
   },
@@ -13421,26 +12798,6 @@
    "en": "leading",
    "tr": "önde gelen",
    "type": "kalip",
-   "sections": [
-    11
-   ],
-   "lesson": "s11-l04"
-  },
-  {
-   "id": "c1eeb63d23",
-   "en": "focuses on",
-   "tr": "…e odaklanır",
-   "type": "kalip",
-   "sections": [
-    11
-   ],
-   "lesson": "s11-l04"
-  },
-  {
-   "id": "6980fef174",
-   "en": "expiration policy",
-   "tr": "göstergenin ne kadar süre sonra geçersiz sayılacağı kuralı",
-   "type": "terim",
    "sections": [
     11
    ],
@@ -13467,16 +12824,6 @@
    "lesson": "s11-l04"
   },
   {
-   "id": "644663ff1b",
-   "en": "should expire within",
-   "tr": "… içinde geçerliliğini yitirmeli",
-   "type": "kalip",
-   "sections": [
-    11
-   ],
-   "lesson": "s11-l04"
-  },
-  {
    "id": "945207ad5f",
    "en": "commodity malware",
    "tr": "hedefli olmayan, herkese bulaşan sıradan zararlı yazılım",
@@ -13493,62 +12840,6 @@
    "type": "terim",
    "sections": [
     11
-   ],
-   "lesson": "s11-l04"
-  },
-  {
-   "id": "cd82dcce4c",
-   "en": "when each is appropriate",
-   "tr": "hangisinin ne zaman uygun olduğu",
-   "type": "kalip",
-   "sections": [
-    11
-   ],
-   "lesson": "s11-l04"
-  },
-  {
-   "id": "da4dfe3f0b",
-   "en": "tracking",
-   "tr": "takip etme",
-   "type": "kalip",
-   "sections": [
-    11
-   ],
-   "lesson": "s11-l04"
-  },
-  {
-   "id": "338603763c",
-   "en": "confidence scoring",
-   "tr": "göstergeye güven derecesi verme",
-   "type": "terim",
-   "sections": [
-    11
-   ],
-   "lesson": "s11-l04"
-  },
-  {
-   "id": "8b324da851",
-   "en": "the exam's primary reference",
-   "tr": "sınav dili: bu konuda sınavın esas aldığı araç",
-   "type": "terim",
-   "sections": [
-    11
-   ],
-   "lesson": "s11-l04"
-  },
-  {
-   "id": "8a14711da8",
-   "en": "supports",
-   "tr": "destekler • …i destekler",
-   "type": "kalip",
-   "sections": [
-    11,
-    18,
-    20,
-    26,
-    29,
-    39,
-    42
    ],
    "lesson": "s11-l04"
   },
@@ -13585,61 +12876,9 @@
    "lesson": "s11-l05"
   },
   {
-   "id": "50f3d4fd67",
-   "en": "VirusTotal",
-   "tr": "dosya/URL'i onlarca antivirüse birden taratan servis",
-   "type": "terim",
-   "sections": [
-    11
-   ],
-   "lesson": "s11-l05"
-  },
-  {
-   "id": "a93a167ae3",
-   "en": "WHOIS",
-   "tr": "alan adının kime kayıtlı olduğunu ve ne zaman alındığını gösteren kayıt • alan adının kime, ne zaman kaydedildiğini gösteren sorgu",
-   "type": "terim",
-   "sections": [
-    11,
-    15
-   ],
-   "lesson": "s11-l05"
-  },
-  {
-   "id": "07db2f7f3a",
-   "en": "detection ratio",
-   "tr": "kaç motorun zararlı dediğini gösteren oran",
-   "type": "terim",
-   "sections": [
-    11
-   ],
-   "lesson": "s11-l05"
-  },
-  {
-   "id": "24d4f386f3",
-   "en": "independent sources",
-   "tr": "birbirinden bağımsız kaynaklar",
-   "type": "kalip",
-   "sections": [
-    11,
-    23
-   ],
-   "lesson": "s11-l05"
-  },
-  {
    "id": "b1eae88fa4",
    "en": "agreement across",
    "tr": "… arasında görüş birliği",
-   "type": "kalip",
-   "sections": [
-    11
-   ],
-   "lesson": "s11-l05"
-  },
-  {
-   "id": "2892ab1a04",
-   "en": "increases confidence",
-   "tr": "güveni artırır",
    "type": "kalip",
    "sections": [
     11
@@ -13678,16 +12917,6 @@
    "lesson": "s11-l05"
   },
   {
-   "id": "fb7c8610ef",
-   "en": "adds context to",
-   "tr": "…e bağlam ekler",
-   "type": "kalip",
-   "sections": [
-    11
-   ],
-   "lesson": "s11-l05"
-  },
-  {
    "id": "43f717cfa4",
    "en": "raw indicator",
    "tr": "ham gösterge",
@@ -13714,48 +12943,6 @@
    "type": "terim",
    "sections": [
     11
-   ],
-   "lesson": "s11-l05"
-  },
-  {
-   "id": "0b67cc6240",
-   "en": "potential impact",
-   "tr": "gerçekleşirse doğuracağı olası zarar",
-   "type": "terim",
-   "sections": [
-    11
-   ],
-   "lesson": "s11-l05"
-  },
-  {
-   "id": "9c64d92635",
-   "en": "uses three factors",
-   "tr": "üç faktör kullanır",
-   "type": "kalip",
-   "sections": [
-    11
-   ],
-   "lesson": "s11-l05"
-  },
-  {
-   "id": "35a24ef067",
-   "en": "severity",
-   "tr": "ciddiyet",
-   "type": "kalip",
-   "sections": [
-    11
-   ],
-   "lesson": "s11-l05"
-  },
-  {
-   "id": "8c542b469a",
-   "en": "false positive",
-   "tr": "zararlı sanılıp aslında masum çıkan bulgu • yanlış alarm; aslında zararsız olanın kötü sanılması • aslında olmayan bir zafiyetin var gibi bildirilmesi",
-   "type": "terim",
-   "sections": [
-    11,
-    16,
-    33
    ],
    "lesson": "s11-l05"
   },
@@ -13800,16 +12987,6 @@
    "lesson": "s11-l05"
   },
   {
-   "id": "5fd0566482",
-   "en": "a single dimension",
-   "tr": "tek bir boyut; sınav dili: buna göre seçmek yanlıştır",
-   "type": "terim",
-   "sections": [
-    11
-   ],
-   "lesson": "s11-l05"
-  },
-  {
    "id": "91f8203109",
    "en": "recency",
    "tr": "yenilik, güncellik",
@@ -13824,26 +13001,6 @@
    "en": "IAM access advisor",
    "tr": "AWS'te bir kimliğin hangi servisleri gerçekten kullandığını gösteren araç",
    "type": "terim",
-   "sections": [
-    11
-   ],
-   "lesson": "s11-l05"
-  },
-  {
-   "id": "877375a4d9",
-   "en": "the same workflow",
-   "tr": "aynı iş akışı",
-   "type": "kalip",
-   "sections": [
-    11
-   ],
-   "lesson": "s11-l05"
-  },
-  {
-   "id": "184298a28a",
-   "en": "different data sources",
-   "tr": "farklı veri kaynakları",
-   "type": "kalip",
    "sections": [
     11
    ],
@@ -13870,46 +13027,6 @@
    "lesson": "s11-l06"
   },
   {
-   "id": "cb35c602b5",
-   "en": "validated",
-   "tr": "doğrulanmış",
-   "type": "kalip",
-   "sections": [
-    11
-   ],
-   "lesson": "s11-l06"
-  },
-  {
-   "id": "5ed085decd",
-   "en": "matching",
-   "tr": "eşleştirme",
-   "type": "kalip",
-   "sections": [
-    11
-   ],
-   "lesson": "s11-l06"
-  },
-  {
-   "id": "13c4c9d369",
-   "en": "related activity",
-   "tr": "ilişkili faaliyet",
-   "type": "kalip",
-   "sections": [
-    11
-   ],
-   "lesson": "s11-l06"
-  },
-  {
-   "id": "54aa637c6f",
-   "en": "lookup table",
-   "tr": "eşleştirme için kullanılan referans tablo",
-   "type": "terim",
-   "sections": [
-    11
-   ],
-   "lesson": "s11-l06"
-  },
-  {
    "id": "4774d1054d",
    "en": "ingested log data",
    "tr": "SIEM'e alınmış log verisi",
@@ -13924,16 +13041,6 @@
    "en": "natively",
    "tr": "yerleşik olarak; ek araç gerekmeden",
    "type": "terim",
-   "sections": [
-    11
-   ],
-   "lesson": "s11-l06"
-  },
-  {
-   "id": "f4e270dfe7",
-   "en": "works by",
-   "tr": "şöyle çalışır",
-   "type": "kalip",
    "sections": [
     11
    ],
@@ -13970,91 +13077,10 @@
    "lesson": "s11-l06"
   },
   {
-   "id": "8682a3e301",
-   "en": "pushed into",
-   "tr": "…e itilir, aktarılır • …in içine beslenen",
-   "type": "kalip",
-   "sections": [
-    11,
-    22
-   ],
-   "lesson": "s11-l06"
-  },
-  {
-   "id": "ad97e39c81",
-   "en": "blocking execution",
-   "tr": "çalıştırmayı engelleyerek",
-   "type": "kalip",
-   "sections": [
-    11
-   ],
-   "lesson": "s11-l06"
-  },
-  {
-   "id": "50be392a20",
-   "en": "alert-only mode",
-   "tr": "engellemeden yalnızca uyaran mod; önce doğruluğu ölçmek için",
-   "type": "terim",
-   "sections": [
-    11
-   ],
-   "lesson": "s11-l06"
-  },
-  {
-   "id": "16062e7e54",
-   "en": "block mode",
-   "tr": "doğrudan engelleyen mod; yanlışsa iş durur",
-   "type": "terim",
-   "sections": [
-    11
-   ],
-   "lesson": "s11-l06"
-  },
-  {
-   "id": "b1e522e867",
-   "en": "legitimate files",
-   "tr": "meşru, gerçekten gerekli dosyalar",
-   "type": "terim",
-   "sections": [
-    11
-   ],
-   "lesson": "s11-l06"
-  },
-  {
-   "id": "e71efcd809",
-   "en": "lower-confidence",
-   "tr": "güveni düşük",
-   "type": "kalip",
-   "sections": [
-    11
-   ],
-   "lesson": "s11-l06"
-  },
-  {
    "id": "8da99cf825",
    "en": "gather confirmation",
    "tr": "teyit toplamak",
    "type": "kalip",
-   "sections": [
-    11
-   ],
-   "lesson": "s11-l06"
-  },
-  {
-   "id": "f90a6b2873",
-   "en": "before enabling",
-   "tr": "açmadan önce",
-   "type": "kalip",
-   "sections": [
-    11
-   ],
-   "lesson": "s11-l06"
-  },
-  {
-   "id": "acd7578a9c",
-   "en": "custom threat list",
-   "tr": "kendi eklediğin IP/alan adı listesi",
-   "type": "terim",
    "sections": [
     11
    ],
@@ -14072,17 +13098,6 @@
    "lesson": "s11-l06"
   },
   {
-   "id": "20c38b0be4",
-   "en": "integrate with",
-   "tr": "… ile entegre olur • …ile bütünleşir",
-   "type": "kalip",
-   "sections": [
-    11,
-    23
-   ],
-   "lesson": "s11-l06"
-  },
-  {
    "id": "d394e92d91",
    "en": "feeds back into",
    "tr": "geri besleme yapar; döngüyü kapatır • …e geri beslenir",
@@ -14094,16 +13109,6 @@
    "lesson": "s11-l06"
   },
   {
-   "id": "d108cabb46",
-   "en": "continuing",
-   "tr": "sürdürerek",
-   "type": "kalip",
-   "sections": [
-    11
-   ],
-   "lesson": "s11-l06"
-  },
-  {
    "id": "1b4b88bf31",
    "en": "operational context",
    "tr": "sahadaki koşullar; hangi ortamda çalıştığın • işletimsel bağlam; sahadaki gerçek koşullar",
@@ -14111,16 +13116,6 @@
    "sections": [
     11,
     34
-   ],
-   "lesson": "s11-l06"
-  },
-  {
-   "id": "0a030d43be",
-   "en": "which tools support each",
-   "tr": "hangi aracın hangisini desteklediği",
-   "type": "kalip",
-   "sections": [
-    11
    ],
    "lesson": "s11-l06"
   },
@@ -14145,26 +13140,6 @@
    "lesson": "s11-l06"
   },
   {
-   "id": "9395adff4c",
-   "en": "event data",
-   "tr": "olay verisi",
-   "type": "kalip",
-   "sections": [
-    11
-   ],
-   "lesson": "s11-l06"
-  },
-  {
-   "id": "3d436168f2",
-   "en": "established baselines",
-   "tr": "önceden ölçülüp kayda geçmiş normal davranış",
-   "type": "terim",
-   "sections": [
-    11
-   ],
-   "lesson": "s11-l07"
-  },
-  {
    "id": "46a95325d1",
    "en": "novel threats",
    "tr": "daha önce görülmemiş, yeni tehditler",
@@ -14182,16 +13157,6 @@
    "sections": [
     11,
     37
-   ],
-   "lesson": "s11-l07"
-  },
-  {
-   "id": "de24747895",
-   "en": "observed behavior",
-   "tr": "gözlemlenen davranış",
-   "type": "kalip",
-   "sections": [
-    11
    ],
    "lesson": "s11-l07"
   },
@@ -14216,64 +13181,12 @@
    "lesson": "s11-l07"
   },
   {
-   "id": "ed3040eeb4",
-   "en": "network segment",
-   "tr": "ağın belirli bir bölümü • ağın birbirinden ayrılmış bölümü",
-   "type": "terim",
-   "sections": [
-    11,
-    20
-   ],
-   "lesson": "s11-l07"
-  },
-  {
    "id": "f0823561c9",
    "en": "DGA",
    "tr": "Domain Generation Algorithm: zararlının rastgele alan adı üretmesi; engellemeyi zorlaştırır",
    "type": "terim",
    "sections": [
     11
-   ],
-   "lesson": "s11-l07"
-  },
-  {
-   "id": "e87a190dd9",
-   "en": "unexpected geographic destinations",
-   "tr": "hiç iş yapılmayan ülkelere giden bağlantılar",
-   "type": "terim",
-   "sections": [
-    11
-   ],
-   "lesson": "s11-l07"
-  },
-  {
-   "id": "f64f9c08bc",
-   "en": "outbound data volumes",
-   "tr": "dışa giden veri hacimleri",
-   "type": "kalip",
-   "sections": [
-    11
-   ],
-   "lesson": "s11-l07"
-  },
-  {
-   "id": "b98a962ae4",
-   "en": "randomly generated",
-   "tr": "rastgele üretilmiş",
-   "type": "kalip",
-   "sections": [
-    11
-   ],
-   "lesson": "s11-l07"
-  },
-  {
-   "id": "6279c0edfd",
-   "en": "process chain",
-   "tr": "hangi sürecin hangisini başlattığı zinciri • süreç zinciri; hangi süreç neyi doğurdu dizisi",
-   "type": "terim",
-   "sections": [
-    11,
-    13
    ],
    "lesson": "s11-l07"
   },
@@ -14299,101 +13212,10 @@
    "lesson": "s11-l07"
   },
   {
-   "id": "dc83eeab5e",
-   "en": "login times or locations",
-   "tr": "oturum açma saatleri veya konumları",
-   "type": "kalip",
-   "sections": [
-    11
-   ],
-   "lesson": "s11-l07"
-  },
-  {
    "id": "082ce9f461",
    "en": "Event ID 4698",
    "tr": "zamanlanmış görev oluşturuldu",
    "type": "terim",
-   "sections": [
-    11
-   ],
-   "lesson": "s11-l07"
-  },
-  {
-   "id": "3a3215df18",
-   "en": "logon success/failure",
-   "tr": "oturum açma başarılı/başarısız",
-   "type": "kalip",
-   "sections": [
-    11
-   ],
-   "lesson": "s11-l07"
-  },
-  {
-   "id": "0c93478b0b",
-   "en": "rule-based detection",
-   "tr": "önceden yazılmış kurallara dayanan tespit; sabit olduğu için yeniyi kaçırır",
-   "type": "terim",
-   "sections": [
-    11
-   ],
-   "lesson": "s11-l07"
-  },
-  {
-   "id": "dad3b4d79f",
-   "en": "machine learning",
-   "tr": "makine öğrenmesi",
-   "type": "kalip",
-   "sections": [
-    11,
-    23
-   ],
-   "lesson": "s11-l07"
-  },
-  {
-   "id": "23803f6cf4",
-   "en": "would miss",
-   "tr": "kaçırırdı",
-   "type": "kalip",
-   "sections": [
-    11
-   ],
-   "lesson": "s11-l07"
-  },
-  {
-   "id": "c8b7270796",
-   "en": "tuning thresholds",
-   "tr": "eşik değerleri ayarlayarak gürültüyü azaltma",
-   "type": "terim",
-   "sections": [
-    11
-   ],
-   "lesson": "s11-l07"
-  },
-  {
-   "id": "5c1273cc51",
-   "en": "not disabling detection",
-   "tr": "sınav dili: tespiti kapatmak asla doğru cevap değildir",
-   "type": "terim",
-   "sections": [
-    11
-   ],
-   "lesson": "s11-l07"
-  },
-  {
-   "id": "03a036b854",
-   "en": "produces more",
-   "tr": "daha fazla … üretir",
-   "type": "kalip",
-   "sections": [
-    11
-   ],
-   "lesson": "s11-l07"
-  },
-  {
-   "id": "b5d6fccd33",
-   "en": "signature-based",
-   "tr": "imza tabanlı",
-   "type": "kalip",
    "sections": [
     11
    ],
@@ -14414,16 +13236,6 @@
    "id": "05b23453b1",
    "en": "known-good patterns",
    "tr": "zararsız olduğu bilinen örüntüler",
-   "type": "terim",
-   "sections": [
-    11
-   ],
-   "lesson": "s11-l07"
-  },
-  {
-   "id": "4ef466a900",
-   "en": "is never correct",
-   "tr": "sınav dili: hiçbir zaman doğru cevap değildir",
    "type": "terim",
    "sections": [
     11
@@ -14456,26 +13268,6 @@
    "en": "ML-driven",
    "tr": "makine öğrenmesi güdümlü",
    "type": "terim",
-   "sections": [
-    11
-   ],
-   "lesson": "s11-l07"
-  },
-  {
-   "id": "7c941f3233",
-   "en": "referenced in this objective",
-   "tr": "sınav dili: bu hedefte adı geçen araçlar",
-   "type": "terim",
-   "sections": [
-    11
-   ],
-   "lesson": "s11-l07"
-  },
-  {
-   "id": "b1fd7adb00",
-   "en": "primary platforms",
-   "tr": "başlıca platformlar",
-   "type": "kalip",
    "sections": [
     11
    ],
