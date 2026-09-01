@@ -473,27 +473,31 @@ function isaretle(id, dogru){
   S.bekleyen[id] = d;
   kaydetGecikmeli();
 }
-function kaydetGecikmeli(){
-  $("#kayitDurumu").textContent = "kaydediliyor…";
-  clearTimeout(S.zamanlayici);
-  // Her cevapta tek tek yazmak yerine biriktir: 9000 kartlık dosyayı
-  // saniyede birkaç kez yeniden yazmanın anlamı yok.
-  S.zamanlayici = setTimeout(async () => {
-    const yuk = S.bekleyen;
-    S.bekleyen = {};
-    if (!Object.keys(yuk).length){ $("#kayitDurumu").textContent = ""; return; }
-    try {
-      await Depo.ilerlemeYaz(yuk);
-      $("#kayitDurumu").textContent = "kaydedildi ✓";
-      setTimeout(() => {
-        if ($("#kayitDurumu").textContent === "kaydedildi ✓") $("#kayitDurumu").textContent = "";
-      }, 1800);
-    } catch(e){
-      Object.assign(S.bekleyen, yuk);   // kaybetme, sonraki turda yeniden dene
-      $("#kayitDurumu").textContent = "kaydedilemedi!";
-    }
-  }, 900);
-}
+function kaydetGecikmeli() {
+        // $("#kayitDurumu").textContent = "kaydediliyor…";
+        clearTimeout(S.zamanlayici);
+        // Her cevapta tek tek yazmak yerine biriktir: 9000 kartlık dosyayı
+        // saniyede birkaç kez yeniden yazmanın anlamı yok.
+        S.zamanlayici = setTimeout(async () => {
+          const yuk = S.bekleyen;
+          S.bekleyen = {};
+          if (!Object.keys(yuk).length) {
+            // $("#kayitDurumu").textContent = "";
+            return;
+          }
+          try {
+            await Depo.ilerlemeYaz(yuk);
+            // $("#kayitDurumu").textContent = "kaydedildi ✓";
+            // setTimeout(() => {
+            //   if ($("#kayitDurumu").textContent === "kaydedildi ✓")
+            //     $("#kayitDurumu").textContent = "";
+            // }, 1800);
+          } catch (e) {
+            Object.assign(S.bekleyen, yuk); // kaybetme, sonraki turda yeniden dene
+            $("#kayitDurumu").textContent = "kaydedilemedi!";
+          }
+        }, 900);
+      }
 
 /* ---------- havuz ---------- */
 function havuz(){
