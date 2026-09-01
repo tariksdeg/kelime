@@ -2019,21 +2019,6 @@
    "lesson": "s02-l04"
   },
   {
-   "id": "01bada1524",
-   "en": "baseline",
-   "tr": "normalin ne olduğunu kaydeden referans; sapma ancak buna göre ölçülür • temel seviye, çıkış noktası • normal davranış temeli • normal ağ davranışının belgelenmiş kaydı; sapma buna göre ölçülür • normalin ölçülüp kayda geçirilmiş hâli • normalini öğrenip referans alır",
-   "type": "terim",
-   "sections": [
-    2,
-    7,
-    9,
-    12,
-    13,
-    16
-   ],
-   "lesson": "s02-l04"
-  },
-  {
    "id": "ec96667ac8",
    "en": "documents",
    "tr": "kayıt altına alır, belgeler • belgeler, kayda geçirir",
@@ -3646,20 +3631,6 @@
    "type": "terim",
    "sections": [
     3
-   ],
-   "lesson": "s03-l07"
-  },
-  {
-   "id": "4f6ba1d6e0",
-   "en": "identifies",
-   "tr": "belirler • belirler, tanımlar • belirler, tespit eder • belirler, ortaya koyar",
-   "type": "kalip",
-   "sections": [
-    3,
-    6,
-    12,
-    13,
-    32
    ],
    "lesson": "s03-l07"
   },
@@ -6491,17 +6462,6 @@
    "lesson": "s05-l06"
   },
   {
-   "id": "fd7756f9a9",
-   "en": "baselining",
-   "tr": "normalin ne olduğunu ölçüp kaydetme; sapma ancak buna göre anlaşılır • normal davranışı ölçüp kaydetme",
-   "type": "terim",
-   "sections": [
-    5,
-    12
-   ],
-   "lesson": "s05-l06"
-  },
-  {
    "id": "9e36086a18",
    "en": "deviations",
    "tr": "sapmalar, normalden ayrılmalar • sapmalar",
@@ -6529,17 +6489,6 @@
    "type": "kalip",
    "sections": [
     5
-   ],
-   "lesson": "s05-l06"
-  },
-  {
-   "id": "7c017b9ec8",
-   "en": "beaconing",
-   "tr": "ele geçmiş makinenin düzenli aralıklarla dışarı \"buradayım\" sinyali göndermesi; C2'nin klasik işareti • ele geçmiş makinenin düzenli aralıklarla saldırgan sunucusuna bağlanması",
-   "type": "terim",
-   "sections": [
-    5,
-    12
    ],
    "lesson": "s05-l06"
   },
@@ -11680,17 +11629,6 @@
    "lesson": "s10-l03"
   },
   {
-   "id": "77c3cf9ba4",
-   "en": "precisely",
-   "tr": "tam olarak, kesin biçimde",
-   "type": "kalip",
-   "sections": [
-    10,
-    12
-   ],
-   "lesson": "s10-l03"
-  },
-  {
    "id": "0b8a1caec2",
    "en": "broken",
    "tr": "kırılmış; artık güvenli kabul edilmeyen",
@@ -13274,26 +13212,6 @@
    "lesson": "s11-l07"
   },
   {
-   "id": "eaeb25eaf1",
-   "en": "signals to correlate, not proof",
-   "tr": "sınav dili: bunlar ilişkilendirilecek sinyaldir, tek başına kanıt sayılmaz",
-   "type": "terim",
-   "sections": [
-    12
-   ],
-   "lesson": "s12-l01"
-  },
-  {
-   "id": "623555c2c0",
-   "en": "network-level",
-   "tr": "ağ seviyesindeki",
-   "type": "kalip",
-   "sections": [
-    12
-   ],
-   "lesson": "s12-l01"
-  },
-  {
    "id": "fd0a4950be",
    "en": "suggest",
    "tr": "düşündürür, ima eder • düşündürür, işaret eder",
@@ -13301,37 +13219,6 @@
    "sections": [
     12,
     14
-   ],
-   "lesson": "s12-l01"
-  },
-  {
-   "id": "4d0bd32d86",
-   "en": "enumeration",
-   "tr": "saldırganın ortamı haritalamak için yaptığı aktif tarama • saldırmadan önce ortamda ne olduğunu aktif olarak çıkarma • bulunan hedefin ayrıntılarının tek tek çıkarılması",
-   "type": "terim",
-   "sections": [
-    12,
-    29
-   ],
-   "lesson": "s12-l01"
-  },
-  {
-   "id": "a056d5725a",
-   "en": "unexpected ports",
-   "tr": "beklenmedik port üzerinde görülen faaliyet",
-   "type": "terim",
-   "sections": [
-    12
-   ],
-   "lesson": "s12-l01"
-  },
-  {
-   "id": "0cf08a7994",
-   "en": "tested on the exam",
-   "tr": "sınavda sorulan",
-   "type": "kalip",
-   "sections": [
-    12
    ],
    "lesson": "s12-l01"
   },
@@ -13366,101 +13253,10 @@
    "lesson": "s12-l01"
   },
   {
-   "id": "1b5b14c3d4",
-   "en": "uniquely powerful",
-   "tr": "eşsiz derecede güçlü",
-   "type": "kalip",
-   "sections": [
-    12
-   ],
-   "lesson": "s12-l01"
-  },
-  {
-   "id": "daed8ef282",
-   "en": "revealing",
-   "tr": "ortaya çıkararak",
-   "type": "kalip",
-   "sections": [
-    12
-   ],
-   "lesson": "s12-l01"
-  },
-  {
    "id": "3acf9d2e5f",
    "en": "a documented picture of normal",
    "tr": "normalin yazıya dökülmüş hâli",
    "type": "terim",
-   "sections": [
-    12
-   ],
-   "lesson": "s12-l01"
-  },
-  {
-   "id": "da7630d6af",
-   "en": "depend on",
-   "tr": "…e bağlıdır",
-   "type": "kalip",
-   "sections": [
-    12
-   ],
-   "lesson": "s12-l01"
-  },
-  {
-   "id": "b8441bd941",
-   "en": "be identified",
-   "tr": "belirlenmek",
-   "type": "kalip",
-   "sections": [
-    12
-   ],
-   "lesson": "s12-l01"
-  },
-  {
-   "id": "3f07e4022f",
-   "en": "question stems",
-   "tr": "soru kökleri; sorunun asıl metni",
-   "type": "terim",
-   "sections": [
-    12
-   ],
-   "lesson": "s12-l01"
-  },
-  {
-   "id": "ddfa8c3fd6",
-   "en": "blur the boundaries",
-   "tr": "sınav dili: sınırları bilerek bulanıklaştırır, ayrımı zorlaştırır",
-   "type": "terim",
-   "sections": [
-    12
-   ],
-   "lesson": "s12-l01"
-  },
-  {
-   "id": "b554e8bfa4",
-   "en": "correlation rules",
-   "tr": "birden çok olayı birleştirip alarm üreten SIEM kuralları",
-   "type": "terim",
-   "sections": [
-    12,
-    14
-   ],
-   "lesson": "s12-l01"
-  },
-  {
-   "id": "0e806ab450",
-   "en": "primary data sources",
-   "tr": "başlıca veri kaynakları",
-   "type": "kalip",
-   "sections": [
-    12
-   ],
-   "lesson": "s12-l01"
-  },
-  {
-   "id": "cab48d2189",
-   "en": "query logs",
-   "tr": "sorgu kayıtları",
-   "type": "kalip",
    "sections": [
     12
    ],
@@ -13474,26 +13270,6 @@
    "sections": [
     12,
     16
-   ],
-   "lesson": "s12-l02"
-  },
-  {
-   "id": "027e09ef15",
-   "en": "network-observable signals",
-   "tr": "ağ üzerinden görülebilen izler",
-   "type": "terim",
-   "sections": [
-    12
-   ],
-   "lesson": "s12-l02"
-  },
-  {
-   "id": "72debf62b0",
-   "en": "every stage",
-   "tr": "her aşama",
-   "type": "kalip",
-   "sections": [
-    12
    ],
    "lesson": "s12-l02"
   },
@@ -13513,149 +13289,12 @@
    "lesson": "s12-l02"
   },
   {
-   "id": "1eb8a1269b",
-   "en": "what matters most",
-   "tr": "en önemli olan",
-   "type": "kalip",
-   "sections": [
-    12
-   ],
-   "lesson": "s12-l02"
-  },
-  {
-   "id": "a5cc6d3a4b",
-   "en": "reconnaissance",
-   "tr": "keşif: saldırının hedefi tanıma aşaması • hedef hakkında bilgi toplama taktiği",
-   "type": "terim",
-   "sections": [
-    12,
-    23
-   ],
-   "lesson": "s12-l02"
-  },
-  {
    "id": "6fc56818a3",
    "en": "probe traffic",
    "tr": "yoklama trafiği; \"burada ne var\" diye gönderilen paketler",
    "type": "terim",
    "sections": [
     12
-   ],
-   "lesson": "s12-l02"
-  },
-  {
-   "id": "bb276bf7cd",
-   "en": "signatures",
-   "tr": "imzalar • saldırıyı tanıtan karakteristik izler",
-   "type": "terim",
-   "sections": [
-    12,
-    14
-   ],
-   "lesson": "s12-l02"
-  },
-  {
-   "id": "653e27be64",
-   "en": "attacker infrastructure",
-   "tr": "saldırganın kontrol ettiği sunucu/alan adı altyapısı",
-   "type": "terim",
-   "sections": [
-    12
-   ],
-   "lesson": "s12-l02"
-  },
-  {
-   "id": "414c33342c",
-   "en": "regular-interval",
-   "tr": "düzenli aralıklı; bu mekanik düzen insan davranışında görülmez",
-   "type": "terim",
-   "sections": [
-    12
-   ],
-   "lesson": "s12-l02"
-  },
-  {
-   "id": "24c5fb1493",
-   "en": "produces",
-   "tr": "üretir, ortaya çıkarır • üretir",
-   "type": "kalip",
-   "sections": [
-    12,
-    21,
-    23,
-    28,
-    31
-   ],
-   "lesson": "s12-l02"
-  },
-  {
-   "id": "f6da4c43db",
-   "en": "compromised host",
-   "tr": "ele geçirilmiş makine",
-   "type": "kalip",
-   "sections": [
-    12
-   ],
-   "lesson": "s12-l02"
-  },
-  {
-   "id": "3ee3981c43",
-   "en": "perimeter-focused monitoring",
-   "tr": "yalnızca dış sınıra bakan izleme; içerideki hareketi göremez",
-   "type": "terim",
-   "sections": [
-    12
-   ],
-   "lesson": "s12-l02"
-  },
-  {
-   "id": "97d5ee7f58",
-   "en": "misses entirely",
-   "tr": "tamamen kaçırır",
-   "type": "kalip",
-   "sections": [
-    12
-   ],
-   "lesson": "s12-l02"
-  },
-  {
-   "id": "c94ee8f6a4",
-   "en": "between hosts",
-   "tr": "makineler arası",
-   "type": "kalip",
-   "sections": [
-    12
-   ],
-   "lesson": "s12-l02"
-  },
-  {
-   "id": "6f78efd3e5",
-   "en": "volume analysis",
-   "tr": "hacim analizi: ne kadar veri aktığına bakma",
-   "type": "terim",
-   "sections": [
-    12
-   ],
-   "lesson": "s12-l02"
-  },
-  {
-   "id": "2d69017a1d",
-   "en": "outbound transfers",
-   "tr": "dışa aktarımlar",
-   "type": "kalip",
-   "sections": [
-    12
-   ],
-   "lesson": "s12-l02"
-  },
-  {
-   "id": "8fb1f31c48",
-   "en": "detectable via",
-   "tr": "… ile tespit edilebilir • …yoluyla tespit edilebilir",
-   "type": "kalip",
-   "sections": [
-    12,
-    14
    ],
    "lesson": "s12-l02"
   },
@@ -13673,16 +13312,6 @@
    "id": "f236036797",
    "en": "DNS amplification",
    "tr": "küçük sorguya büyük yanıt döndürtüp DDoS hacmini katlama",
-   "type": "terim",
-   "sections": [
-    12
-   ],
-   "lesson": "s12-l02"
-  },
-  {
-   "id": "de06adffb9",
-   "en": "encoded subdomain strings",
-   "tr": "kodlanmış, uzun ve anlamsız görünen alt alan adları",
    "type": "terim",
    "sections": [
     12
@@ -13710,26 +13339,6 @@
    "lesson": "s12-l02"
   },
   {
-   "id": "75f59e2267",
-   "en": "behavioral patterns",
-   "tr": "davranış örüntüleri",
-   "type": "kalip",
-   "sections": [
-    12
-   ],
-   "lesson": "s12-l02"
-  },
-  {
-   "id": "b8b51722a6",
-   "en": "know these mappings",
-   "tr": "sınav dili: bu eşleşmeleri ezberle",
-   "type": "terim",
-   "sections": [
-    12
-   ],
-   "lesson": "s12-l02"
-  },
-  {
    "id": "db4966ba67",
    "en": "represents",
    "tr": "temsil eder, karşılık gelir",
@@ -13740,39 +13349,9 @@
    "lesson": "s12-l02"
   },
   {
-   "id": "47b23146ba",
-   "en": "host-to-host",
-   "tr": "makineden makineye",
-   "type": "kalip",
-   "sections": [
-    12
-   ],
-   "lesson": "s12-l02"
-  },
-  {
    "id": "5e5caaac39",
    "en": "ARP poisoning",
    "tr": "sahte ARP yanıtlarıyla trafiği kendi üzerine çekme",
-   "type": "terim",
-   "sections": [
-    12
-   ],
-   "lesson": "s12-l02"
-  },
-  {
-   "id": "898915b104",
-   "en": "man-in-the-middle",
-   "tr": "araya girip trafiği dinleme/değiştirme",
-   "type": "terim",
-   "sections": [
-    12
-   ],
-   "lesson": "s12-l02"
-  },
-  {
-   "id": "d3ed668dc9",
-   "en": "single IP mapped to multiple MACs",
-   "tr": "tek IP'nin birden çok fiziksel adrese düşmesi; zehirlemenin klasik izi",
    "type": "terim",
    "sections": [
     12
@@ -13810,63 +13389,12 @@
    "lesson": "s12-l03"
   },
   {
-   "id": "38d288b0f9",
-   "en": "without authorization",
-   "tr": "izinsiz olarak",
-   "type": "kalip",
-   "sections": [
-    12
-   ],
-   "lesson": "s12-l03"
-  },
-  {
-   "id": "a8d660c34f",
-   "en": "types include",
-   "tr": "türleri arasında … var",
-   "type": "kalip",
-   "sections": [
-    12
-   ],
-   "lesson": "s12-l03"
-  },
-  {
    "id": "3a7b66842b",
    "en": "prerequisite",
    "tr": "ön koşul; bu olmadan diğeri yapılamaz",
    "type": "terim",
    "sections": [
     12
-   ],
-   "lesson": "s12-l03"
-  },
-  {
-   "id": "9f2a039adf",
-   "en": "must be documented",
-   "tr": "kayda geçirilmiş olmalı",
-   "type": "kalip",
-   "sections": [
-    12
-   ],
-   "lesson": "s12-l03"
-  },
-  {
-   "id": "ad9105d7de",
-   "en": "before … can be identified",
-   "tr": "… belirlenebilmeden önce",
-   "type": "kalip",
-   "sections": [
-    12
-   ],
-   "lesson": "s12-l03"
-  },
-  {
-   "id": "559aacc436",
-   "en": "host discovery",
-   "tr": "ağda hangi IP'lerin canlı olduğunu bulma taraması • ağda hangi makinelerin ayakta olduğunun bulunması",
-   "type": "terim",
-   "sections": [
-    12,
-    29
    ],
    "lesson": "s12-l03"
   },
@@ -13885,16 +13413,6 @@
    "en": "Raspberry Pi implant",
    "tr": "ağa gizlice bırakılmış küçük bilgisayar; OUI'den tanınabilir",
    "type": "terim",
-   "sections": [
-    12
-   ],
-   "lesson": "s12-l03"
-  },
-  {
-   "id": "bd33a02517",
-   "en": "octets",
-   "tr": "sekizli, bayt",
-   "type": "kalip",
    "sections": [
     12
    ],
@@ -13961,18 +13479,6 @@
    "lesson": "s12-l03"
   },
   {
-   "id": "2378d3ac11",
-   "en": "the primary tool",
-   "tr": "başlıca araç",
-   "type": "kalip",
-   "sections": [
-    12,
-    28,
-    37
-   ],
-   "lesson": "s12-l03"
-  },
-  {
    "id": "1d7bef9c78",
    "en": "broadcasting nearby",
    "tr": "yakında yayın yapan",
@@ -14023,91 +13529,10 @@
    "lesson": "s12-l03"
   },
   {
-   "id": "ed2e599080",
-   "en": "is distinct from",
-   "tr": "…den farklıdır • …den ayrı bir şeydir",
-   "type": "terim",
-   "sections": [
-    12,
-    32
-   ],
-   "lesson": "s12-l03"
-  },
-  {
-   "id": "23b7fa2325",
-   "en": "prevention layer",
-   "tr": "önleme katmanı; olay olmadan durdurur",
-   "type": "terim",
-   "sections": [
-    12
-   ],
-   "lesson": "s12-l03"
-  },
-  {
-   "id": "b2473956eb",
-   "en": "quarantining",
-   "tr": "karantinaya alma",
-   "type": "terim",
-   "sections": [
-    12
-   ],
-   "lesson": "s12-l03"
-  },
-  {
-   "id": "589b10af4b",
-   "en": "gain network access",
-   "tr": "ağa erişim kazanmak",
-   "type": "kalip",
-   "sections": [
-    12
-   ],
-   "lesson": "s12-l03"
-  },
-  {
-   "id": "20b460b104",
-   "en": "tests this difference directly",
-   "tr": "sınav dili: bu farkı doğrudan sorar",
-   "type": "terim",
-   "sections": [
-    12
-   ],
-   "lesson": "s12-l03"
-  },
-  {
    "id": "926d1f0b51",
    "en": "credential interception",
    "tr": "kimlik bilgisinin yolda yakalanması",
    "type": "terim",
-   "sections": [
-    12
-   ],
-   "lesson": "s12-l03"
-  },
-  {
-   "id": "05c2ef1948",
-   "en": "gives network access",
-   "tr": "ağ erişimi sağlar",
-   "type": "kalip",
-   "sections": [
-    12
-   ],
-   "lesson": "s12-l03"
-  },
-  {
-   "id": "98d1c128ef",
-   "en": "high-priority findings",
-   "tr": "yüksek öncelikli bulgular",
-   "type": "terim",
-   "sections": [
-    12
-   ],
-   "lesson": "s12-l03"
-  },
-  {
-   "id": "6f19ad7555",
-   "en": "changes suddenly",
-   "tr": "aniden değişir",
-   "type": "kalip",
    "sections": [
     12
    ],
@@ -14144,18 +13569,6 @@
    "lesson": "s12-l04"
   },
   {
-   "id": "51e3d9c9d8",
-   "en": "observable",
-   "tr": "gözlemlenebilir • gözlemlenmiş ama henüz değerlendirilmemiş ham veri (IP, hash, alan adı)",
-   "type": "terim",
-   "sections": [
-    12,
-    13,
-    23
-   ],
-   "lesson": "s12-l04"
-  },
-  {
    "id": "3772327cac",
    "en": "banner grabbing",
    "tr": "servise bağlanıp kendini tanıttığı yanıttan sürüm bilgisi çıkarma • servisin kendini tanıttığı metni okuyup sürüm öğrenme",
@@ -14167,45 +13580,12 @@
    "lesson": "s12-l04"
   },
   {
-   "id": "347f46759a",
-   "en": "OS fingerprinting",
-   "tr": "paket davranışından işletim sistemini tahmin etme • işletim sisteminin davranışından türünün belirlenmesi",
-   "type": "terim",
-   "sections": [
-    12,
-    29
-   ],
-   "lesson": "s12-l04"
-  },
-  {
    "id": "732712999b",
    "en": "SMB / LDAP / SNMP",
    "tr": "dosya paylaşımı / dizin sorgulama / cihaz izleme protokolleri; hepsi enumeration için kullanılır",
    "type": "terim",
    "sections": [
     12
-   ],
-   "lesson": "s12-l04"
-  },
-  {
-   "id": "061b4d0ca9",
-   "en": "live IPs",
-   "tr": "canlı, yanıt veren IP'ler • canlı adresler",
-   "type": "kalip",
-   "sections": [
-    12,
-    29
-   ],
-   "lesson": "s12-l04"
-  },
-  {
-   "id": "3950f1dd2b",
-   "en": "open ports",
-   "tr": "açık portlar",
-   "type": "kalip",
-   "sections": [
-    12,
-    28
    ],
    "lesson": "s12-l04"
   },
@@ -14230,40 +13610,10 @@
    "lesson": "s12-l04"
   },
   {
-   "id": "4723deb7fc",
-   "en": "distinct destination ports",
-   "tr": "birbirinden farklı hedef portlar; sayıları taramayı ele verir",
-   "type": "terim",
-   "sections": [
-    12
-   ],
-   "lesson": "s12-l04"
-  },
-  {
-   "id": "63d62d4aee",
-   "en": "trigger",
-   "tr": "tetikler",
-   "type": "kalip",
-   "sections": [
-    12
-   ],
-   "lesson": "s12-l04"
-  },
-  {
    "id": "3c95ae5549",
    "en": "over an extended period",
    "tr": "uzun bir süre boyunca",
    "type": "kalip",
-   "sections": [
-    12
-   ],
-   "lesson": "s12-l04"
-  },
-  {
-   "id": "e51e6889bc",
-   "en": "authorized vulnerability scanner",
-   "tr": "kurumun kendi izinli zafiyet tarayıcısı",
-   "type": "terim",
    "sections": [
     12
    ],
@@ -14284,16 +13634,6 @@
    "en": "identical to",
    "tr": "… ile birebir aynı",
    "type": "terim",
-   "sections": [
-    12
-   ],
-   "lesson": "s12-l04"
-  },
-  {
-   "id": "432f62c7a7",
-   "en": "produce",
-   "tr": "üretir",
-   "type": "kalip",
    "sections": [
     12
    ],
@@ -14332,16 +13672,6 @@
    "lesson": "s12-l04"
   },
   {
-   "id": "4c0c7b9f4b",
-   "en": "privilege escalation paths",
-   "tr": "sıradan hesaptan yönetici olmaya giden yollar",
-   "type": "terim",
-   "sections": [
-    12
-   ],
-   "lesson": "s12-l04"
-  },
-  {
    "id": "250397657f",
    "en": "Discovery tactic",
    "tr": "ATT&CK'te ortamı tanıma taktiği",
@@ -14372,26 +13702,6 @@
    "lesson": "s12-l04"
   },
   {
-   "id": "d9d76bfc35",
-   "en": "network topology",
-   "tr": "ağın haritası: hangi cihaz nereye bağlı",
-   "type": "terim",
-   "sections": [
-    12
-   ],
-   "lesson": "s12-l04"
-  },
-  {
-   "id": "70d386abf0",
-   "en": "cleartext",
-   "tr": "düz metin, şifrelenmemiş",
-   "type": "terim",
-   "sections": [
-    12
-   ],
-   "lesson": "s12-l04"
-  },
-  {
    "id": "acbd4a8b41",
    "en": "exposes",
    "tr": "açığa çıkarır",
@@ -14408,18 +13718,6 @@
    "type": "kalip",
    "sections": [
     12
-   ],
-   "lesson": "s12-l04"
-  },
-  {
-   "id": "034433e5ab",
-   "en": "adds",
-   "tr": "ekler • ek olarak getirir",
-   "type": "kalip",
-   "sections": [
-    12,
-    13,
-    17
    ],
    "lesson": "s12-l04"
   },
@@ -14444,16 +13742,6 @@
    "lesson": "s12-l04"
   },
   {
-   "id": "08d9e0d134",
-   "en": "volume alone is insufficient",
-   "tr": "sınav dili: yalnız hacme bakarak karar verme",
-   "type": "terim",
-   "sections": [
-    12
-   ],
-   "lesson": "s12-l04"
-  },
-  {
    "id": "8bc0a0c18f",
    "en": "evaluating",
    "tr": "değerlendirirken",
@@ -14461,16 +13749,6 @@
    "sections": [
     12,
     13
-   ],
-   "lesson": "s12-l04"
-  },
-  {
-   "id": "34985cba82",
-   "en": "internal or external",
-   "tr": "iç mi dış mı",
-   "type": "kalip",
-   "sections": [
-    12
    ],
    "lesson": "s12-l04"
   },
@@ -14489,16 +13767,6 @@
    "en": "Event ID 4661",
    "tr": "dizin servisi nesnesine erişim kaydı; AD enumeration izidir",
    "type": "terim",
-   "sections": [
-    12
-   ],
-   "lesson": "s12-l04"
-  },
-  {
-   "id": "e2fafa462f",
-   "en": "directory service access",
-   "tr": "dizin servisi erişimi",
-   "type": "kalip",
    "sections": [
     12
    ],
@@ -14525,16 +13793,6 @@
    "lesson": "s12-l05"
   },
   {
-   "id": "2dc6d75246",
-   "en": "major categories",
-   "tr": "ana kategoriler",
-   "type": "kalip",
-   "sections": [
-    12
-   ],
-   "lesson": "s12-l05"
-  },
-  {
    "id": "b21e5734a0",
    "en": "rolling averages",
    "tr": "hareketli ortalama: son X günün ortalamasıyla kıyaslama • sürekli kayan pencere üzerinden alınan ortalamalar",
@@ -14542,56 +13800,6 @@
    "sections": [
     12,
     43
-   ],
-   "lesson": "s12-l05"
-  },
-  {
-   "id": "aa639a6394",
-   "en": "statistical queries",
-   "tr": "istatistiksel sorgular; ortalama/sapma hesaplayan aramalar",
-   "type": "terim",
-   "sections": [
-    12
-   ],
-   "lesson": "s12-l05"
-  },
-  {
-   "id": "94f5cbc405",
-   "en": "far above or below",
-   "tr": "çok üstünde veya altında",
-   "type": "kalip",
-   "sections": [
-    12
-   ],
-   "lesson": "s12-l05"
-  },
-  {
-   "id": "f78c3dc41d",
-   "en": "normal ranges",
-   "tr": "normal aralıklar",
-   "type": "kalip",
-   "sections": [
-    12
-   ],
-   "lesson": "s12-l05"
-  },
-  {
-   "id": "a5346ce43b",
-   "en": "comparing … to",
-   "tr": "…i … ile karşılaştıran",
-   "type": "kalip",
-   "sections": [
-    12
-   ],
-   "lesson": "s12-l05"
-  },
-  {
-   "id": "d00f533f8d",
-   "en": "protocol anomaly",
-   "tr": "protokolün beklenmedik yerde veya beklenmedik biçimde kullanılması",
-   "type": "terim",
-   "sections": [
-    12
    ],
    "lesson": "s12-l05"
   },
@@ -14626,60 +13834,10 @@
    "lesson": "s12-l05"
   },
   {
-   "id": "baa38c7815",
-   "en": "abnormally",
-   "tr": "anormal biçimde",
-   "type": "kalip",
-   "sections": [
-    12
-   ],
-   "lesson": "s12-l05"
-  },
-  {
-   "id": "d8f912f0bf",
-   "en": "non-standard ports",
-   "tr": "standart dışı portlar",
-   "type": "kalip",
-   "sections": [
-    12
-   ],
-   "lesson": "s12-l05"
-  },
-  {
-   "id": "a89fc2c4e6",
-   "en": "behavioral anomaly",
-   "tr": "normalde konuşmayan iki host'un konuşmaya başlaması gibi ilişki anomalisi",
-   "type": "terim",
-   "sections": [
-    12
-   ],
-   "lesson": "s12-l05"
-  },
-  {
    "id": "fab2f51397",
    "en": "NDR",
    "tr": "ağ trafiğini öğrenip anormalliği tespit eden ve müdahale eden araç sınıfı",
    "type": "terim",
-   "sections": [
-    12
-   ],
-   "lesson": "s12-l05"
-  },
-  {
-   "id": "f446dd5c66",
-   "en": "per device",
-   "tr": "cihaz başına ayrı ayrı",
-   "type": "terim",
-   "sections": [
-    12
-   ],
-   "lesson": "s12-l05"
-  },
-  {
-   "id": "afa094061b",
-   "en": "communication relationships",
-   "tr": "iletişim ilişkileri",
-   "type": "kalip",
    "sections": [
     12
    ],
@@ -14706,42 +13864,9 @@
    "lesson": "s12-l05"
   },
   {
-   "id": "44437ee581",
-   "en": "at regular intervals",
-   "tr": "düzenli aralıklarla; mekanik düzen insan işi değildir • düzenli aralıklarla; mekanik düzen insan davranışında görülmez • düzenli aralıklarla",
-   "type": "terim",
-   "sections": [
-    12,
-    17,
-    38,
-    42
-   ],
-   "lesson": "s12-l05"
-  },
-  {
-   "id": "9ceee82eb3",
-   "en": "ML models",
-   "tr": "makine öğrenmesi modelleri",
-   "type": "terim",
-   "sections": [
-    12
-   ],
-   "lesson": "s12-l05"
-  },
-  {
    "id": "1897779fdc",
    "en": "occurring at",
    "tr": "… zamanında gerçekleşen",
-   "type": "kalip",
-   "sections": [
-    12
-   ],
-   "lesson": "s12-l05"
-  },
-  {
-   "id": "9ebad64e5d",
-   "en": "catch",
-   "tr": "yakalar",
    "type": "kalip",
    "sections": [
     12
@@ -14753,16 +13878,6 @@
    "en": "associated detection tools",
    "tr": "her kategoriye karşılık gelen tespit araçları",
    "type": "terim",
-   "sections": [
-    12
-   ],
-   "lesson": "s12-l05"
-  },
-  {
-   "id": "dbc3503fab",
-   "en": "describe",
-   "tr": "tarif eder",
-   "type": "kalip",
    "sections": [
     12
    ],
@@ -14799,26 +13914,6 @@
    "lesson": "s12-l05"
   },
   {
-   "id": "c65836a059",
-   "en": "depending on",
-   "tr": "…e bağlı olarak",
-   "type": "kalip",
-   "sections": [
-    12
-   ],
-   "lesson": "s12-l05"
-  },
-  {
-   "id": "0db328c5e0",
-   "en": "scenario focus",
-   "tr": "senaryonun odağı",
-   "type": "kalip",
-   "sections": [
-    12
-   ],
-   "lesson": "s12-l05"
-  },
-  {
    "id": "7add1798d9",
    "en": "port evasion",
    "tr": "port kurallarını atlatmak için protokolü/portu oynatma",
@@ -14849,50 +13944,9 @@
    "lesson": "s12-l06"
   },
   {
-   "id": "bc439987dd",
-   "en": "carry",
-   "tr": "taşımak",
-   "type": "kalip",
-   "sections": [
-    12
-   ],
-   "lesson": "s12-l06"
-  },
-  {
    "id": "2936c1a088",
    "en": "DPI",
    "tr": "paketin sadece başlığına değil içeriğine bakan derin inceleme",
-   "type": "terim",
-   "sections": [
-    12
-   ],
-   "lesson": "s12-l06"
-  },
-  {
-   "id": "8188556842",
-   "en": "never assume",
-   "tr": "sınav dili: asla varsayma; bu bir kural • sınav dili: asla varsayma",
-   "type": "terim",
-   "sections": [
-    12,
-    41
-   ],
-   "lesson": "s12-l06"
-  },
-  {
-   "id": "9bb8a04830",
-   "en": "running on it",
-   "tr": "üzerinde çalışan",
-   "type": "kalip",
-   "sections": [
-    12
-   ],
-   "lesson": "s12-l06"
-  },
-  {
-   "id": "c9a80e2069",
-   "en": "high entropy",
-   "tr": "yüksek rastgelelik; okunaksız/karışık dizi, kodlanmış veri işareti",
    "type": "terim",
    "sections": [
     12
@@ -14920,16 +13974,6 @@
    "lesson": "s12-l06"
   },
   {
-   "id": "fd80c18ef2",
-   "en": "abnormally long",
-   "tr": "anormal derecede uzun",
-   "type": "kalip",
-   "sections": [
-    12
-   ],
-   "lesson": "s12-l06"
-  },
-  {
    "id": "caed72fbe8",
    "en": "random-looking",
    "tr": "rastgele görünen",
@@ -14943,16 +13987,6 @@
    "id": "9ec7834dbd",
    "en": "HTTPS-wrapped C2",
    "tr": "C2 trafiğinin şifreli HTTPS oturumu içine gizlenmesi",
-   "type": "terim",
-   "sections": [
-    12
-   ],
-   "lesson": "s12-l06"
-  },
-  {
-   "id": "29831a7d3e",
-   "en": "self-signed certificate",
-   "tr": "tanınmış bir CA yerine kendi kendine imzalanmış sertifika; şüphe uyandırır",
    "type": "terim",
    "sections": [
     12
@@ -14980,110 +14014,10 @@
    "lesson": "s12-l06"
   },
   {
-   "id": "5e084237c3",
-   "en": "hidden within",
-   "tr": "… içine gizlenmiş",
-   "type": "kalip",
-   "sections": [
-    12
-   ],
-   "lesson": "s12-l06"
-  },
-  {
-   "id": "34c7c34389",
-   "en": "encrypted sessions",
-   "tr": "şifreli oturumlar",
-   "type": "kalip",
-   "sections": [
-    12
-   ],
-   "lesson": "s12-l06"
-  },
-  {
-   "id": "c590451b00",
-   "en": "attacker persistence",
-   "tr": "saldırganın kalıcı erişim kurması",
-   "type": "terim",
-   "sections": [
-    12
-   ],
-   "lesson": "s12-l06"
-  },
-  {
-   "id": "1a01b6ea0d",
-   "en": "default listener",
-   "tr": "aracın varsayılan olarak dinlediği port",
-   "type": "terim",
-   "sections": [
-    12
-   ],
-   "lesson": "s12-l06"
-  },
-  {
-   "id": "1a197a1af9",
-   "en": "common indicators",
-   "tr": "yaygın göstergeler",
-   "type": "kalip",
-   "sections": [
-    12
-   ],
-   "lesson": "s12-l06"
-  },
-  {
    "id": "b5605335a5",
    "en": "correlating … with",
    "tr": "…i … ile ilişkilendirme",
    "type": "terim",
-   "sections": [
-    12
-   ],
-   "lesson": "s12-l06"
-  },
-  {
-   "id": "921451ba4e",
-   "en": "highest-confidence detection",
-   "tr": "en yüksek güvenilirlikte tespit; iki bağımsız kaynak birbirini doğrular",
-   "type": "terim",
-   "sections": [
-    12
-   ],
-   "lesson": "s12-l06"
-  },
-  {
-   "id": "acf8537488",
-   "en": "listening on",
-   "tr": "… üzerinde dinleyen",
-   "type": "kalip",
-   "sections": [
-    12
-   ],
-   "lesson": "s12-l06"
-  },
-  {
-   "id": "be8af1e980",
-   "en": "external connection",
-   "tr": "dış bağlantı",
-   "type": "kalip",
-   "sections": [
-    12
-   ],
-   "lesson": "s12-l06"
-  },
-  {
-   "id": "27784194ab",
-   "en": "the mismatch",
-   "tr": "uyuşmazlık; beklenen ile gerçek arasındaki fark",
-   "type": "terim",
-   "sections": [
-    12
-   ],
-   "lesson": "s12-l06"
-  },
-  {
-   "id": "3508050512",
-   "en": "what is expected",
-   "tr": "ne beklenir",
-   "type": "kalip",
    "sections": [
     12
    ],
@@ -15110,53 +14044,12 @@
    "lesson": "s12-l06"
   },
   {
-   "id": "1d443be893",
-   "en": "tool-to-technique mapping",
-   "tr": "sınav dili: hangi araç hangi tekniği yakalar eşleşmesi",
-   "type": "terim",
-   "sections": [
-    12
-   ],
-   "lesson": "s12-l06"
-  },
-  {
-   "id": "e3404b493a",
-   "en": "reference point",
-   "tr": "referans noktası, kıyas ölçüsü",
-   "type": "terim",
-   "sections": [
-    12
-   ],
-   "lesson": "s12-l07"
-  },
-  {
    "id": "34ed350695",
    "en": "guesswork",
    "tr": "tahmine dayalı iş; sağlam temeli olmayan",
    "type": "terim",
    "sections": [
     12
-   ],
-   "lesson": "s12-l07"
-  },
-  {
-   "id": "cc90d777bb",
-   "en": "documented record",
-   "tr": "belgelenmiş kayıt",
-   "type": "kalip",
-   "sections": [
-    12
-   ],
-   "lesson": "s12-l07"
-  },
-  {
-   "id": "ead6a33c44",
-   "en": "without it",
-   "tr": "o olmadan",
-   "type": "kalip",
-   "sections": [
-    12,
-    34
    ],
    "lesson": "s12-l07"
   },
@@ -15191,70 +14084,10 @@
    "lesson": "s12-l07"
   },
   {
-   "id": "eef73f7791",
-   "en": "by host and time",
-   "tr": "makine ve zaman bazında",
-   "type": "kalip",
-   "sections": [
-    12
-   ],
-   "lesson": "s12-l07"
-  },
-  {
-   "id": "4374404e54",
-   "en": "proportion",
-   "tr": "oran, pay",
-   "type": "kalip",
-   "sections": [
-    12
-   ],
-   "lesson": "s12-l07"
-  },
-  {
-   "id": "fbe2d2e900",
-   "en": "external destinations",
-   "tr": "dış hedefler",
-   "type": "kalip",
-   "sections": [
-    12
-   ],
-   "lesson": "s12-l07"
-  },
-  {
    "id": "7f60aa214b",
    "en": "IPFIX",
    "tr": "NetFlow'un standartlaştırılmış hâli; akış kaydı biçimi",
    "type": "terim",
-   "sections": [
-    12
-   ],
-   "lesson": "s12-l07"
-  },
-  {
-   "id": "11741d4e02",
-   "en": "device presence",
-   "tr": "cihazın ağda ne zaman ve ne sıklıkla göründüğü",
-   "type": "terim",
-   "sections": [
-    12
-   ],
-   "lesson": "s12-l07"
-  },
-  {
-   "id": "e4b5ab2dc6",
-   "en": "allowed/blocked flows",
-   "tr": "izin verilen/engellenen akışlar",
-   "type": "kalip",
-   "sections": [
-    12
-   ],
-   "lesson": "s12-l07"
-  },
-  {
-   "id": "48a8832d14",
-   "en": "frequency",
-   "tr": "sıklık",
-   "type": "kalip",
    "sections": [
     12
    ],
@@ -15285,16 +14118,6 @@
    "en": "inaccurate thresholds",
    "tr": "yanlış eşik değerleri; ya çok alarm ya hiç alarm",
    "type": "terim",
-   "sections": [
-    12
-   ],
-   "lesson": "s12-l07"
-  },
-  {
-   "id": "b4e380389a",
-   "en": "at least",
-   "tr": "en az",
-   "type": "kalip",
    "sections": [
     12
    ],
@@ -15341,39 +14164,9 @@
    "lesson": "s12-l07"
   },
   {
-   "id": "e06c82087d",
-   "en": "high-confidence alerts",
-   "tr": "yanılma payı düşük alarmlar",
-   "type": "terim",
-   "sections": [
-    12
-   ],
-   "lesson": "s12-l07"
-  },
-  {
    "id": "351656ea38",
    "en": "applies … to",
    "tr": "…i …e uygular",
-   "type": "kalip",
-   "sections": [
-    12
-   ],
-   "lesson": "s12-l07"
-  },
-  {
-   "id": "0cf1125699",
-   "en": "should never",
-   "tr": "asla … yapmamalı",
-   "type": "kalip",
-   "sections": [
-    12
-   ],
-   "lesson": "s12-l07"
-  },
-  {
-   "id": "fe085a67e8",
-   "en": "initiate",
-   "tr": "başlatmak",
    "type": "kalip",
    "sections": [
     12
@@ -15391,43 +14184,12 @@
    "lesson": "s12-l07"
   },
   {
-   "id": "e90aa47cf8",
-   "en": "change dynamically",
-   "tr": "sürekli değişir; bu yüzden IP bazlı profil bulutta işe yaramaz",
-   "type": "terim",
-   "sections": [
-    12
-   ],
-   "lesson": "s12-l07"
-  },
-  {
-   "id": "200bda7060",
-   "en": "profile by",
-   "tr": "…e göre profil çıkar",
-   "type": "kalip",
-   "sections": [
-    12
-   ],
-   "lesson": "s12-l07"
-  },
-  {
    "id": "9d8b06f5ea",
    "en": "ongoing maintenance",
    "tr": "sürekli bakım; bir kez kurulup bırakılmaz",
    "type": "terim",
    "sections": [
     12
-   ],
-   "lesson": "s12-l07"
-  },
-  {
-   "id": "5ba90955e3",
-   "en": "quarterly",
-   "tr": "üç ayda bir",
-   "type": "kalip",
-   "sections": [
-    12,
-    28
    ],
    "lesson": "s12-l07"
   },
@@ -15455,36 +14217,6 @@
    "id": "09c4ac0dce",
    "en": "beneath",
    "tr": "…in altında yatan",
-   "type": "kalip",
-   "sections": [
-    12
-   ],
-   "lesson": "s12-l07"
-  },
-  {
-   "id": "b4f034d174",
-   "en": "is detected by",
-   "tr": "… ile tespit edilir",
-   "type": "kalip",
-   "sections": [
-    12
-   ],
-   "lesson": "s12-l07"
-  },
-  {
-   "id": "61b382a2af",
-   "en": "depends on whether it deviates",
-   "tr": "sınav dili: kriter sapıp sapmadığıdır, garip görünüp görünmediği değil",
-   "type": "terim",
-   "sections": [
-    12
-   ],
-   "lesson": "s12-l07"
-  },
-  {
-   "id": "37ddc5112a",
-   "en": "looks unusual",
-   "tr": "garip görünüyor",
    "type": "kalip",
    "sections": [
     12
