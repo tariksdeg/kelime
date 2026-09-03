@@ -490,16 +490,6 @@
    "lesson": "s01-l01"
   },
   {
-   "id": "858762df12",
-   "en": "validating",
-   "tr": "doğrulayan, kanıtlayan",
-   "type": "kalip",
-   "sections": [
-    1
-   ],
-   "lesson": "s01-l01"
-  },
-  {
    "id": "d358da965c",
    "en": "including",
    "tr": "… dahil olmak üzere • … dahil • …dâhil olmak üzere • …dâhil",
@@ -512,17 +502,6 @@
     27,
     35,
     42
-   ],
-   "lesson": "s01-l01"
-  },
-  {
-   "id": "5ee0bb5578",
-   "en": "out of",
-   "tr": "… üzerinden • …in dışına",
-   "type": "kalip",
-   "sections": [
-    1,
-    10
    ],
    "lesson": "s01-l01"
   },
@@ -640,94 +619,12 @@
    "lesson": "s01-l01"
   },
   {
-   "id": "6e0296446e",
-   "en": "equally correct",
-   "tr": "eşit derecede doğru",
-   "type": "kalip",
-   "sections": [
-    1
-   ],
-   "lesson": "s01-l01"
-  },
-  {
-   "id": "f3eb06843a",
-   "en": "scenario context",
-   "tr": "sorudaki senaryonun bağlamı",
-   "type": "kalip",
-   "sections": [
-    1
-   ],
-   "lesson": "s01-l01"
-  },
-  {
-   "id": "24aaa8e99e",
-   "en": "escalation",
-   "tr": "kendi yetkisini aşan olayı bir üst kademeye devretme • durumun karar verecek makama taşınması",
-   "type": "terim",
-   "sections": [
-    1,
-    27
-   ],
-   "lesson": "s01-l02"
-  },
-  {
-   "id": "5b7dc7b3dc",
-   "en": "distinguishing … from",
-   "tr": "…i …den ayırt etmek",
-   "type": "kalip",
-   "sections": [
-    1
-   ],
-   "lesson": "s01-l02"
-  },
-  {
-   "id": "b8d890984b",
-   "en": "correlating logs",
-   "tr": "farklı kaynaklardan gelen kayıtları eşleştirip aynı olayın parçaları olduğunu görmek",
-   "type": "terim",
-   "sections": [
-    1
-   ],
-   "lesson": "s01-l02"
-  },
-  {
-   "id": "5db9a2b1e8",
-   "en": "EDR",
-   "tr": "uç noktalarda süreç/dosya/ağ davranışını kaydeden ve müdahale imkânı veren araç",
-   "type": "terim",
-   "sections": [
-    1
-   ],
-   "lesson": "s01-l02"
-  },
-  {
    "id": "f6a0d6c96c",
    "en": "perform",
    "tr": "yürütmek, gerçekleştirmek",
    "type": "kalip",
    "sections": [
     1
-   ],
-   "lesson": "s01-l02"
-  },
-  {
-   "id": "0ce8592e50",
-   "en": "threat hunting",
-   "tr": "alarm beklemeden, varsayımla yola çıkarak gizli tehdit arama",
-   "type": "terim",
-   "sections": [
-    1
-   ],
-   "lesson": "s01-l02"
-  },
-  {
-   "id": "64512b621e",
-   "en": "proactive",
-   "tr": "olay olmadan önce harekete geçen; tepkisel (reactive) olanın zıddı • olay olmadan, kendiliğinden harekete geçen • önden harekete geçen",
-   "type": "terim",
-   "sections": [
-    1,
-    24
    ],
    "lesson": "s01-l02"
   },
@@ -742,46 +639,12 @@
    "lesson": "s01-l02"
   },
   {
-   "id": "2c396c9ff0",
-   "en": "maps … to",
-   "tr": "…i … ile eşler",
-   "type": "kalip",
-   "sections": [
-    1
-   ],
-   "lesson": "s01-l02"
-  },
-  {
-   "id": "fb5e6a347e",
-   "en": "available at",
-   "tr": "… adresinden erişilebilir • şu adreste bulunur • şu adreste",
-   "type": "kalip",
-   "sections": [
-    1,
-    18,
-    35,
-    39
-   ],
-   "lesson": "s01-l02"
-  },
-  {
    "id": "6303eeccac",
    "en": "freeing analysts to",
    "tr": "analistin elini boşaltıp … yapmasına imkân vermek",
    "type": "terim",
    "sections": [
     1
-   ],
-   "lesson": "s01-l02"
-  },
-  {
-   "id": "81dcf355db",
-   "en": "hybrid environment",
-   "tr": "hem kurum içi hem bulut sistemlerin bir arada bulunduğu ortam • hem yerel hem bulut varlıkların bir arada olduğu ortam",
-   "type": "terim",
-   "sections": [
-    1,
-    27
    ],
    "lesson": "s01-l02"
   },
@@ -806,20 +669,6 @@
    "lesson": "s01-l02"
   },
   {
-   "id": "2f0d4f153f",
-   "en": "on-premises",
-   "tr": "kurum kendi binasında, buluta taşınmamış • kurumun kendi binasındaki, buluta taşınmamış altyapı • kurumun kendi binasındaki, buluta taşınmamış sistemler • kurumun kendi sahasında, kendi donanımında çalışan • kurumun kendi sahasında",
-   "type": "terim",
-   "sections": [
-    1,
-    4,
-    7,
-    18,
-    32
-   ],
-   "lesson": "s01-l02"
-  },
-  {
    "id": "7da65c189e",
    "en": "remediation",
    "tr": "sorunu kalıcı olarak giderme; Tier 1'in işi değildir • giderme, düzeltme • düzeltme, giderme • zafiyetin tamamen ortadan kaldırılması",
@@ -829,16 +678,6 @@
     4,
     22,
     34
-   ],
-   "lesson": "s01-l02"
-  },
-  {
-   "id": "6336a8ecba",
-   "en": "know the boundaries",
-   "tr": "sınav dili: her kademenin nerede başlayıp nerede bittiğini bil",
-   "type": "terim",
-   "sections": [
-    1
    ],
    "lesson": "s01-l02"
   },
@@ -862,38 +701,6 @@
     26
    ],
    "lesson": "s01-l02"
-  },
-  {
-   "id": "af089321c5",
-   "en": "does not replace",
-   "tr": "…in yerini almaz",
-   "type": "kalip",
-   "sections": [
-    1
-   ],
-   "lesson": "s01-l02"
-  },
-  {
-   "id": "69472a9625",
-   "en": "threat intelligence",
-   "tr": "saldırganlar, kampanyalar ve göstergeler hakkında derlenmiş, işlenebilir bilgi • tehditlere dair analiz edilmiş, karar destekleyen bilgi • tehdide dair analiz edilmiş dış bilgi",
-   "type": "terim",
-   "sections": [
-    1,
-    22,
-    33
-   ],
-   "lesson": "s01-l03"
-  },
-  {
-   "id": "6da1cc60e3",
-   "en": "the full … including",
-   "tr": "… dahil olmak üzere tamamı",
-   "type": "kalip",
-   "sections": [
-    1
-   ],
-   "lesson": "s01-l03"
   },
   {
    "id": "23afebbc69",
@@ -929,16 +736,6 @@
    "lesson": "s01-l03"
   },
   {
-   "id": "0d08c623b1",
-   "en": "root cause analysis",
-   "tr": "belirtiyi değil asıl nedeni bulma; \"neden oldu\" sorusunun cevabı",
-   "type": "terim",
-   "sections": [
-    1
-   ],
-   "lesson": "s01-l03"
-  },
-  {
    "id": "e97038b3ba",
    "en": "chain of custody",
    "tr": "delilin kimden kime, ne zaman geçtiğinin kesintisiz kaydı; mahkemede geçerlilik şartı • kanıtın kimden kime, ne zaman geçtiğini gösteren kesintisiz kayıt",
@@ -946,28 +743,6 @@
    "sections": [
     1,
     39
-   ],
-   "lesson": "s01-l03"
-  },
-  {
-   "id": "29433e0459",
-   "en": "non-technical audience",
-   "tr": "teknik olmayan dinleyici (yönetim, hukuk, yönetim kurulu)",
-   "type": "terim",
-   "sections": [
-    1
-   ],
-   "lesson": "s01-l03"
-  },
-  {
-   "id": "18b94bda59",
-   "en": "internet-facing",
-   "tr": "doğrudan internetten erişilebilen • internete açık",
-   "type": "terim",
-   "sections": [
-    1,
-    33,
-    34
    ],
    "lesson": "s01-l03"
   },
@@ -1002,31 +777,9 @@
    "lesson": "s01-l03"
   },
   {
-   "id": "401244715d",
-   "en": "in sequence",
-   "tr": "sırasıyla, doğru sırada • sırayla • sırasıyla",
-   "type": "terim",
-   "sections": [
-    1,
-    8,
-    40
-   ],
-   "lesson": "s01-l03"
-  },
-  {
    "id": "77c52b4a52",
    "en": "jumping to",
    "tr": "…e atlamak, sırayı bozup geçmek",
-   "type": "kalip",
-   "sections": [
-    1
-   ],
-   "lesson": "s01-l03"
-  },
-  {
-   "id": "dfb5072776",
-   "en": "do not neglect",
-   "tr": "ihmal etme",
    "type": "kalip",
    "sections": [
     1
@@ -1055,27 +808,6 @@
    "lesson": "s01-l04"
   },
   {
-   "id": "eb1135acef",
-   "en": "study rhythm",
-   "tr": "çalışma temposu/döngüsü",
-   "type": "terim",
-   "sections": [
-    1
-   ],
-   "lesson": "s01-l04"
-  },
-  {
-   "id": "40cd4d0041",
-   "en": "converts … into",
-   "tr": "…i …e dönüştürür",
-   "type": "kalip",
-   "sections": [
-    1,
-    8
-   ],
-   "lesson": "s01-l04"
-  },
-  {
    "id": "d7aca63ed2",
    "en": "cross-reference against",
    "tr": "… ile karşılaştırıp eşleştirmek, çapraz kontrol etmek • …ile çapraz kontrol et",
@@ -1087,50 +819,10 @@
    "lesson": "s01-l04"
   },
   {
-   "id": "e9605a17e5",
-   "en": "confirm no gaps remain",
-   "tr": "hiç eksik kalmadığını teyit et",
-   "type": "kalip",
-   "sections": [
-    1
-   ],
-   "lesson": "s01-l04"
-  },
-  {
    "id": "988c98a599",
    "en": "around the clock",
    "tr": "gece gündüz aralıksız, 7/24",
    "type": "terim",
-   "sections": [
-    2
-   ],
-   "lesson": "s02-l01"
-  },
-  {
-   "id": "81971d6d47",
-   "en": "security posture",
-   "tr": "kurumun genel güvenlik duruşu/hazırlık seviyesi",
-   "type": "terim",
-   "sections": [
-    2
-   ],
-   "lesson": "s02-l01"
-  },
-  {
-   "id": "cd03f0be44",
-   "en": "dedicated to",
-   "tr": "yalnızca …e ayrılmış",
-   "type": "kalip",
-   "sections": [
-    2
-   ],
-   "lesson": "s02-l01"
-  },
-  {
-   "id": "dfef9c3ed7",
-   "en": "shifts … from … to",
-   "tr": "…i …den …e kaydırır",
-   "type": "kalip",
    "sections": [
     2
    ],
@@ -1177,57 +869,6 @@
    "lesson": "s02-l01"
   },
   {
-   "id": "5554c80f68",
-   "en": "mid-sized",
-   "tr": "orta ölçekli",
-   "type": "kalip",
-   "sections": [
-    2
-   ],
-   "lesson": "s02-l01"
-  },
-  {
-   "id": "f94482e7c7",
-   "en": "alert triage",
-   "tr": "gelen alarmları hızlıca eleyip önceliklendirme",
-   "type": "terim",
-   "sections": [
-    2
-   ],
-   "lesson": "s02-l01"
-  },
-  {
-   "id": "a62fd72b5b",
-   "en": "incident response coordination",
-   "tr": "olay müdahalesinde kimin ne yapacağını düzenleme ve yürütme",
-   "type": "terim",
-   "sections": [
-    2
-   ],
-   "lesson": "s02-l01"
-  },
-  {
-   "id": "98febf4cc8",
-   "en": "core functions",
-   "tr": "temel işlevler • çekirdek işlevler",
-   "type": "kalip",
-   "sections": [
-    2,
-    18
-   ],
-   "lesson": "s02-l01"
-  },
-  {
-   "id": "095b36a777",
-   "en": "metrics and reporting",
-   "tr": "ölçüm ve raporlama",
-   "type": "kalip",
-   "sections": [
-    2
-   ],
-   "lesson": "s02-l01"
-  },
-  {
    "id": "85a7b4e8d5",
    "en": "appearance",
    "tr": "ortaya çıkışı",
@@ -1258,36 +899,6 @@
    "lesson": "s02-l01"
   },
   {
-   "id": "c096de94ef",
-   "en": "runbook",
-   "tr": "SOAR'ın otomatik çalıştırdığı, adım adım tanımlı yanıt akışı • aynı adımların SOAR tarafından otomatik çalıştırılan hâli",
-   "type": "terim",
-   "sections": [
-    2
-   ],
-   "lesson": "s02-l01"
-  },
-  {
-   "id": "912f03b90e",
-   "en": "human in the loop",
-   "tr": "sürecin bir adımında insan onayı/müdahalesi gerekmesi",
-   "type": "terim",
-   "sections": [
-    2
-   ],
-   "lesson": "s02-l01"
-  },
-  {
-   "id": "7470c29f3f",
-   "en": "reference framework",
-   "tr": "başvurulacak ortak çerçeve; herkesin aynı dili konuşmasını sağlar",
-   "type": "terim",
-   "sections": [
-    2
-   ],
-   "lesson": "s02-l01"
-  },
-  {
    "id": "d4fd228948",
    "en": "distinction",
    "tr": "ayrım, fark • ayrım",
@@ -1295,16 +906,6 @@
    "sections": [
     2,
     4
-   ],
-   "lesson": "s02-l01"
-  },
-  {
-   "id": "ce6c979d45",
-   "en": "identify which phase",
-   "tr": "hangi aşama olduğunu belirle",
-   "type": "kalip",
-   "sections": [
-    2
    ],
    "lesson": "s02-l01"
   },
@@ -1330,51 +931,9 @@
    "lesson": "s02-l02"
   },
   {
-   "id": "3ecd526ea2",
-   "en": "scope analysis",
-   "tr": "olayın nereye kadar yayıldığını belirleme",
-   "type": "terim",
-   "sections": [
-    2
-   ],
-   "lesson": "s02-l02"
-  },
-  {
    "id": "ff7591f6f8",
    "en": "intelligence-driven",
    "tr": "tehdit istihbaratından yola çıkarak yürütülen",
-   "type": "terim",
-   "sections": [
-    2
-   ],
-   "lesson": "s02-l02"
-  },
-  {
-   "id": "5f79460e48",
-   "en": "tier structure",
-   "tr": "kademe yapısı",
-   "type": "kalip",
-   "sections": [
-    2
-   ],
-   "lesson": "s02-l02"
-  },
-  {
-   "id": "2878f605e7",
-   "en": "alert fatigue",
-   "tr": "alarm yorgunluğu: çok fazla alarma maruz kalan analistin duyarsızlaşıp gerçek olanı kaçırması • alarm bombardımanından yorulup gerçek alarmı görememe • alarm bombardımanından yorulup gerçek alarmı elemek",
-   "type": "terim",
-   "sections": [
-    2,
-    18,
-    43
-   ],
-   "lesson": "s02-l02"
-  },
-  {
-   "id": "beb7f224ec",
-   "en": "matters more than",
-   "tr": "…den daha önemlidir",
    "type": "terim",
    "sections": [
     2
@@ -1393,29 +952,9 @@
    "lesson": "s02-l02"
   },
   {
-   "id": "6b1c4979af",
-   "en": "speed alone",
-   "tr": "tek başına hız",
-   "type": "kalip",
-   "sections": [
-    2
-   ],
-   "lesson": "s02-l02"
-  },
-  {
    "id": "d28e913700",
    "en": "Azure AD",
    "tr": "Microsoft'un bulut kimlik servisi; oturum açma kayıtları kritik kaynaktır",
-   "type": "terim",
-   "sections": [
-    2
-   ],
-   "lesson": "s02-l02"
-  },
-  {
-   "id": "e8c7ebddf6",
-   "en": "full incident picture",
-   "tr": "olayın bütününü gösteren tam tablo",
    "type": "terim",
    "sections": [
     2
@@ -1427,16 +966,6 @@
    "en": "correlate data across",
    "tr": "… genelinde veriyi ilişkilendirmek",
    "type": "kalip",
-   "sections": [
-    2
-   ],
-   "lesson": "s02-l02"
-  },
-  {
-   "id": "c2e1d3fef3",
-   "en": "hunt hypothesis",
-   "tr": "av hipotezi: \"şu saldırgan şu tekniği kullanmış olabilir\" varsayımı; av bununla başlar",
-   "type": "terim",
    "sections": [
     2
    ],
@@ -1466,16 +995,6 @@
    "id": "6091029a21",
    "en": "stakeholder",
    "tr": "paydaş: olaydan etkilenen veya karar veren taraf (yönetim, hukuk, iş birimi)",
-   "type": "terim",
-   "sections": [
-    2
-   ],
-   "lesson": "s02-l02"
-  },
-  {
-   "id": "90e98e726b",
-   "en": "own the function, not the queue",
-   "tr": "işlevden sorumludur, tek tek alarmlarla uğraşmaz",
    "type": "terim",
    "sections": [
     2
@@ -1530,16 +1049,6 @@
    "en": "containment / eradication / recovery",
    "tr": "yayılmayı durdurma → tehdidi sökme → normale dönüş",
    "type": "terim",
-   "sections": [
-    2
-   ],
-   "lesson": "s02-l02"
-  },
-  {
-   "id": "fbf63c6adb",
-   "en": "own",
-   "tr": "sahiplenir, sorumluluğu üstlenir",
-   "type": "kalip",
    "sections": [
     2
    ],
@@ -1618,37 +1127,6 @@
    "lesson": "s02-l03"
   },
   {
-   "id": "5b16482ee0",
-   "en": "work … first",
-   "tr": "önce … üzerinde çalışmak",
-   "type": "kalip",
-   "sections": [
-    2
-   ],
-   "lesson": "s02-l03"
-  },
-  {
-   "id": "7086c1f4d9",
-   "en": "risk-based alerting",
-   "tr": "tek tek olayları alarm yapmak yerine kullanıcı/host başına risk puanı biriktirip eşik aşılınca tek alarm üretme • tek olayda değil, risk puanı birikince alarm üretme",
-   "type": "terim",
-   "sections": [
-    2,
-    43
-   ],
-   "lesson": "s02-l03"
-  },
-  {
-   "id": "01dafae9a3",
-   "en": "threshold",
-   "tr": "eşik değer; aşılınca tetikleme olur",
-   "type": "terim",
-   "sections": [
-    2
-   ],
-   "lesson": "s02-l03"
-  },
-  {
    "id": "0fb81bb695",
    "en": "aggregates",
    "tr": "tek tek olanları toplayıp birleştirir",
@@ -1673,66 +1151,6 @@
    "id": "d00a219aed",
    "en": "is crossed",
    "tr": "aşılır",
-   "type": "kalip",
-   "sections": [
-    2
-   ],
-   "lesson": "s02-l03"
-  },
-  {
-   "id": "bdf0198c57",
-   "en": "initial assessment",
-   "tr": "ilk değerlendirme; hızlı ve yüzeysel, derin inceleme değil",
-   "type": "terim",
-   "sections": [
-    2
-   ],
-   "lesson": "s02-l03"
-  },
-  {
-   "id": "a0fc94d0b8",
-   "en": "sets priority",
-   "tr": "önceliği belirler",
-   "type": "kalip",
-   "sections": [
-    2
-   ],
-   "lesson": "s02-l03"
-  },
-  {
-   "id": "476c4a55ef",
-   "en": "playbook",
-   "tr": "insanın okuyup uygulayacağı, adım adım yanıt kılavuzu",
-   "type": "terim",
-   "sections": [
-    2
-   ],
-   "lesson": "s02-l03"
-  },
-  {
-   "id": "c36ad54de6",
-   "en": "human-readable",
-   "tr": "insanın okuması için yazılmış (makine için değil)",
-   "type": "terim",
-   "sections": [
-    2
-   ],
-   "lesson": "s02-l03"
-  },
-  {
-   "id": "cb892c4d33",
-   "en": "over-/under-escalation",
-   "tr": "gereksiz yere üst kademeye taşımak / taşınması gerekeni taşımamak",
-   "type": "terim",
-   "sections": [
-    2
-   ],
-   "lesson": "s02-l03"
-  },
-  {
-   "id": "19ef3f2c75",
-   "en": "judgment alone",
-   "tr": "tek başına kişisel yargı",
    "type": "kalip",
    "sections": [
     2
@@ -1791,26 +1209,6 @@
    "lesson": "s02-l03"
   },
   {
-   "id": "3ead55bd3c",
-   "en": "not hiring more",
-   "tr": "daha fazla … almak değil",
-   "type": "kalip",
-   "sections": [
-    2
-   ],
-   "lesson": "s02-l03"
-  },
-  {
-   "id": "9908f6ac13",
-   "en": "ongoing, not periodic",
-   "tr": "süregiden; belirli aralıklarla yapılan denetim değil",
-   "type": "terim",
-   "sections": [
-    2
-   ],
-   "lesson": "s02-l04"
-  },
-  {
    "id": "112ade0f45",
    "en": "persistent",
    "tr": "kesintisiz, sürekli • sabırlı; erişimi aylarca, yıllarca elinde tutma",
@@ -1818,26 +1216,6 @@
    "sections": [
     2,
     22
-   ],
-   "lesson": "s02-l04"
-  },
-  {
-   "id": "7a473fa6c7",
-   "en": "maintain awareness",
-   "tr": "farkındalığı sürdürmek",
-   "type": "kalip",
-   "sections": [
-    2
-   ],
-   "lesson": "s02-l04"
-  },
-  {
-   "id": "67446bca86",
-   "en": "blind spot",
-   "tr": "kör nokta: hiçbir kaydın tutulmadığı, saldırganın görünmez kaldığı alan",
-   "type": "terim",
-   "sections": [
-    2
    ],
    "lesson": "s02-l04"
   },
@@ -1890,16 +1268,6 @@
    "lesson": "s02-l04"
   },
   {
-   "id": "e0543ba22c",
-   "en": "syslog",
-   "tr": "Linux/ağ cihazlarının standart log toplama biçimi",
-   "type": "terim",
-   "sections": [
-    2
-   ],
-   "lesson": "s02-l04"
-  },
-  {
    "id": "cc9496ec5d",
    "en": "living-off-the-land",
    "tr": "sistemde zaten kurulu meşru araçları kullanarak saldırma; imza tabanlı tespit yakalayamaz",
@@ -1932,57 +1300,6 @@
    "lesson": "s02-l04"
   },
   {
-   "id": "efbd398394",
-   "en": "identity is the perimeter",
-   "tr": "bulutta savunma sınırı artık ağ değil kimliktir; ele geçen hesap doğrudan içeri girmektir",
-   "type": "terim",
-   "sections": [
-    2
-   ],
-   "lesson": "s02-l04"
-  },
-  {
-   "id": "30c4fc3bd3",
-   "en": "anomalous privilege use",
-   "tr": "kullanıcının normalde kullanmadığı yetkiyi kullanması",
-   "type": "terim",
-   "sections": [
-    2
-   ],
-   "lesson": "s02-l04"
-  },
-  {
-   "id": "c7c25883d4",
-   "en": "key indicators",
-   "tr": "başlıca göstergeler",
-   "type": "kalip",
-   "sections": [
-    2
-   ],
-   "lesson": "s02-l04"
-  },
-  {
-   "id": "ec96667ac8",
-   "en": "documents",
-   "tr": "kayıt altına alır, belgeler • belgeler, kayda geçirir",
-   "type": "kalip",
-   "sections": [
-    2,
-    21
-   ],
-   "lesson": "s02-l04"
-  },
-  {
-   "id": "69478dcda9",
-   "en": "identify which … is missing",
-   "tr": "hangisinin eksik olduğunu belirle",
-   "type": "kalip",
-   "sections": [
-    2
-   ],
-   "lesson": "s02-l04"
-  },
-  {
    "id": "39ccbcb7eb",
    "en": "calls out",
    "tr": "özellikle belirtir, adıyla anar",
@@ -2003,16 +1320,6 @@
    "lesson": "s02-l04"
   },
   {
-   "id": "fb4a0969d6",
-   "en": "core component",
-   "tr": "temel bileşen",
-   "type": "kalip",
-   "sections": [
-    2
-   ],
-   "lesson": "s02-l04"
-  },
-  {
    "id": "7d50f37dd6",
    "en": "handover",
    "tr": "vardiya devri: işin ve bilginin bir ekipten diğerine aktarılması • olayın bir ekipten diğerine devri",
@@ -2024,39 +1331,9 @@
    "lesson": "s02-l05"
   },
   {
-   "id": "9bf90a5fee",
-   "en": "operational awareness",
-   "tr": "o an neyin olup bittiğine dair güncel durum bilgisi",
-   "type": "terim",
-   "sections": [
-    2
-   ],
-   "lesson": "s02-l05"
-  },
-  {
-   "id": "352841bbf1",
-   "en": "a direct path from … to",
-   "tr": "…i doğrudan …e çeviren yol",
-   "type": "terim",
-   "sections": [
-    2
-   ],
-   "lesson": "s02-l05"
-  },
-  {
    "id": "972b9b5ff8",
    "en": "structured transfer",
    "tr": "yapılandırılmış aktarım",
-   "type": "kalip",
-   "sections": [
-    2
-   ],
-   "lesson": "s02-l05"
-  },
-  {
-   "id": "f9636e6b0b",
-   "en": "contextual knowledge",
-   "tr": "bağlam bilgisi",
    "type": "kalip",
    "sections": [
     2
@@ -2074,51 +1351,10 @@
    "lesson": "s02-l05"
   },
   {
-   "id": "4f2cabbbea",
-   "en": "watch items",
-   "tr": "henüz vaka açacak kadar olgunlaşmamış ama göz altında tutulması gereken konular • izlemede tutulan, kasten dokunulmayan sistem ve hesaplar",
-   "type": "terim",
-   "sections": [
-    2,
-    42
-   ],
-   "lesson": "s02-l05"
-  },
-  {
-   "id": "d8c1c11d5b",
-   "en": "case threshold",
-   "tr": "bir şeyin resmî vaka sayılması için gereken eşik",
-   "type": "terim",
-   "sections": [
-    2
-   ],
-   "lesson": "s02-l05"
-  },
-  {
    "id": "67b5312ab6",
    "en": "emerging",
    "tr": "yeni yeni beliren, henüz netleşmemiş",
    "type": "terim",
-   "sections": [
-    2
-   ],
-   "lesson": "s02-l05"
-  },
-  {
-   "id": "f9a826726e",
-   "en": "high-level overview",
-   "tr": "üst düzey genel bakış",
-   "type": "kalip",
-   "sections": [
-    2
-   ],
-   "lesson": "s02-l05"
-  },
-  {
-   "id": "6889f8c5fe",
-   "en": "enough detail for",
-   "tr": "…in yapabilmesine yetecek ayrıntı",
-   "type": "kalip",
    "sections": [
     2
    ],
@@ -2145,16 +1381,6 @@
    "lesson": "s02-l05"
   },
   {
-   "id": "9bb81c113e",
-   "en": "source of truth",
-   "tr": "çelişki olduğunda hangisinin doğru sayılacağı tek referans kaynak",
-   "type": "terim",
-   "sections": [
-    2
-   ],
-   "lesson": "s02-l05"
-  },
-  {
    "id": "d60315e44a",
    "en": "operational security (OPSEC)",
    "tr": "kendi hareketlerini saldırgana sezdirmeme disiplini",
@@ -2171,18 +1397,6 @@
    "type": "terim",
    "sections": [
     2
-   ],
-   "lesson": "s02-l05"
-  },
-  {
-   "id": "c669879a9c",
-   "en": "may be compromised",
-   "tr": "ele geçirilmiş olabilir",
-   "type": "terim",
-   "sections": [
-    2,
-    39,
-    42
    ],
    "lesson": "s02-l05"
   },
@@ -2239,16 +1453,6 @@
    "lesson": "s02-l05"
   },
   {
-   "id": "42f474b9db",
-   "en": "explicitly covers",
-   "tr": "açıkça kapsar",
-   "type": "kalip",
-   "sections": [
-    2
-   ],
-   "lesson": "s02-l05"
-  },
-  {
    "id": "54c1c68edd",
    "en": "alongside",
    "tr": "… ile birlikte • … ile yan yana, aynı anda • ile birlikte, yan yana • ile birlikte • …ile birlikte",
@@ -2295,33 +1499,12 @@
    "lesson": "s02-l05"
   },
   {
-   "id": "6c56af9d39",
-   "en": "not a tool failure",
-   "tr": "araç arızası değil",
-   "type": "kalip",
-   "sections": [
-    2
-   ],
-   "lesson": "s02-l05"
-  },
-  {
    "id": "4b6914c620",
    "en": "intersection",
    "tr": "kesişim; üçünün birlikte var olduğu nokta",
    "type": "terim",
    "sections": [
     3
-   ],
-   "lesson": "s03-l01"
-  },
-  {
-   "id": "cdf7e925f5",
-   "en": "results",
-   "tr": "ortaya çıkar, sonuçlanır • sonuçları",
-   "type": "kalip",
-   "sections": [
-    3,
-    15
    ],
    "lesson": "s03-l01"
   },
@@ -2340,16 +1523,6 @@
    "en": "risk matrix / heat map",
    "tr": "olasılık ve etkiyi iki eksene koyup renklerle önceliklendiren tablo",
    "type": "terim",
-   "sections": [
-    3
-   ],
-   "lesson": "s03-l01"
-  },
-  {
-   "id": "945511d58c",
-   "en": "plotted on",
-   "tr": "… üzerine işaretlenir",
-   "type": "kalip",
    "sections": [
     3
    ],
@@ -2406,16 +1579,6 @@
    "lesson": "s03-l01"
   },
   {
-   "id": "c53af1bd4c",
-   "en": "financial figures",
-   "tr": "parasal rakamlar",
-   "type": "kalip",
-   "sections": [
-    3
-   ],
-   "lesson": "s03-l01"
-  },
-  {
    "id": "d7728d5970",
    "en": "qualitative",
    "tr": "nitel: sayı yerine sözel derece (Yüksek/Orta/Düşük) kullanan",
@@ -2459,16 +1622,6 @@
    "id": "ecd48d4d5c",
    "en": "places … in",
    "tr": "…i … içine yerleştirir",
-   "type": "kalip",
-   "sections": [
-    3
-   ],
-   "lesson": "s03-l01"
-  },
-  {
-   "id": "2cad7c94b6",
-   "en": "before any other",
-   "tr": "diğer her şeyden önce",
    "type": "kalip",
    "sections": [
     3
@@ -2526,16 +1679,6 @@
    "lesson": "s03-l02"
   },
   {
-   "id": "974b967b9e",
-   "en": "has done anything",
-   "tr": "herhangi bir şey yapmış olsun",
-   "type": "kalip",
-   "sections": [
-    3
-   ],
-   "lesson": "s03-l02"
-  },
-  {
    "id": "a5f1af2916",
    "en": "residual risk",
    "tr": "kontroller devreye girdikten sonra geriye kalan risk • tüm önlemlerden sonra geriye kalan risk",
@@ -2543,17 +1686,6 @@
    "sections": [
     3,
     27
-   ],
-   "lesson": "s03-l02"
-  },
-  {
-   "id": "75a94da28c",
-   "en": "remains",
-   "tr": "geriye kalır • … olarak kalır",
-   "type": "kalip",
-   "sections": [
-    3,
-    10
    ],
    "lesson": "s03-l02"
   },
@@ -2588,16 +1720,6 @@
    "lesson": "s03-l02"
   },
   {
-   "id": "e8a8a2c9ca",
-   "en": "willing to accept",
-   "tr": "kabul etmeye razı",
-   "type": "kalip",
-   "sections": [
-    3
-   ],
-   "lesson": "s03-l02"
-  },
-  {
    "id": "99edc9bccf",
    "en": "risk tolerance",
    "tr": "appetite'in etrafında kabul edilen sapma payı; somut eşik",
@@ -2618,41 +1740,10 @@
    "lesson": "s03-l02"
   },
   {
-   "id": "405928ee9a",
-   "en": "around",
-   "tr": "… etrafındaki • …çevresinde",
-   "type": "kalip",
-   "sections": [
-    3,
-    34
-   ],
-   "lesson": "s03-l02"
-  },
-  {
-   "id": "f2ee376519",
-   "en": "specific threshold",
-   "tr": "belirli eşik",
-   "type": "kalip",
-   "sections": [
-    3
-   ],
-   "lesson": "s03-l02"
-  },
-  {
    "id": "57f754510b",
    "en": "falls within",
    "tr": "… sınırları içinde kalır",
    "type": "terim",
-   "sections": [
-    3
-   ],
-   "lesson": "s03-l02"
-  },
-  {
-   "id": "c41ae79cdb",
-   "en": "reduce … to",
-   "tr": "…i …e indirmek",
-   "type": "kalip",
    "sections": [
     3
    ],
@@ -2729,18 +1820,6 @@
    "lesson": "s03-l02"
   },
   {
-   "id": "7e06da1fac",
-   "en": "broad",
-   "tr": "geniş kapsamlı",
-   "type": "kalip",
-   "sections": [
-    3,
-    31,
-    41
-   ],
-   "lesson": "s03-l02"
-  },
-  {
    "id": "1882d2deaf",
    "en": "accept / transfer / avoid / mitigate",
    "tr": "kabul et / devret / faaliyeti bırak / kontrollerle azalt",
@@ -2754,16 +1833,6 @@
    "id": "8961eae26d",
    "en": "risk acceptance",
    "tr": "riski bilerek ve belgeleyerek üstlenme kararı",
-   "type": "terim",
-   "sections": [
-    3
-   ],
-   "lesson": "s03-l03"
-  },
-  {
-   "id": "fca9895f1c",
-   "en": "live with",
-   "tr": "… ile yaşamayı kabul etmek",
    "type": "terim",
    "sections": [
     3
@@ -2791,16 +1860,6 @@
    "lesson": "s03-l03"
   },
   {
-   "id": "cd4a3d0035",
-   "en": "risk transfer",
-   "tr": "riskin parasal sonucunu üçüncü tarafa aktarma",
-   "type": "terim",
-   "sections": [
-    3
-   ],
-   "lesson": "s03-l03"
-  },
-  {
    "id": "90e7552bb9",
    "en": "underlying",
    "tr": "altta yatan, asıl olan",
@@ -2811,29 +1870,9 @@
    "lesson": "s03-l03"
   },
   {
-   "id": "335ba5aa22",
-   "en": "shifts … to",
-   "tr": "…i …e kaydırır",
-   "type": "kalip",
-   "sections": [
-    3
-   ],
-   "lesson": "s03-l03"
-  },
-  {
    "id": "339e8ef912",
    "en": "risk avoidance",
    "tr": "riski doğuran faaliyeti tamamen bırakarak riski yok etme",
-   "type": "terim",
-   "sections": [
-    3
-   ],
-   "lesson": "s03-l03"
-  },
-  {
-   "id": "f73401d015",
-   "en": "not always practical",
-   "tr": "her zaman uygulanabilir değil; iş durabilir",
    "type": "terim",
    "sections": [
     3
@@ -2861,33 +1900,10 @@
    "lesson": "s03-l03"
   },
   {
-   "id": "7ec64fecae",
-   "en": "reduces",
-   "tr": "azaltır",
-   "type": "kalip",
-   "sections": [
-    3,
-    26,
-    36,
-    39
-   ],
-   "lesson": "s03-l03"
-  },
-  {
    "id": "34a36e6846",
    "en": "risk exception",
    "tr": "bir riskin neden şu an kapatılamadığını resmen belgeleyen istisna kaydı",
    "type": "terim",
-   "sections": [
-    3
-   ],
-   "lesson": "s03-l03"
-  },
-  {
-   "id": "51d36a380a",
-   "en": "formally document",
-   "tr": "resmen belgelemek",
-   "type": "kalip",
    "sections": [
     3
    ],
@@ -2908,16 +1924,6 @@
    "en": "approval",
    "tr": "onay",
    "type": "kalip",
-   "sections": [
-    3
-   ],
-   "lesson": "s03-l03"
-  },
-  {
-   "id": "9cf9f30aee",
-   "en": "match strategy to context",
-   "tr": "sınav dili: stratejiyi senaryonun bütününe göre seç",
-   "type": "terim",
    "sections": [
     3
    ],
@@ -2984,16 +1990,6 @@
    "lesson": "s03-l04"
   },
   {
-   "id": "d780042543",
-   "en": "encryption",
-   "tr": "şifreleme",
-   "type": "kalip",
-   "sections": [
-    3
-   ],
-   "lesson": "s03-l04"
-  },
-  {
    "id": "a36682b344",
    "en": "physical control",
    "tr": "donanımı ve binayı koruyan somut engel (kilit, kartlı geçiş, kamera)",
@@ -3034,16 +2030,6 @@
    "lesson": "s03-l04"
   },
   {
-   "id": "687f2c3869",
-   "en": "badge readers",
-   "tr": "kart okuyucular",
-   "type": "kalip",
-   "sections": [
-    3
-   ],
-   "lesson": "s03-l04"
-  },
-  {
    "id": "5766c24a91",
    "en": "compensating control",
    "tr": "asıl kontrol uygulanamadığında yerine konan, belgelenmiş alternatif • asıl kontrol (yama) uygulanamadığında yerine konan alternatif • zafiyet kapatılamıyorsa riski dengelemek için konan alternatif önlem",
@@ -3069,61 +2055,6 @@
    "id": "268b1d6e53",
    "en": "deliberate substitution",
    "tr": "bilinçli yerine koyma; rastgele değil",
-   "type": "terim",
-   "sections": [
-    3
-   ],
-   "lesson": "s03-l04"
-  },
-  {
-   "id": "edf833cc71",
-   "en": "defense in depth",
-   "tr": "tek kontrole güvenmeyip üst üste katmanlar koyma yaklaşımı • üst üste birden çok koruma katmanı koyma • birbirini yedekleyen katmanlı savunma",
-   "type": "terim",
-   "sections": [
-    3,
-    5,
-    25,
-    34,
-    38
-   ],
-   "lesson": "s03-l04"
-  },
-  {
-   "id": "52438e68a5",
-   "en": "layering",
-   "tr": "katmanlama, üst üste bindirme • üst üste katmanlama",
-   "type": "terim",
-   "sections": [
-    3,
-    34
-   ],
-   "lesson": "s03-l04"
-  },
-  {
-   "id": "54de0decef",
-   "en": "nature and purpose",
-   "tr": "kontrolün özü ve amacı",
-   "type": "terim",
-   "sections": [
-    3
-   ],
-   "lesson": "s03-l04"
-  },
-  {
-   "id": "826f9dd144",
-   "en": "delivery method",
-   "tr": "sunum/iletim biçimi; kâğıtla mı dijitalle mi verildiği",
-   "type": "terim",
-   "sections": [
-    3
-   ],
-   "lesson": "s03-l04"
-  },
-  {
-   "id": "fab0bf1873",
-   "en": "rather than how",
-   "tr": "sınav dili: nasıl yapıldığına değil ne yaptığına bak",
    "type": "terim",
    "sections": [
     3
@@ -3202,16 +2133,6 @@
    "lesson": "s03-l05"
   },
   {
-   "id": "2aca23d356",
-   "en": "after the fact",
-   "tr": "iş olup bittikten sonra",
-   "type": "terim",
-   "sections": [
-    3
-   ],
-   "lesson": "s03-l05"
-  },
-  {
    "id": "4ed7390678",
    "en": "UEBA",
    "tr": "kullanıcı ve varlık davranışını öğrenip sapmayı yakalayan analiz • kullanıcı ve varlık davranışını öğrenip normalden sapmayı yakalayan analiz • normal davranışı öğrenip sapmayı işaretleyen analiz • makine öğrenmesiyle davranış profili çıkarıp sapmayı yakalayan sistem",
@@ -3222,26 +2143,6 @@
     9,
     10,
     11
-   ],
-   "lesson": "s03-l05"
-  },
-  {
-   "id": "fb20fbddaf",
-   "en": "observe but do not block",
-   "tr": "sınav dili: görür ve haber verir, engellemez — preventative'den farkı budur",
-   "type": "terim",
-   "sections": [
-    3
-   ],
-   "lesson": "s03-l05"
-  },
-  {
-   "id": "ed22fd6109",
-   "en": "account disabling",
-   "tr": "ele geçmiş hesabı devre dışı bırakma",
-   "type": "terim",
-   "sections": [
-    3
    ],
    "lesson": "s03-l05"
   },
@@ -3267,29 +2168,9 @@
    "lesson": "s03-l05"
   },
   {
-   "id": "9519eb9843",
-   "en": "backup restoration",
-   "tr": "yedekten geri yükleme",
-   "type": "terim",
-   "sections": [
-    3
-   ],
-   "lesson": "s03-l05"
-  },
-  {
    "id": "c71c873886",
    "en": "post-incident review",
    "tr": "olay sonrası değerlendirme; ne oldu, ne öğrendik",
-   "type": "terim",
-   "sections": [
-    3
-   ],
-   "lesson": "s03-l05"
-  },
-  {
-   "id": "0ad82871fa",
-   "en": "address root cause",
-   "tr": "asıl nedeni gidermek",
    "type": "terim",
    "sections": [
     3
@@ -3303,48 +2184,6 @@
    "type": "kalip",
    "sections": [
     3
-   ],
-   "lesson": "s03-l05"
-  },
-  {
-   "id": "8651981da3",
-   "en": "patch application",
-   "tr": "yama uygulama",
-   "type": "kalip",
-   "sections": [
-    3
-   ],
-   "lesson": "s03-l05"
-  },
-  {
-   "id": "611de0cabf",
-   "en": "Pretty Dogs Run Carefully",
-   "tr": "P-D-R-C sırasını hatırlatan İngilizce hafıza cümlesi",
-   "type": "kalip",
-   "sections": [
-    3
-   ],
-   "lesson": "s03-l05"
-  },
-  {
-   "id": "df28ca3e25",
-   "en": "attack lifecycle",
-   "tr": "saldırının başlangıcından sonuna kadarki aşamaları",
-   "type": "terim",
-   "sections": [
-    3
-   ],
-   "lesson": "s03-l05"
-  },
-  {
-   "id": "c1870a558d",
-   "en": "active compromise",
-   "tr": "sistemin o an ele geçirilmiş olduğu, saldırının sürdüğü durum • hâlihazırda süren ele geçirilme • hâlen süren, canlı ele geçirilme",
-   "type": "terim",
-   "sections": [
-    3,
-    15,
-    40
    ],
    "lesson": "s03-l05"
   },
@@ -3545,26 +2384,6 @@
    "lesson": "s03-l07"
   },
   {
-   "id": "574b0c5911",
-   "en": "ranks assets by",
-   "tr": "varlıkları …e göre sıralar",
-   "type": "terim",
-   "sections": [
-    3
-   ],
-   "lesson": "s03-l07"
-  },
-  {
-   "id": "faaabf119c",
-   "en": "compromise",
-   "tr": "ele geçirilme, bütünlüğünün bozulması",
-   "type": "terim",
-   "sections": [
-    3
-   ],
-   "lesson": "s03-l07"
-  },
-  {
    "id": "223759cdaf",
    "en": "proportionate to",
    "tr": "… ile orantılı; ne fazla ne eksik",
@@ -3692,26 +2511,6 @@
    "lesson": "s03-l07"
   },
   {
-   "id": "5a98535e6b",
-   "en": "translating … into",
-   "tr": "…i …e çevirmek",
-   "type": "kalip",
-   "sections": [
-    3
-   ],
-   "lesson": "s03-l07"
-  },
-  {
-   "id": "abf72c05c8",
-   "en": "revenue",
-   "tr": "gelir, ciro",
-   "type": "kalip",
-   "sections": [
-    3
-   ],
-   "lesson": "s03-l07"
-  },
-  {
    "id": "42274b1c1c",
    "en": "favor … over",
    "tr": "sınav dili: …i …e tercih et",
@@ -3772,80 +2571,6 @@
    "lesson": "s03-l07"
   },
   {
-   "id": "e81686737a",
-   "en": "patching",
-   "tr": "yama geçme • yama uygulama",
-   "type": "kalip",
-   "sections": [
-    4,
-    27
-   ],
-   "lesson": "s04-l01"
-  },
-  {
-   "id": "8c6e326cc8",
-   "en": "workload",
-   "tr": "bulutta çalıştırdığın uygulama/sunucu/iş yükü",
-   "type": "terim",
-   "sections": [
-    4
-   ],
-   "lesson": "s04-l01"
-  },
-  {
-   "id": "272942b07e",
-   "en": "IAM",
-   "tr": "kimin neye erişebileceğini yöneten kimlik ve erişim sistemi • kimlik ve erişim yönetimi: kimin neye erişebileceğini belirleyen sistemin tamamı",
-   "type": "terim",
-   "sections": [
-    4,
-    9
-   ],
-   "lesson": "s04-l01"
-  },
-  {
-   "id": "01ec1f33f1",
-   "en": "secures",
-   "tr": "güvenliğini sağlar",
-   "type": "kalip",
-   "sections": [
-    4,
-    9
-   ],
-   "lesson": "s04-l01"
-  },
-  {
-   "id": "e00b88717e",
-   "en": "you own",
-   "tr": "sen sorumlusun",
-   "type": "kalip",
-   "sections": [
-    4
-   ],
-   "lesson": "s04-l01"
-  },
-  {
-   "id": "e2ac482d12",
-   "en": "hybrid",
-   "tr": "hem kurum içi hem bulut sistemlerin bir arada olduğu yapı • yerelde toplama, bulutta analiz ve saklama; iki modelin birleşimi",
-   "type": "terim",
-   "sections": [
-    4,
-    18
-   ],
-   "lesson": "s04-l01"
-  },
-  {
-   "id": "d697e71478",
-   "en": "the real-world norm",
-   "tr": "gerçek hayatta olağan/standart olan durum",
-   "type": "terim",
-   "sections": [
-    4
-   ],
-   "lesson": "s04-l01"
-  },
-  {
    "id": "3ef9f14d82",
    "en": "correlate",
    "tr": "ilişkilendirmek, eşleştirmek • ilişkili olayları birbirine bağlayıp anlamlı bütün kurma",
@@ -3888,17 +2613,6 @@
    "lesson": "s04-l01"
   },
   {
-   "id": "caab847633",
-   "en": "separates … from",
-   "tr": "…i …den ayırır",
-   "type": "kalip",
-   "sections": [
-    4,
-    5
-   ],
-   "lesson": "s04-l01"
-  },
-  {
    "id": "efe0537c47",
    "en": "enabling",
    "tr": "… mümkün kılarak • … imkânı vererek • …i mümkün kılarak",
@@ -3920,26 +2634,6 @@
    "lesson": "s04-l01"
   },
   {
-   "id": "89186f3b95",
-   "en": "IAM is the perimeter",
-   "tr": "bulutta savunma sınırı ağ değil kimliktir; hesap ele geçerse duvar kalmaz",
-   "type": "terim",
-   "sections": [
-    4
-   ],
-   "lesson": "s04-l01"
-  },
-  {
-   "id": "f20ba188ca",
-   "en": "compromised",
-   "tr": "ele geçirilmiş, güvenliği bozulmuş • ele geçirilmiş",
-   "type": "terim",
-   "sections": [
-    4
-   ],
-   "lesson": "s04-l01"
-  },
-  {
    "id": "103d4d54ed",
    "en": "CloudTrail",
    "tr": "AWS'te yapılan her API çağrısını kaydeden log servisi • AWS'te kimin ne yaptığını kaydeden denetim servisi",
@@ -3954,16 +2648,6 @@
    "id": "7bab25283e",
    "en": "GuardDuty",
    "tr": "AWS'in yerleşik tehdit tespit servisi",
-   "type": "terim",
-   "sections": [
-    4
-   ],
-   "lesson": "s04-l01"
-  },
-  {
-   "id": "1b1fca0aa3",
-   "en": "cloud-native SIEM",
-   "tr": "bulut için tasarlanmış, bulutta çalışan SIEM",
    "type": "terim",
    "sections": [
     4
@@ -4011,19 +2695,6 @@
    "lesson": "s04-l01"
   },
   {
-   "id": "b9b5a945db",
-   "en": "cloud-native",
-   "tr": "baştan bulut için tasarlanmış; sonradan taşınmış değil • doğrudan bulut için tasarlanmış, bulutta çalışan • buluta özgü, yerleşik • buluta özgü",
-   "type": "terim",
-   "sections": [
-    4,
-    18,
-    24,
-    37
-   ],
-   "lesson": "s04-l02"
-  },
-  {
    "id": "b2820171a6",
    "en": "lift-and-shift",
    "tr": "eski uygulamayı olduğu gibi buluta taşıma; bulutun avantajını kullanmaz",
@@ -4040,45 +2711,6 @@
    "type": "terim",
    "sections": [
     4
-   ],
-   "lesson": "s04-l02"
-  },
-  {
-   "id": "89affbf98a",
-   "en": "serverless",
-   "tr": "sunucu yönetmeden, yalnızca kod çalıştırma modeli",
-   "type": "terim",
-   "sections": [
-    4
-   ],
-   "lesson": "s04-l02"
-  },
-  {
-   "id": "b24622c58b",
-   "en": "from the start",
-   "tr": "en baştan itibaren",
-   "type": "kalip",
-   "sections": [
-    4
-   ],
-   "lesson": "s04-l02"
-  },
-  {
-   "id": "37d5c49086",
-   "en": "rather than",
-   "tr": "… yerine • …yerine",
-   "type": "kalip",
-   "sections": [
-    4,
-    11,
-    12,
-    13,
-    18,
-    24,
-    27,
-    28,
-    39,
-    43
    ],
    "lesson": "s04-l02"
   },
@@ -4184,60 +2816,9 @@
    "lesson": "s04-l02"
   },
   {
-   "id": "06887701a1",
-   "en": "inherits",
-   "tr": "devralır; fonksiyonun tüm yetkileri saldırgana geçer • sınav dili: kendi yaptığı bir şeyden değil, ilişkiden devralır",
-   "type": "terim",
-   "sections": [
-    4,
-    36
-   ],
-   "lesson": "s04-l02"
-  },
-  {
-   "id": "24a1733ca8",
-   "en": "direct",
-   "tr": "doğrudan",
-   "type": "kalip",
-   "sections": [
-    4
-   ],
-   "lesson": "s04-l02"
-  },
-  {
-   "id": "bb58d466db",
-   "en": "ties to",
-   "tr": "… ile bağlantılıdır",
-   "type": "kalip",
-   "sections": [
-    4
-   ],
-   "lesson": "s04-l02"
-  },
-  {
    "id": "bc157fda81",
    "en": "may present",
    "tr": "sunabilir, verebilir",
-   "type": "kalip",
-   "sections": [
-    4
-   ],
-   "lesson": "s04-l02"
-  },
-  {
-   "id": "ea5e5de68a",
-   "en": "provides visibility into",
-   "tr": "…e görünürlük sağlar",
-   "type": "kalip",
-   "sections": [
-    4
-   ],
-   "lesson": "s04-l02"
-  },
-  {
-   "id": "27265c444e",
-   "en": "platform-specific",
-   "tr": "platforma özgü",
    "type": "kalip",
    "sections": [
     4
@@ -4295,18 +2876,6 @@
    "lesson": "s04-l03"
   },
   {
-   "id": "4ee64af0b2",
-   "en": "isolation",
-   "tr": "yalıtım; sanallaştırmanın temel güvenlik vaadi • olay sırasında bir makineyi ağdan koparma; tepkisel containment eylemi • analiz ortamından üretime hiçbir yol kalmaması",
-   "type": "terim",
-   "sections": [
-    4,
-    5,
-    20
-   ],
-   "lesson": "s04-l03"
-  },
-  {
    "id": "2c1765d730",
    "en": "bypassing",
    "tr": "atlatarak, devre dışı bırakarak",
@@ -4347,81 +2916,9 @@
    "lesson": "s04-l03"
   },
   {
-   "id": "8cd0f11a71",
-   "en": "regularly",
-   "tr": "düzenli olarak",
-   "type": "kalip",
-   "sections": [
-    4
-   ],
-   "lesson": "s04-l03"
-  },
-  {
-   "id": "e94025be33",
-   "en": "snapshot",
-   "tr": "VM'in belirli bir andaki tam kopyası; bellek ve disk içeriğiyle birlikte",
-   "type": "terim",
-   "sections": [
-    4
-   ],
-   "lesson": "s04-l03"
-  },
-  {
-   "id": "67d0ac6677",
-   "en": "cached credentials",
-   "tr": "bellekte kalmış oturum/parola bilgileri",
-   "type": "terim",
-   "sections": [
-    4
-   ],
-   "lesson": "s04-l03"
-  },
-  {
    "id": "f11f3d182c",
    "en": "persist",
    "tr": "kalıcı olarak saklamak, içinde tutmak",
-   "type": "terim",
-   "sections": [
-    4
-   ],
-   "lesson": "s04-l03"
-  },
-  {
-   "id": "f2e72d9b0b",
-   "en": "east-west traffic",
-   "tr": "aynı ortam içindeki sunucular arası yatay trafik; dışarı çıkmadığı için firewall görmez • iç sistemler arası yatay trafik; dış sınıra uğramadığı için gözden kaçar • iç sistemler arası yatay trafik",
-   "type": "terim",
-   "sections": [
-    4,
-    5,
-    12
-   ],
-   "lesson": "s04-l03"
-  },
-  {
-   "id": "5a27df0609",
-   "en": "perimeter firewall",
-   "tr": "ağın dış sınırındaki güvenlik duvarı",
-   "type": "terim",
-   "sections": [
-    4
-   ],
-   "lesson": "s04-l03"
-  },
-  {
-   "id": "78af4cd452",
-   "en": "micro-segmentation",
-   "tr": "ağı çok küçük parçalara bölüp her biri arasına kural koyma",
-   "type": "terim",
-   "sections": [
-    4
-   ],
-   "lesson": "s04-l03"
-  },
-  {
-   "id": "fbb2bb56dc",
-   "en": "detection gap",
-   "tr": "hiçbir aracın göremediği tespit boşluğu",
    "type": "terim",
    "sections": [
     4
@@ -4479,59 +2976,9 @@
    "lesson": "s04-l03"
   },
   {
-   "id": "2202ec85eb",
-   "en": "adding visibility",
-   "tr": "görünürlük eklemek",
-   "type": "kalip",
-   "sections": [
-    4
-   ],
-   "lesson": "s04-l03"
-  },
-  {
-   "id": "6f3b613d46",
-   "en": "share the host OS kernel",
-   "tr": "kendi çekirdeği yoktur, host'unkini kullanır — VM'den temel farkı budur",
-   "type": "terim",
-   "sections": [
-    4
-   ],
-   "lesson": "s04-l04"
-  },
-  {
    "id": "f74cf74926",
    "en": "hardware stack",
    "tr": "donanım katmanlarının tamamı",
-   "type": "terim",
-   "sections": [
-    4
-   ],
-   "lesson": "s04-l04"
-  },
-  {
-   "id": "67d16fc651",
-   "en": "built in layers",
-   "tr": "üst üste katmanlar hâlinde oluşturulur",
-   "type": "terim",
-   "sections": [
-    4
-   ],
-   "lesson": "s04-l04"
-  },
-  {
-   "id": "72ca927a94",
-   "en": "running from",
-   "tr": "…den türetilip çalışan",
-   "type": "kalip",
-   "sections": [
-    4
-   ],
-   "lesson": "s04-l04"
-  },
-  {
-   "id": "c849e50563",
-   "en": "poisoned image",
-   "tr": "kayıt deposuna zararlı bir imaj sokma; o imajı kullanan herkes etkilenir",
    "type": "terim",
    "sections": [
     4
@@ -4587,16 +3034,6 @@
    "id": "a4f2718239",
    "en": "API server",
    "tr": "Kubernetes'in beyni; tüm komutlar buradan geçer, açıkta olmamalı",
-   "type": "terim",
-   "sections": [
-    4
-   ],
-   "lesson": "s04-l04"
-  },
-  {
-   "id": "fa3a119879",
-   "en": "plaintext secrets",
-   "tr": "şifrelenmemiş, düz metin hâlinde duran parola/anahtarlar",
    "type": "terim",
    "sections": [
     4
@@ -4665,16 +3102,6 @@
    "lesson": "s04-l04"
   },
   {
-   "id": "2ca862715b",
-   "en": "equivalent to",
-   "tr": "…in dengi, karşılığı",
-   "type": "terim",
-   "sections": [
-    4
-   ],
-   "lesson": "s04-l04"
-  },
-  {
    "id": "96efbc0cd1",
    "en": "container escape",
    "tr": "container'dan çıkıp host'a erişme; root çalışıyorsa host'ta da root olur • konteynerin dışına çıkıp ana sisteme erişme",
@@ -4686,130 +3113,9 @@
    "lesson": "s04-l04"
   },
   {
-   "id": "850633c9e0",
-   "en": "explicitly configured",
-   "tr": "açıkça, özellikle ayarlanmış",
-   "type": "terim",
-   "sections": [
-    4
-   ],
-   "lesson": "s04-l04"
-  },
-  {
-   "id": "febaf14d66",
-   "en": "host-level",
-   "tr": "host seviyesinde",
-   "type": "kalip",
-   "sections": [
-    4
-   ],
-   "lesson": "s04-l04"
-  },
-  {
-   "id": "76b1cd1287",
-   "en": "excessive privileges",
-   "tr": "gereğinden fazla yetki",
-   "type": "terim",
-   "sections": [
-    4
-   ],
-   "lesson": "s04-l04"
-  },
-  {
-   "id": "f54d3fc518",
-   "en": "supply chain risk",
-   "tr": "tedarik zinciri riski: güvendiğin bir bileşenin kaynağında ele geçirilmiş olması • tedarik zinciri riski; sorun senin dışında oluşur",
-   "type": "terim",
-   "sections": [
-    4,
-    25
-   ],
-   "lesson": "s04-l04"
-  },
-  {
-   "id": "35e410dcc5",
-   "en": "pulling",
-   "tr": "indirmek, çekmek",
-   "type": "kalip",
-   "sections": [
-    4
-   ],
-   "lesson": "s04-l04"
-  },
-  {
-   "id": "5c1d15ffd9",
-   "en": "public registries",
-   "tr": "herkese açık imaj depoları",
-   "type": "kalip",
-   "sections": [
-    4
-   ],
-   "lesson": "s04-l04"
-  },
-  {
    "id": "a7e9cdc91c",
    "en": "OWASP API Security Top 10",
    "tr": "API'lerdeki en yaygın 10 güvenlik riskini listeleyen referans",
-   "type": "terim",
-   "sections": [
-    4
-   ],
-   "lesson": "s04-l05"
-  },
-  {
-   "id": "5530b68c78",
-   "en": "broken authentication",
-   "tr": "kimlik doğrulamanın hatalı kurulmuş olması",
-   "type": "terim",
-   "sections": [
-    4
-   ],
-   "lesson": "s04-l05"
-  },
-  {
-   "id": "349fbda663",
-   "en": "foundational reference",
-   "tr": "temel başvuru kaynağı",
-   "type": "kalip",
-   "sections": [
-    4
-   ],
-   "lesson": "s04-l05"
-  },
-  {
-   "id": "d198a68ce4",
-   "en": "key risks",
-   "tr": "başlıca riskler",
-   "type": "kalip",
-   "sections": [
-    4
-   ],
-   "lesson": "s04-l05"
-  },
-  {
-   "id": "844b3c64f7",
-   "en": "broken object-level authorization",
-   "tr": "istekteki nesne ID'sini değiştirerek başkasının verisine erişebilme açığı",
-   "type": "terim",
-   "sections": [
-    4
-   ],
-   "lesson": "s04-l05"
-  },
-  {
-   "id": "14dc69de2a",
-   "en": "caller",
-   "tr": "isteği yapan taraf, çağıran",
-   "type": "terim",
-   "sections": [
-    4
-   ],
-   "lesson": "s04-l05"
-  },
-  {
-   "id": "d36389bb1c",
-   "en": "manipulating IDs",
-   "tr": "istekteki kimlik numaralarını elle değiştirme",
    "type": "terim",
    "sections": [
     4
@@ -4880,26 +3186,6 @@
    "sections": [
     4,
     17
-   ],
-   "lesson": "s04-l05"
-  },
-  {
-   "id": "065c5c297f",
-   "en": "leak",
-   "tr": "sızmak",
-   "type": "kalip",
-   "sections": [
-    4
-   ],
-   "lesson": "s04-l05"
-  },
-  {
-   "id": "1dd184d9c3",
-   "en": "enumeration attack",
-   "tr": "ID'leri sırayla deneyerek hangi kayıtların var olduğunu çıkarma",
-   "type": "terim",
-   "sections": [
-    4
    ],
    "lesson": "s04-l05"
   },
@@ -5015,30 +3301,10 @@
    "lesson": "s04-l06"
   },
   {
-   "id": "a04b3f4f11",
-   "en": "device fleet",
-   "tr": "kurumun sahip olduğu tüm cihaz filosu",
-   "type": "terim",
-   "sections": [
-    4
-   ],
-   "lesson": "s04-l06"
-  },
-  {
    "id": "550eb7c891",
    "en": "modern evolution of",
    "tr": "…in bugünkü gelişmiş hâli",
    "type": "terim",
-   "sections": [
-    4
-   ],
-   "lesson": "s04-l06"
-  },
-  {
-   "id": "ecb49e4595",
-   "en": "single console",
-   "tr": "tek yönetim ekranı",
-   "type": "kalip",
    "sections": [
     4
    ],
@@ -5086,17 +3352,6 @@
    "lesson": "s04-l06"
   },
   {
-   "id": "3116193047",
-   "en": "before granting",
-   "tr": "vermeden önce",
-   "type": "kalip",
-   "sections": [
-    4,
-    5
-   ],
-   "lesson": "s04-l06"
-  },
-  {
    "id": "68a4ff7b4f",
    "en": "compliance failures",
    "tr": "uyumsuzluk hataları",
@@ -5128,50 +3383,6 @@
    "lesson": "s04-l06"
   },
   {
-   "id": "21c8b2ebe9",
-   "en": "VLAN",
-   "tr": "aynı fiziksel ağı mantıksal olarak ayrı parçalara bölme",
-   "type": "terim",
-   "sections": [
-    4
-   ],
-   "lesson": "s04-l06"
-  },
-  {
-   "id": "fd14374a0b",
-   "en": "typically",
-   "tr": "genellikle • tipik olarak",
-   "type": "kalip",
-   "sections": [
-    4,
-    6,
-    8,
-    16,
-    30
-   ],
-   "lesson": "s04-l06"
-  },
-  {
-   "id": "eb5779e2b2",
-   "en": "isolate",
-   "tr": "yalıtmak, ayırmak",
-   "type": "kalip",
-   "sections": [
-    4
-   ],
-   "lesson": "s04-l06"
-  },
-  {
-   "id": "eef468373a",
-   "en": "distinctions",
-   "tr": "aralarındaki ayrımlar",
-   "type": "terim",
-   "sections": [
-    4
-   ],
-   "lesson": "s04-l06"
-  },
-  {
    "id": "e743f548b7",
    "en": "deperimeterization",
    "tr": "ağın net bir dış sınırının kalmaması; korunacak tek bir kapı yok artık",
@@ -5195,16 +3406,6 @@
    "id": "89181c09d6",
    "en": "cloud adoption",
    "tr": "kurumun bulut kullanımına geçmesi",
-   "type": "terim",
-   "sections": [
-    5
-   ],
-   "lesson": "s05-l01"
-  },
-  {
-   "id": "c84c22a264",
-   "en": "third-party access",
-   "tr": "tedarikçi/iş ortağının kurum kaynaklarına erişimi",
    "type": "terim",
    "sections": [
     5
@@ -5242,26 +3443,6 @@
    "lesson": "s05-l01"
   },
   {
-   "id": "1e237c3e7e",
-   "en": "segmentation",
-   "tr": "ağı yalıtılmış bölgelere bölme",
-   "type": "terim",
-   "sections": [
-    5
-   ],
-   "lesson": "s05-l01"
-  },
-  {
-   "id": "2325b5113e",
-   "en": "have replaced",
-   "tr": "…in yerini aldı",
-   "type": "kalip",
-   "sections": [
-    5
-   ],
-   "lesson": "s05-l01"
-  },
-  {
    "id": "7f7a396940",
    "en": "control plane / data plane",
    "tr": "control = karar verme düzlemi, data = paketin taşındığı düzlem",
@@ -5278,17 +3459,6 @@
    "type": "kalip",
    "sections": [
     5
-   ],
-   "lesson": "s05-l01"
-  },
-  {
-   "id": "aca2b5eefa",
-   "en": "cloud-native tools",
-   "tr": "bulut için tasarlanmış, bulutun kendi araçları • doğrudan bulut için tasarlanmış araçlar",
-   "type": "terim",
-   "sections": [
-    5,
-    27
    ],
    "lesson": "s05-l01"
   },
@@ -5345,36 +3515,6 @@
    "lesson": "s05-l01"
   },
   {
-   "id": "903e8f3a22",
-   "en": "are absent",
-   "tr": "yok, bulunmuyor",
-   "type": "kalip",
-   "sections": [
-    5
-   ],
-   "lesson": "s05-l01"
-  },
-  {
-   "id": "d14aad7d93",
-   "en": "network location",
-   "tr": "ağdaki konum (içeride/dışarıda olma)",
-   "type": "kalip",
-   "sections": [
-    5
-   ],
-   "lesson": "s05-l02"
-  },
-  {
-   "id": "148966829b",
-   "en": "is trusted",
-   "tr": "güvenilir sayılır",
-   "type": "kalip",
-   "sections": [
-    5
-   ],
-   "lesson": "s05-l02"
-  },
-  {
    "id": "292ca31ee6",
    "en": "NIST SP 800-207",
    "tr": "Zero Trust'ın resmî referans tanımını veren NIST yayını",
@@ -5395,69 +3535,12 @@
    "lesson": "s05-l02"
   },
   {
-   "id": "7ea2fdfd54",
-   "en": "moving … from … to",
-   "tr": "…i …den …e taşımak",
-   "type": "kalip",
-   "sections": [
-    5
-   ],
-   "lesson": "s05-l02"
-  },
-  {
-   "id": "cdd681f546",
-   "en": "device trust and compliance",
-   "tr": "cihazın yamalı, şifreli ve politikaya uygun olup olmadığının doğrulanması",
-   "type": "terim",
-   "sections": [
-    5
-   ],
-   "lesson": "s05-l02"
-  },
-  {
    "id": "92d55352fa",
    "en": "policy-based enforcement",
    "tr": "erişim kararının merkezî politikaya göre zorunlu kılınması",
    "type": "terim",
    "sections": [
     5
-   ],
-   "lesson": "s05-l02"
-  },
-  {
-   "id": "0c21e8b5f6",
-   "en": "core components",
-   "tr": "temel bileşenler",
-   "type": "kalip",
-   "sections": [
-    5,
-    26,
-    37
-   ],
-   "lesson": "s05-l02"
-  },
-  {
-   "id": "9e22dfbed9",
-   "en": "microsegmentation",
-   "tr": "ağı çok küçük yalıtılmış bölgelere bölüp aralarına sıkı kural koyma",
-   "type": "terim",
-   "sections": [
-    5
-   ],
-   "lesson": "s05-l02"
-  },
-  {
-   "id": "9209a93250",
-   "en": "blast radius",
-   "tr": "patlama yarıçapı: bir sistem ele geçtiğinde etkinin nereye kadar yayılabileceği • bir sistem ele geçtiğinde etkinin yayılabileceği alan • hesap ele geçtiğinde etkinin yayılabileceği alan • sınav dili: bir ele geçirilmenin yayılabileceği etki alanı • sınav dili: etkinin yayıldığı alan, patlama yarıçapı • sınav dili: bir olayın yayılabileceği etki alanı • saldırganın etkisinin yayılabileceği alanın tamamı",
-   "type": "terim",
-   "sections": [
-    5,
-    9,
-    19,
-    33,
-    39,
-    41
    ],
    "lesson": "s05-l02"
   },
@@ -5472,105 +3555,12 @@
    "lesson": "s05-l02"
   },
   {
-   "id": "7325d322dc",
-   "en": "divides … into",
-   "tr": "…i …e böler",
-   "type": "kalip",
-   "sections": [
-    5
-   ],
-   "lesson": "s05-l02"
-  },
-  {
-   "id": "41eaab877c",
-   "en": "strict",
-   "tr": "sıkı, katı",
-   "type": "kalip",
-   "sections": [
-    5
-   ],
-   "lesson": "s05-l02"
-  },
-  {
-   "id": "23edc6f071",
-   "en": "flagging",
-   "tr": "işaretleyerek, dikkat çekerek",
-   "type": "kalip",
-   "sections": [
-    5
-   ],
-   "lesson": "s05-l02"
-  },
-  {
-   "id": "f94b2322c8",
-   "en": "anomalous",
-   "tr": "anormal, olağandışı",
-   "type": "kalip",
-   "sections": [
-    5
-   ],
-   "lesson": "s05-l02"
-  },
-  {
-   "id": "7c69c06afe",
-   "en": "granular",
-   "tr": "ince ayrıntılı; her erişim ayrı ayrı kaydedilir • ince ayrıntılı; neyin gönderileceğini tek tek seçebilirsin • ince ayrıntılı, seçici",
-   "type": "terim",
-   "sections": [
-    5,
-    8,
-    10
-   ],
-   "lesson": "s05-l02"
-  },
-  {
-   "id": "09931af789",
-   "en": "improves",
-   "tr": "iyileştirir, artırır",
-   "type": "kalip",
-   "sections": [
-    5
-   ],
-   "lesson": "s05-l02"
-  },
-  {
    "id": "6c6de401ee",
    "en": "network-level vs application-level access",
    "tr": "VPN seni ağın içine alır (her şeye erişirsin); Zero Trust yalnızca ilgili uygulamaya erişim verir",
    "type": "terim",
    "sections": [
     5
-   ],
-   "lesson": "s05-l02"
-  },
-  {
-   "id": "660e55295e",
-   "en": "is not the same as",
-   "tr": "… ile aynı şey değildir",
-   "type": "kalip",
-   "sections": [
-    5
-   ],
-   "lesson": "s05-l02"
-  },
-  {
-   "id": "6b8286fd01",
-   "en": "addresses the problems … creates",
-   "tr": "sınav dili: …in yarattığı sorunlara çözüm getirir",
-   "type": "terim",
-   "sections": [
-    5
-   ],
-   "lesson": "s05-l02"
-  },
-  {
-   "id": "6a5d3b996d",
-   "en": "remote workforces",
-   "tr": "uzaktan çalışan personel",
-   "type": "terim",
-   "sections": [
-    5,
-    28
    ],
    "lesson": "s05-l02"
   },
@@ -5588,16 +3578,6 @@
    "id": "85ae9baf35",
    "en": "SASE",
    "tr": "ağ ve güvenliği tek bir bulut hizmetinde birleştiren mimari",
-   "type": "terim",
-   "sections": [
-    5
-   ],
-   "lesson": "s05-l03"
-  },
-  {
-   "id": "622054d395",
-   "en": "WAN",
-   "tr": "kurumun şubelerini birbirine bağlayan geniş alan ağı",
    "type": "terim",
    "sections": [
     5
@@ -5685,26 +3665,6 @@
    "lesson": "s05-l03"
   },
   {
-   "id": "59713f0b16",
-   "en": "closest to",
-   "tr": "…e en yakın",
-   "type": "kalip",
-   "sections": [
-    5
-   ],
-   "lesson": "s05-l03"
-  },
-  {
-   "id": "7d937f4d69",
-   "en": "eliminating the need to",
-   "tr": "… gereğini ortadan kaldırarak",
-   "type": "kalip",
-   "sections": [
-    5
-   ],
-   "lesson": "s05-l03"
-  },
-  {
    "id": "a7e66a6c99",
    "en": "philosophy vs framework",
    "tr": "Zero Trust bir yaklaşım/ilkedir; SASE onu hayata geçiren somut mimaridir",
@@ -5725,26 +3685,6 @@
    "lesson": "s05-l03"
   },
   {
-   "id": "d66ff6605e",
-   "en": "delivers",
-   "tr": "sunar, teslim eder",
-   "type": "kalip",
-   "sections": [
-    5
-   ],
-   "lesson": "s05-l03"
-  },
-  {
-   "id": "e25b25b68d",
-   "en": "centralizes visibility",
-   "tr": "görünürlüğü tek noktada toplar",
-   "type": "terim",
-   "sections": [
-    5
-   ],
-   "lesson": "s05-l03"
-  },
-  {
    "id": "0a55339e38",
    "en": "regardless of",
    "tr": "…e bakılmaksızın, ne olursa olsun • …e bakılmaksızın",
@@ -5754,26 +3694,6 @@
     8,
     13,
     21
-   ],
-   "lesson": "s05-l03"
-  },
-  {
-   "id": "fcd97eddd0",
-   "en": "flow through",
-   "tr": "… üzerinden akar",
-   "type": "kalip",
-   "sections": [
-    5
-   ],
-   "lesson": "s05-l03"
-  },
-  {
-   "id": "a14d6e1e7f",
-   "en": "a principle",
-   "tr": "bir ilke",
-   "type": "kalip",
-   "sections": [
-    5
    ],
    "lesson": "s05-l03"
   },
@@ -5818,36 +3738,6 @@
    "lesson": "s05-l04"
   },
   {
-   "id": "d3521007ff",
-   "en": "connects … to",
-   "tr": "…i …e bağlar",
-   "type": "kalip",
-   "sections": [
-    5
-   ],
-   "lesson": "s05-l04"
-  },
-  {
-   "id": "42844c6a9b",
-   "en": "site-to-site VPN",
-   "tr": "iki ağı internet üzerinden şifreli tünelle birbirine bağlama",
-   "type": "terim",
-   "sections": [
-    5
-   ],
-   "lesson": "s05-l04"
-  },
-  {
-   "id": "6b265ac365",
-   "en": "encrypted tunnels",
-   "tr": "şifreli tüneller",
-   "type": "kalip",
-   "sections": [
-    5
-   ],
-   "lesson": "s05-l04"
-  },
-  {
    "id": "ca71e4b795",
    "en": "subject to",
    "tr": "…e tabi, …den etkilenen",
@@ -5868,40 +3758,10 @@
    "lesson": "s05-l04"
   },
   {
-   "id": "30ffd0b7c8",
-   "en": "bypasses",
-   "tr": "atlar, hiç uğramaz",
-   "type": "terim",
-   "sections": [
-    5
-   ],
-   "lesson": "s05-l04"
-  },
-  {
-   "id": "5a6c2b6f68",
-   "en": "higher-bandwidth",
-   "tr": "daha yüksek kapasiteli",
-   "type": "kalip",
-   "sections": [
-    5
-   ],
-   "lesson": "s05-l04"
-  },
-  {
    "id": "a276cd157f",
    "en": "transit gateway",
    "tr": "birçok ağı tek merkezden birbirine bağlayan yönlendirme kavşağı",
    "type": "terim",
-   "sections": [
-    5
-   ],
-   "lesson": "s05-l04"
-  },
-  {
-   "id": "259a26ff57",
-   "en": "routing hubs",
-   "tr": "yönlendirme merkezleri",
-   "type": "kalip",
    "sections": [
     5
    ],
@@ -6032,16 +3892,6 @@
    "lesson": "s05-l05"
   },
   {
-   "id": "d136398068",
-   "en": "separate hardware",
-   "tr": "ayrı donanım",
-   "type": "kalip",
-   "sections": [
-    5
-   ],
-   "lesson": "s05-l05"
-  },
-  {
    "id": "cc450e3ad2",
    "en": "shared infrastructure",
    "tr": "ortak/paylaşılan altyapı",
@@ -6072,30 +3922,10 @@
    "lesson": "s05-l05"
   },
   {
-   "id": "f98ae46394",
-   "en": "while maintaining",
-   "tr": "… açık tutarak",
-   "type": "kalip",
-   "sections": [
-    5
-   ],
-   "lesson": "s05-l05"
-  },
-  {
    "id": "e6e3c208fd",
    "en": "volatile memory evidence",
    "tr": "yalnızca RAM'de duran, cihaz kapanınca kaybolan delil (çalışan süreçler, şifre kalıntıları, ağ bağlantıları)",
    "type": "terim",
-   "sections": [
-    5
-   ],
-   "lesson": "s05-l05"
-  },
-  {
-   "id": "97865ec914",
-   "en": "before considering",
-   "tr": "… düşünmeden önce",
-   "type": "kalip",
    "sections": [
     5
    ],
@@ -6154,27 +3984,6 @@
    "lesson": "s05-l05"
   },
   {
-   "id": "fd00349bc0",
-   "en": "forensic evidence",
-   "tr": "adli inceleme için gereken delil • adli inceleme kanıtı",
-   "type": "terim",
-   "sections": [
-    5,
-    11
-   ],
-   "lesson": "s05-l05"
-  },
-  {
-   "id": "994a7b9f07",
-   "en": "select … over",
-   "tr": "sınav dili: …i …e tercih et",
-   "type": "terim",
-   "sections": [
-    5
-   ],
-   "lesson": "s05-l05"
-  },
-  {
    "id": "e900984dc9",
    "en": "preserve",
    "tr": "korumak, muhafaza etmek",
@@ -6183,46 +3992,6 @@
     5
    ],
    "lesson": "s05-l05"
-  },
-  {
-   "id": "8c538c3c13",
-   "en": "least privilege (ağ seviyesinde)",
-   "tr": "yalnızca meşru olarak gereken trafik akışına izin verme",
-   "type": "terim",
-   "sections": [
-    5
-   ],
-   "lesson": "s05-l06"
-  },
-  {
-   "id": "467727e496",
-   "en": "restricted to",
-   "tr": "… ile sınırlı",
-   "type": "kalip",
-   "sections": [
-    5
-   ],
-   "lesson": "s05-l06"
-  },
-  {
-   "id": "a4dbe57498",
-   "en": "legitimately required",
-   "tr": "meşru olarak gerekli",
-   "type": "kalip",
-   "sections": [
-    5
-   ],
-   "lesson": "s05-l06"
-  },
-  {
-   "id": "42aaf8df7a",
-   "en": "bypassing one layer",
-   "tr": "bir katmanı aşmak; diğerleri hâlâ devrededir",
-   "type": "terim",
-   "sections": [
-    5
-   ],
-   "lesson": "s05-l06"
   },
   {
    "id": "ac4f483eba",
@@ -6257,17 +4026,6 @@
    "lesson": "s05-l06"
   },
   {
-   "id": "7354fb826f",
-   "en": "checks",
-   "tr": "denetler, kontrol eder • tek tek çalıştırılan denetim maddeleri",
-   "type": "terim",
-   "sections": [
-    5,
-    31
-   ],
-   "lesson": "s05-l06"
-  },
-  {
    "id": "8d5819c76e",
    "en": "non-compliant",
    "tr": "uyumsuz, şartları sağlamayan • uyum şartlarını sağlamayan",
@@ -6290,111 +4048,9 @@
    "lesson": "s05-l06"
   },
   {
-   "id": "547ff52d6c",
-   "en": "controlled",
-   "tr": "denetlenmeli • denetimli; kimin ne göreceği belirlenmiş",
-   "type": "terim",
-   "sections": [
-    5,
-    23
-   ],
-   "lesson": "s05-l06"
-  },
-  {
-   "id": "9e36086a18",
-   "en": "deviations",
-   "tr": "sapmalar, normalden ayrılmalar • sapmalar",
-   "type": "terim",
-   "sections": [
-    5,
-    13
-   ],
-   "lesson": "s05-l06"
-  },
-  {
    "id": "5f37e308cb",
    "en": "establishes",
    "tr": "kurar, belirler",
-   "type": "kalip",
-   "sections": [
-    5
-   ],
-   "lesson": "s05-l06"
-  },
-  {
-   "id": "5f716ecd3d",
-   "en": "traffic patterns",
-   "tr": "trafik örüntüleri",
-   "type": "kalip",
-   "sections": [
-    5
-   ],
-   "lesson": "s05-l06"
-  },
-  {
-   "id": "3dabad7a81",
-   "en": "consistent intervals",
-   "tr": "düzenli aralıklar",
-   "type": "kalip",
-   "sections": [
-    5
-   ],
-   "lesson": "s05-l06"
-  },
-  {
-   "id": "773a3b986d",
-   "en": "destinations",
-   "tr": "hedefler, varış noktaları",
-   "type": "kalip",
-   "sections": [
-    5
-   ],
-   "lesson": "s05-l06"
-  },
-  {
-   "id": "44ef5bfaf6",
-   "en": "attack path",
-   "tr": "saldırganın giriş noktasından hedefe kadar izlediği yol",
-   "type": "terim",
-   "sections": [
-    5
-   ],
-   "lesson": "s05-l06"
-  },
-  {
-   "id": "6c65ffa92e",
-   "en": "overly permissive firewall rules",
-   "tr": "gereğinden geniş yazılmış güvenlik duvarı kuralları",
-   "type": "terim",
-   "sections": [
-    5
-   ],
-   "lesson": "s05-l06"
-  },
-  {
-   "id": "ffb604b66d",
-   "en": "primary gap",
-   "tr": "sınav dili: ilk bakılacak, en olası eksik",
-   "type": "terim",
-   "sections": [
-    5
-   ],
-   "lesson": "s05-l06"
-  },
-  {
-   "id": "133f210cae",
-   "en": "missing controls",
-   "tr": "eksik kontroller",
-   "type": "kalip",
-   "sections": [
-    5
-   ],
-   "lesson": "s05-l06"
-  },
-  {
-   "id": "7d2f3bbd0f",
-   "en": "check for",
-   "tr": "…i araştır, ona bak",
    "type": "kalip",
    "sections": [
     5
