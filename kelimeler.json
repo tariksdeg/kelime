@@ -1360,18 +1360,6 @@
    "lesson": "s02-l02"
   },
   {
-   "id": "b81f23f7ac",
-   "en": "high-volume",
-   "tr": "yüksek hacimli, çok sayıda • yüksek hacimli",
-   "type": "kalip",
-   "sections": [
-    2,
-    14,
-    25
-   ],
-   "lesson": "s02-l02"
-  },
-  {
    "id": "2878f605e7",
    "en": "alert fatigue",
    "tr": "alarm yorgunluğu: çok fazla alarma maruz kalan analistin duyarsızlaşıp gerçek olanı kaçırması • alarm bombardımanından yorulup gerçek alarmı görememe • alarm bombardımanından yorulup gerçek alarmı elemek",
@@ -1940,17 +1928,6 @@
    "sections": [
     2,
     4
-   ],
-   "lesson": "s02-l04"
-  },
-  {
-   "id": "a28100fa6a",
-   "en": "cover",
-   "tr": "kapsar",
-   "type": "kalip",
-   "sections": [
-    2,
-    14
    ],
    "lesson": "s02-l04"
   },
@@ -4116,17 +4093,6 @@
    "lesson": "s04-l02"
   },
   {
-   "id": "eeb0bdaf31",
-   "en": "appears as",
-   "tr": "… olarak görünür • …şeklinde görünür",
-   "type": "kalip",
-   "sections": [
-    4,
-    14
-   ],
-   "lesson": "s04-l02"
-  },
-  {
    "id": "2395733131",
    "en": "AWS Lambda",
    "tr": "çağrıldığında çalışıp biten, sürekli açık sunucu gerektirmeyen fonksiyon servisi",
@@ -4928,17 +4894,6 @@
    "lesson": "s04-l05"
   },
   {
-   "id": "98989e06bd",
-   "en": "API gateway",
-   "tr": "tüm API isteklerinin geçtiği kapı; izleme ve kontrol için ideal nokta • API çağrılarının hepsinin geçtiği, kayıt ve kısıtlama uygulanan giriş kapısı",
-   "type": "terim",
-   "sections": [
-    4,
-    14
-   ],
-   "lesson": "s04-l05"
-  },
-  {
    "id": "1dd184d9c3",
    "en": "enumeration attack",
    "tr": "ID'leri sırayla deneyerek hangi kayıtların var olduğunu çıkarma",
@@ -4975,25 +4930,6 @@
    "type": "kalip",
    "sections": [
     4
-   ],
-   "lesson": "s04-l05"
-  },
-  {
-   "id": "a1a7497010",
-   "en": "maps to",
-   "tr": "…e karşılık gelir • sınav dili: …ile eşleşir, …e karşılık gelir • …ile eşleşir • şunlara karşılık gelir • …ile eşlenir",
-   "type": "terim",
-   "sections": [
-    4,
-    10,
-    12,
-    13,
-    14,
-    21,
-    29,
-    31,
-    36,
-    43
    ],
    "lesson": "s04-l05"
   },
@@ -5576,17 +5512,6 @@
    "lesson": "s05-l02"
   },
   {
-   "id": "b0b7aa119a",
-   "en": "access patterns",
-   "tr": "erişim örüntüleri",
-   "type": "kalip",
-   "sections": [
-    5,
-    14
-   ],
-   "lesson": "s05-l02"
-  },
-  {
    "id": "7c69c06afe",
    "en": "granular",
    "tr": "ince ayrıntılı; her erişim ayrı ayrı kaydedilir • ince ayrıntılı; neyin gönderileceğini tek tek seçebilirsin • ince ayrıntılı, seçici",
@@ -5909,17 +5834,6 @@
    "type": "terim",
    "sections": [
     5
-   ],
-   "lesson": "s05-l04"
-  },
-  {
-   "id": "c3b9a01442",
-   "en": "latency",
-   "tr": "gecikme: verinin gidip gelme süresi • isteğe cevap verme gecikmesi",
-   "type": "terim",
-   "sections": [
-    5,
-    14
    ],
    "lesson": "s05-l04"
   },
@@ -6684,16 +6598,6 @@
    "lesson": "s06-l01"
   },
   {
-   "id": "9db49a5924",
-   "en": "contacts",
-   "tr": "irtibata geçer",
-   "type": "kalip",
-   "sections": [
-    6
-   ],
-   "lesson": "s06-l01"
-  },
-  {
    "id": "e711631380",
    "en": "entity",
    "tr": "kuruluş, varlık • grafikteki her bir varlık: alan adı, IP, kişi",
@@ -6789,16 +6693,6 @@
    "id": "e66c06b6e1",
    "en": "specialized",
    "tr": "özelleşmiş",
-   "type": "kalip",
-   "sections": [
-    6
-   ],
-   "lesson": "s06-l02"
-  },
-  {
-   "id": "1b39ac7672",
-   "en": "compared to",
-   "tr": "… ile karşılaştırıldığında",
    "type": "kalip",
    "sections": [
     6
@@ -7003,16 +6897,6 @@
    "id": "4c1befb49c",
    "en": "DNP3",
    "tr": "elektrik/su sektöründe yaygın endüstriyel protokol",
-   "type": "terim",
-   "sections": [
-    6
-   ],
-   "lesson": "s06-l03"
-  },
-  {
-   "id": "2efe5b950b",
-   "en": "no authentication or encryption",
-   "tr": "kim gönderdiği doğrulanmaz, içerik de şifrelenmez",
    "type": "terim",
    "sections": [
     6
@@ -7444,17 +7328,6 @@
    "lesson": "s06-l05"
   },
   {
-   "id": "0563a04865",
-   "en": "exploitation of",
-   "tr": "…in sömürülmesi • …in istismarı",
-   "type": "kalip",
-   "sections": [
-    6,
-    14
-   ],
-   "lesson": "s06-l05"
-  },
-  {
    "id": "1b7c142f01",
    "en": "living-off-the-land (OT'de)",
    "tr": "meşru endüstriyel protokolleri kullanarak normal trafiğin içine karışma",
@@ -7828,17 +7701,6 @@
    "lesson": "s06-l06"
   },
   {
-   "id": "08d79bb915",
-   "en": "targeting",
-   "tr": "hedef alan • …i hedef alan",
-   "type": "kalip",
-   "sections": [
-    6,
-    14
-   ],
-   "lesson": "s06-l06"
-  },
-  {
    "id": "fa2bc309cc",
    "en": "NIST SP 800-82",
    "tr": "OT/ICS güvenliği için NIST'in başlıca referans yayını • endüstriyel kontrol sistemleri güvenliği için NIST rehberi",
@@ -8130,18 +7992,6 @@
    "type": "terim",
    "sections": [
     7
-   ],
-   "lesson": "s07-l02"
-  },
-  {
-   "id": "bdad5f72e0",
-   "en": "configuration drift",
-   "tr": "zamanla yapılan tek tek değişikliklerle ayarların güvenli başlangıç durumundan kayması • ayarların zamanla güvenli başlangıç durumundan sapması • yapılandırmanın onaylı hâlden sapması • ortamların zamanla onaylı yapılandırmadan uzaklaşması",
-   "type": "terim",
-   "sections": [
-    7,
-    14,
-    26
    ],
    "lesson": "s07-l02"
   },
@@ -13508,18 +13358,6 @@
    "lesson": "s12-l04"
   },
   {
-   "id": "cb29596401",
-   "en": "to avoid",
-   "tr": "…den kaçınmak için",
-   "type": "kalip",
-   "sections": [
-    12,
-    14,
-    28
-   ],
-   "lesson": "s12-l04"
-  },
-  {
    "id": "d810ca965a",
    "en": "constant",
    "tr": "sürekli, bitmeyen",
@@ -13725,16 +13563,6 @@
    "en": "occurring at",
    "tr": "… zamanında gerçekleşen",
    "type": "kalip",
-   "sections": [
-    12
-   ],
-   "lesson": "s12-l05"
-  },
-  {
-   "id": "1cccc92ba2",
-   "en": "associated detection tools",
-   "tr": "her kategoriye karşılık gelen tespit araçları",
-   "type": "terim",
    "sections": [
     12
    ],
@@ -14211,17 +14039,6 @@
    "lesson": "s13-l02"
   },
   {
-   "id": "849bafd268",
-   "en": "surfaces",
-   "tr": "ortaya çıkarır",
-   "type": "kalip",
-   "sections": [
-    13,
-    14
-   ],
-   "lesson": "s13-l02"
-  },
-  {
    "id": "b2ed221f17",
    "en": "sophisticated",
    "tr": "gelişmiş, ustaca davranan",
@@ -14340,17 +14157,6 @@
    "type": "terim",
    "sections": [
     13
-   ],
-   "lesson": "s13-l03"
-  },
-  {
-   "id": "debe56da9b",
-   "en": "resource exhaustion",
-   "tr": "kaynakları tüketerek hizmeti durdurma • kaynakları tüketerek servisi durdurma • az istekle pahalı işlemleri tetikleyip kaynakları tüketme",
-   "type": "terim",
-   "sections": [
-    13,
-    14
    ],
    "lesson": "s13-l03"
   },
@@ -15281,29 +15087,9 @@
    "lesson": "s13-l09"
   },
   {
-   "id": "54b223f8de",
-   "en": "API abuse",
-   "tr": "uygulamanın arayüzünün amacı dışında, kötü niyetle kullanılması",
-   "type": "terim",
-   "sections": [
-    14
-   ],
-   "lesson": "s14-l01"
-  },
-  {
    "id": "35cebd0541",
    "en": "service flooding",
    "tr": "servisi istek yağmuruna tutup cevap veremez hâle getirme",
-   "type": "terim",
-   "sections": [
-    14
-   ],
-   "lesson": "s14-l01"
-  },
-  {
-   "id": "361602d061",
-   "en": "IAM abuse",
-   "tr": "bulut kimlik ve yetki sisteminin kötüye kullanılması",
    "type": "terim",
    "sections": [
     14
@@ -15321,130 +15107,9 @@
    "lesson": "s14-l01"
   },
   {
-   "id": "bf980fa932",
-   "en": "inside or through an application",
-   "tr": "bir uygulamanın içinde ya da üzerinden",
-   "type": "kalip",
-   "sections": [
-    14
-   ],
-   "lesson": "s14-l01"
-  },
-  {
-   "id": "88134f786f",
-   "en": "log deletion",
-   "tr": "kayıtların silinmesi",
-   "type": "kalip",
-   "sections": [
-    14
-   ],
-   "lesson": "s14-l01"
-  },
-  {
-   "id": "ff65ce555e",
-   "en": "anomalous activity",
-   "tr": "henüz doğrulanmamış, incelenmekte olan şüpheli davranış (uyarı aşaması)",
-   "type": "terim",
-   "sections": [
-    14
-   ],
-   "lesson": "s14-l01"
-  },
-  {
-   "id": "25256f2207",
-   "en": "resource compromise",
-   "tr": "kaynağın fiilen ele geçirilmiş veya kötüye kullanılmış olması (etki aşaması)",
-   "type": "terim",
-   "sections": [
-    14
-   ],
-   "lesson": "s14-l01"
-  },
-  {
-   "id": "c0d97e8b0b",
-   "en": "this distinction is directly tested",
-   "tr": "sınav dili: bu ayrım doğrudan soru konusudur",
-   "type": "terim",
-   "sections": [
-    14
-   ],
-   "lesson": "s14-l01"
-  },
-  {
-   "id": "a96734e095",
-   "en": "still under investigation",
-   "tr": "hâlâ inceleme aşamasında",
-   "type": "kalip",
-   "sections": [
-    14
-   ],
-   "lesson": "s14-l01"
-  },
-  {
    "id": "41687fe1fd",
    "en": "taken over",
    "tr": "devralınmış, ele geçirilmiş",
-   "type": "kalip",
-   "sections": [
-    14
-   ],
-   "lesson": "s14-l01"
-  },
-  {
-   "id": "c427fcce63",
-   "en": "misused",
-   "tr": "kötüye kullanılmış",
-   "type": "terim",
-   "sections": [
-    14,
-    25
-   ],
-   "lesson": "s14-l01"
-  },
-  {
-   "id": "7836a03a0b",
-   "en": "traffic hitting the app",
-   "tr": "uygulamaya gelen, üzerine düşen trafik",
-   "type": "terim",
-   "sections": [
-    14
-   ],
-   "lesson": "s14-l01"
-  },
-  {
-   "id": "d99ad74c7b",
-   "en": "backend systems",
-   "tr": "uygulamanın arkasında konuştuğu sistemler (veritabanı, servisler)",
-   "type": "terim",
-   "sections": [
-    14
-   ],
-   "lesson": "s14-l01"
-  },
-  {
-   "id": "51179c1ada",
-   "en": "three layers simultaneously",
-   "tr": "üç katmana aynı anda",
-   "type": "kalip",
-   "sections": [
-    14
-   ],
-   "lesson": "s14-l01"
-  },
-  {
-   "id": "292b090199",
-   "en": "watch",
-   "tr": "izle, göz kulak ol",
-   "type": "kalip",
-   "sections": [
-    14
-   ],
-   "lesson": "s14-l01"
-  },
-  {
-   "id": "ca129369f4",
-   "en": "talks to",
-   "tr": "iletişim kurduğu",
    "type": "kalip",
    "sections": [
     14
@@ -15482,110 +15147,10 @@
    "lesson": "s14-l01"
   },
   {
-   "id": "5d9404a975",
-   "en": "service disruption",
-   "tr": "hizmet kesintisi",
-   "type": "kalip",
-   "sections": [
-    14
-   ],
-   "lesson": "s14-l01"
-  },
-  {
-   "id": "0d965b8e3a",
-   "en": "the warning phase",
-   "tr": "sınav dili: henüz uyarı aşaması; kanıt tamamlanmamış • uyarı aşaması; henüz doğrulanmamış",
-   "type": "terim",
-   "sections": [
-    14
-   ],
-   "lesson": "s14-l01"
-  },
-  {
-   "id": "793170c8d9",
-   "en": "confirmed impact",
-   "tr": "doğrulanmış, gerçekleşmiş etki",
-   "type": "terim",
-   "sections": [
-    14
-   ],
-   "lesson": "s14-l01"
-  },
-  {
-   "id": "07568e6cff",
-   "en": "sub-bullets",
-   "tr": "sınav hedefinin altındaki alt maddeler",
-   "type": "terim",
-   "sections": [
-    14
-   ],
-   "lesson": "s14-l01"
-  },
-  {
-   "id": "7deabb7670",
-   "en": "by category",
-   "tr": "kategori kategori, kategorisine göre",
-   "type": "kalip",
-   "sections": [
-    14
-   ],
-   "lesson": "s14-l01"
-  },
-  {
-   "id": "f84af035ac",
-   "en": "access and error logs",
-   "tr": "web sunucusunun gelen istekleri ve hataları tuttuğu iki ayrı kayıt",
-   "type": "terim",
-   "sections": [
-    14
-   ],
-   "lesson": "s14-l02"
-  },
-  {
-   "id": "e2db9a749b",
-   "en": "WAF (Web Application Firewall)",
-   "tr": "uygulamaya gelen HTTP trafiğini saldırı kalıplarına göre süzen güvenlik duvarı",
-   "type": "terim",
-   "sections": [
-    14
-   ],
-   "lesson": "s14-l02"
-  },
-  {
    "id": "38a936bc7e",
    "en": "draws from",
    "tr": "…den beslenir, …i kaynak alır",
    "type": "kalip",
-   "sections": [
-    14
-   ],
-   "lesson": "s14-l02"
-  },
-  {
-   "id": "89a9a0c6b9",
-   "en": "primary log sources",
-   "tr": "başlıca kayıt kaynakları",
-   "type": "kalip",
-   "sections": [
-    14
-   ],
-   "lesson": "s14-l02"
-  },
-  {
-   "id": "8a42d80424",
-   "en": "HTTP status codes",
-   "tr": "sunucunun isteğe verdiği sonuç numarası (200, 403, 500 gibi)",
-   "type": "terim",
-   "sections": [
-    14
-   ],
-   "lesson": "s14-l02"
-  },
-  {
-   "id": "76b358d6f9",
-   "en": "quick triage indicators",
-   "tr": "sınav dili: ilk elemeyi hızlı yaptıran göstergeler",
-   "type": "terim",
    "sections": [
     14
    ],
@@ -15622,92 +15187,10 @@
    "lesson": "s14-l02"
   },
   {
-   "id": "1c63e0d656",
-   "en": "blind spots",
-   "tr": "aracın göremediği kör noktalar • hiçbir verinin toplanmadığı kör noktalar • modelin göremediği kör noktalar",
-   "type": "terim",
-   "sections": [
-    14,
-    18,
-    25
-   ],
-   "lesson": "s14-l02"
-  },
-  {
-   "id": "6d6f403f83",
-   "en": "TLS is terminated downstream",
-   "tr": "şifre çözme WAF'tan sonra yapılıyorsa WAF içeriği göremez",
-   "type": "terim",
-   "sections": [
-    14
-   ],
-   "lesson": "s14-l02"
-  },
-  {
-   "id": "78617c2502",
-   "en": "inspects traffic blind",
-   "tr": "sınav dili: trafiği göremeden, körlemesine denetler",
-   "type": "terim",
-   "sections": [
-    14
-   ],
-   "lesson": "s14-l02"
-  },
-  {
-   "id": "cd8f5969f2",
-   "en": "block and log",
-   "tr": "engeller ve kaydeder",
-   "type": "kalip",
-   "sections": [
-    14
-   ],
-   "lesson": "s14-l02"
-  },
-  {
-   "id": "8b90195821",
-   "en": "always correlate ... with",
-   "tr": "daima …ile ilişkilendir",
-   "type": "kalip",
-   "sections": [
-    14
-   ],
-   "lesson": "s14-l02"
-  },
-  {
-   "id": "9769b07967",
-   "en": "correlation engine",
-   "tr": "farklı kaynaklardan gelen sinyalleri birleştiren motor",
-   "type": "terim",
-   "sections": [
-    14
-   ],
-   "lesson": "s14-l02"
-  },
-  {
    "id": "e28616ab1a",
    "en": "actionable stories",
    "tr": "sınav dili: üzerine işlem yapılabilir, anlamlı bütün hâline gelmiş anlatı",
    "type": "terim",
-   "sections": [
-    14
-   ],
-   "lesson": "s14-l02"
-  },
-  {
-   "id": "6ee4ecad8c",
-   "en": "connects signals across",
-   "tr": "…genelindeki sinyalleri birbirine bağlar",
-   "type": "kalip",
-   "sections": [
-    14
-   ],
-   "lesson": "s14-l02"
-  },
-  {
-   "id": "ecfd85d171",
-   "en": "application health",
-   "tr": "uygulamanın sağlık durumu",
-   "type": "kalip",
    "sections": [
     14
    ],
@@ -15734,112 +15217,10 @@
    "lesson": "s14-l02"
   },
   {
-   "id": "0e63c76850",
-   "en": "distinguish ... from",
-   "tr": "…i …den ayırt eder • …i …den ayır",
-   "type": "kalip",
-   "sections": [
-    14,
-    37
-   ],
-   "lesson": "s14-l02"
-  },
-  {
-   "id": "429380bb27",
-   "en": "error rates",
-   "tr": "hata oranları",
-   "type": "kalip",
-   "sections": [
-    14
-   ],
-   "lesson": "s14-l02"
-  },
-  {
-   "id": "a4ae1e9685",
-   "en": "not a simple bug",
-   "tr": "sıradan bir yazılım hatası değil",
-   "type": "kalip",
-   "sections": [
-    14
-   ],
-   "lesson": "s14-l02"
-  },
-  {
-   "id": "198b867ce0",
-   "en": "which tool does which job",
-   "tr": "sınav dili: hangi aracın hangi işi yaptığı",
-   "type": "terim",
-   "sections": [
-    14
-   ],
-   "lesson": "s14-l02"
-  },
-  {
-   "id": "3ad3c4ab91",
-   "en": "swapping these roles ... costs points",
-   "tr": "sınav dili: bu rolleri karıştırmak puan kaybettirir",
-   "type": "terim",
-   "sections": [
-    14
-   ],
-   "lesson": "s14-l02"
-  },
-  {
-   "id": "338908d77d",
-   "en": "alerts",
-   "tr": "alarm üretir • aracın ürettiği bulgu uyarıları",
-   "type": "terim",
-   "sections": [
-    14,
-    30
-   ],
-   "lesson": "s14-l02"
-  },
-  {
-   "id": "544ab1bf1e",
-   "en": "across multiple sources",
-   "tr": "birden çok kaynak genelinde",
-   "type": "kalip",
-   "sections": [
-    14
-   ],
-   "lesson": "s14-l02"
-  },
-  {
    "id": "c4d0b1ce08",
    "en": "T1190 (Exploit Public-Facing Application)",
    "tr": "internete açık uygulamadaki zafiyetin istismarı",
    "type": "terim",
-   "sections": [
-    14
-   ],
-   "lesson": "s14-l02"
-  },
-  {
-   "id": "eedede177f",
-   "en": "the relevant technique",
-   "tr": "sınav dili: bu senaryoda geçerli olan teknik",
-   "type": "terim",
-   "sections": [
-    14
-   ],
-   "lesson": "s14-l02"
-  },
-  {
-   "id": "c3bef3323f",
-   "en": "correlated ... signals",
-   "tr": "ilişkilendirilmiş sinyaller",
-   "type": "kalip",
-   "sections": [
-    14
-   ],
-   "lesson": "s14-l02"
-  },
-  {
-   "id": "f3e84932e1",
-   "en": "point to the same source IP",
-   "tr": "aynı kaynak IP'yi işaret eder",
-   "type": "kalip",
    "sections": [
     14
    ],
@@ -15856,27 +15237,6 @@
    "lesson": "s14-l03"
   },
   {
-   "id": "254529d333",
-   "en": "API rate limit abuse",
-   "tr": "istek sınırının sınırında/üstünde kalarak API'yi zorlama",
-   "type": "terim",
-   "sections": [
-    14
-   ],
-   "lesson": "s14-l03"
-  },
-  {
-   "id": "a313d6f272",
-   "en": "log signature",
-   "tr": "her saldırının kayıtlarda bıraktığı kendine özgü iz deseni • saldırının kayıtlarda bıraktığı ayırt edici desen",
-   "type": "terim",
-   "sections": [
-    14,
-    16
-   ],
-   "lesson": "s14-l03"
-  },
-  {
    "id": "3f6590a893",
    "en": "distinct patterns",
    "tr": "birbirinden ayrı desenler",
@@ -15887,71 +15247,9 @@
    "lesson": "s14-l03"
   },
   {
-   "id": "1a887af0ab",
-   "en": "each has a different",
-   "tr": "her birinin farklı bir … vardır",
-   "type": "kalip",
-   "sections": [
-    14
-   ],
-   "lesson": "s14-l03"
-  },
-  {
-   "id": "a47f29d73f",
-   "en": "sharp spike",
-   "tr": "keskin, dik yükseliş",
-   "type": "terim",
-   "sections": [
-    14
-   ],
-   "lesson": "s14-l03"
-  },
-  {
-   "id": "da17b17186",
-   "en": "503 Service Unavailable",
-   "tr": "sunucunun isteği karşılayamadığını bildiren durum kodu",
-   "type": "terim",
-   "sections": [
-    14
-   ],
-   "lesson": "s14-l03"
-  },
-  {
    "id": "a586b6f6d9",
    "en": "corresponding",
    "tr": "buna karşılık gelen, eş zamanlı artan",
-   "type": "terim",
-   "sections": [
-    14
-   ],
-   "lesson": "s14-l03"
-  },
-  {
-   "id": "0cbec1a4b6",
-   "en": "total request volume",
-   "tr": "toplam istek hacmi",
-   "type": "kalip",
-   "sections": [
-    14
-   ],
-   "lesson": "s14-l03"
-  },
-  {
-   "id": "80b2f559a1",
-   "en": "equals",
-   "tr": "…demektir, …e eşittir • …demektir",
-   "type": "kalip",
-   "sections": [
-    14,
-    22,
-    25
-   ],
-   "lesson": "s14-l03"
-  },
-  {
-   "id": "8facb41419",
-   "en": "database connections",
-   "tr": "veritabanına açılan bağlantı sayısı; tükenirse uygulama durur",
    "type": "terim",
    "sections": [
     14
@@ -15979,26 +15277,6 @@
    "lesson": "s14-l03"
   },
   {
-   "id": "c6e0f487e1",
-   "en": "slow query logs",
-   "tr": "yavaş çalışan veritabanı sorgularının kaydı",
-   "type": "terim",
-   "sections": [
-    14
-   ],
-   "lesson": "s14-l03"
-  },
-  {
-   "id": "fcd4a72371",
-   "en": "moderate traffic volume",
-   "tr": "orta düzeyde trafik hacmi",
-   "type": "kalip",
-   "sections": [
-    14
-   ],
-   "lesson": "s14-l03"
-  },
-  {
    "id": "7591b9c3ab",
    "en": "transaction traces",
    "tr": "işlem izleri, çağrı dökümleri",
@@ -16009,139 +15287,9 @@
    "lesson": "s14-l03"
   },
   {
-   "id": "ad4483655c",
-   "en": "call rates",
-   "tr": "birim zamandaki çağrı sayısı",
-   "type": "terim",
-   "sections": [
-    14
-   ],
-   "lesson": "s14-l03"
-  },
-  {
    "id": "96a8cede08",
    "en": "user traffic profiles",
    "tr": "normal kullanıcı trafiğinin tanınmış hâli, profili",
-   "type": "terim",
-   "sections": [
-    14
-   ],
-   "lesson": "s14-l03"
-  },
-  {
-   "id": "f8fb02a766",
-   "en": "above baseline",
-   "tr": "normal seviyenin üzerinde",
-   "type": "kalip",
-   "sections": [
-    14
-   ],
-   "lesson": "s14-l03"
-  },
-  {
-   "id": "14aaffddfa",
-   "en": "don't match",
-   "tr": "uyuşmayan, örtüşmeyen • uyuşmayan",
-   "type": "kalip",
-   "sections": [
-    14
-   ],
-   "lesson": "s14-l03"
-  },
-  {
-   "id": "63ee1bac57",
-   "en": "429 (rate-limited)",
-   "tr": "çok fazla istek gönderildiği için reddedildi durum kodu",
-   "type": "terim",
-   "sections": [
-    14
-   ],
-   "lesson": "s14-l03"
-  },
-  {
-   "id": "cf2050365e",
-   "en": "signal an attack",
-   "tr": "sınav dili: saldırıya işaret eder",
-   "type": "terim",
-   "sections": [
-    14
-   ],
-   "lesson": "s14-l03"
-  },
-  {
-   "id": "fda522f14e",
-   "en": "mostly",
-   "tr": "çoğunlukla",
-   "type": "kalip",
-   "sections": [
-    14
-   ],
-   "lesson": "s14-l03"
-  },
-  {
-   "id": "abc5eed215",
-   "en": "likely legitimate users",
-   "tr": "büyük ihtimalle gerçek kullanıcılar",
-   "type": "kalip",
-   "sections": [
-    14
-   ],
-   "lesson": "s14-l03"
-  },
-  {
-   "id": "3bce8b7c91",
-   "en": "masks other attack activity",
-   "tr": "sınav dili: başka bir saldırı faaliyetinin üstünü örter",
-   "type": "terim",
-   "sections": [
-    14
-   ],
-   "lesson": "s14-l03"
-  },
-  {
-   "id": "56384195c1",
-   "en": "pull analyst attention",
-   "tr": "analistin dikkatini oraya çekmek",
-   "type": "terim",
-   "sections": [
-    14
-   ],
-   "lesson": "s14-l03"
-  },
-  {
-   "id": "959cfbae65",
-   "en": "moving laterally",
-   "tr": "ağ içinde makineden makineye ilerlemek",
-   "type": "terim",
-   "sections": [
-    14
-   ],
-   "lesson": "s14-l03"
-  },
-  {
-   "id": "8baf1a8505",
-   "en": "elsewhere",
-   "tr": "başka bir yerde",
-   "type": "kalip",
-   "sections": [
-    14
-   ],
-   "lesson": "s14-l03"
-  },
-  {
-   "id": "34c8e29c52",
-   "en": "high load",
-   "tr": "yüksek kaynak yükü",
-   "type": "terim",
-   "sections": [
-    14
-   ],
-   "lesson": "s14-l03"
-  },
-  {
-   "id": "1565bc5943",
-   "en": "just because",
-   "tr": "sınav dili: sırf … diye (yanlış çıkarım uyarısı)",
    "type": "terim",
    "sections": [
     14
@@ -16159,16 +15307,6 @@
    "lesson": "s14-l03"
   },
   {
-   "id": "4a21a0e057",
-   "en": "sub-technique",
-   "tr": "ATT&CK'te bir tekniğin altındaki daha dar tanımlı alt teknik",
-   "type": "terim",
-   "sections": [
-    14
-   ],
-   "lesson": "s14-l03"
-  },
-  {
    "id": "f66457c451",
    "en": "T1499.003 (Application Exhaustion Flood)",
    "tr": "uygulamayı pahalı isteklerle tüketerek çökertme alt tekniği",
@@ -16179,59 +15317,9 @@
    "lesson": "s14-l03"
   },
   {
-   "id": "172a6e5362",
-   "en": "under the Impact tactic",
-   "tr": "Impact taktiği altında",
-   "type": "kalip",
-   "sections": [
-    14
-   ],
-   "lesson": "s14-l03"
-  },
-  {
-   "id": "8522b4f255",
-   "en": "exploits application functionality without breaking it",
-   "tr": "sınav dili: uygulamayı bozmadan, kendi işlevini kötüye kullanarak istismar eder",
-   "type": "terim",
-   "sections": [
-    14
-   ],
-   "lesson": "s14-l04"
-  },
-  {
-   "id": "f9c65fbf8f",
-   "en": "SQL injection",
-   "tr": "girdi alanına veritabanı komutu sızdırarak sorguyu ele geçirme",
-   "type": "terim",
-   "sections": [
-    14
-   ],
-   "lesson": "s14-l04"
-  },
-  {
-   "id": "b7cc16d511",
-   "en": "stay under alert thresholds",
-   "tr": "alarm eşiğinin altında kalacak hızda ilerleme",
-   "type": "terim",
-   "sections": [
-    14
-   ],
-   "lesson": "s14-l04"
-  },
-  {
    "id": "7237849c0d",
    "en": "the same parameter with slightly varying inputs",
    "tr": "aynı parametreye ufak ufak değiştirilmiş girdilerle vurma; deneme-yanılma göstergesi",
-   "type": "terim",
-   "sections": [
-    14
-   ],
-   "lesson": "s14-l04"
-  },
-  {
-   "id": "0500cbf599",
-   "en": "more reliable than either signal alone",
-   "tr": "sınav dili: iki sinyalin birlikteliği, tek başına her birinden daha güvenilirdir",
    "type": "terim",
    "sections": [
     14
@@ -16249,16 +15337,6 @@
    "lesson": "s14-l04"
   },
   {
-   "id": "a73e06e891",
-   "en": "the combination of",
-   "tr": "…in bir arada bulunması",
-   "type": "kalip",
-   "sections": [
-    14
-   ],
-   "lesson": "s14-l04"
-  },
-  {
    "id": "6ddc4f15d7",
    "en": "Broken Object Level Authorization (BOLA)",
    "tr": "kullanıcının başkasına ait kayda erişebilmesi; yetki kontrolünün nesne düzeyinde eksik olması",
@@ -16269,49 +15347,9 @@
    "lesson": "s14-l04"
   },
   {
-   "id": "998e88d65b",
-   "en": "sequential enumeration of resource IDs",
-   "tr": "kaynak numaralarının sırayla artırılarak denenmesi",
-   "type": "terim",
-   "sections": [
-    14
-   ],
-   "lesson": "s14-l04"
-  },
-  {
-   "id": "1d1712d766",
-   "en": "a mix of 200 and 403",
-   "tr": "bazılarına erişildi bazılarına engellendi; tarama yapıldığının işareti",
-   "type": "terim",
-   "sections": [
-    14
-   ],
-   "lesson": "s14-l04"
-  },
-  {
-   "id": "96147a62c7",
-   "en": "single authenticated session",
-   "tr": "tek bir oturum açmış kullanıcı oturumu",
-   "type": "kalip",
-   "sections": [
-    14
-   ],
-   "lesson": "s14-l04"
-  },
-  {
    "id": "791505c4e0",
    "en": "velocity-based rate limiting",
    "tr": "birim zamandaki deneme hızına bakan kısıtlama",
-   "type": "terim",
-   "sections": [
-    14
-   ],
-   "lesson": "s14-l04"
-  },
-  {
-   "id": "7ccedb83bb",
-   "en": "low-rate",
-   "tr": "kasten yavaşlatılmış, düşük hızlı",
    "type": "terim",
    "sections": [
     14
@@ -16329,79 +15367,9 @@
    "lesson": "s14-l04"
   },
   {
-   "id": "f9e07ae6b0",
-   "en": "just enough time between attempts",
-   "tr": "denemeler arasına tam yetecek kadar süre",
-   "type": "kalip",
-   "sections": [
-    14
-   ],
-   "lesson": "s14-l04"
-  },
-  {
    "id": "cfeff421c3",
    "en": "UEBA (User and Entity Behavior Analytics)",
    "tr": "kullanıcı ve varlık davranışını öğrenip sapmayı işaretleyen analitik",
-   "type": "terim",
-   "sections": [
-    14
-   ],
-   "lesson": "s14-l04"
-  },
-  {
-   "id": "d790f42bc3",
-   "en": "low-and-slow attacks",
-   "tr": "yavaş ve sessiz ilerleyerek eşiklere takılmayan saldırılar",
-   "type": "terim",
-   "sections": [
-    14
-   ],
-   "lesson": "s14-l04"
-  },
-  {
-   "id": "a2a145776a",
-   "en": "statistical deviations",
-   "tr": "istatistiksel sapmalar",
-   "type": "terim",
-   "sections": [
-    14
-   ],
-   "lesson": "s14-l04"
-  },
-  {
-   "id": "9691731681",
-   "en": "baselining ... per user",
-   "tr": "kullanıcı bazında normali öğrenerek",
-   "type": "kalip",
-   "sections": [
-    14
-   ],
-   "lesson": "s14-l04"
-  },
-  {
-   "id": "3fa5b3338f",
-   "en": "manually set thresholds",
-   "tr": "elle belirlenen eşikler",
-   "type": "kalip",
-   "sections": [
-    14
-   ],
-   "lesson": "s14-l04"
-  },
-  {
-   "id": "a8bcc514ae",
-   "en": "threshold-based rules",
-   "tr": "belirlenmiş bir sınırı aşınca tetiklenen kurallar",
-   "type": "terim",
-   "sections": [
-    14
-   ],
-   "lesson": "s14-l04"
-  },
-  {
-   "id": "ba16f55a2a",
-   "en": "deviation scoring",
-   "tr": "normalden ne kadar saptığını puanlama",
    "type": "terim",
    "sections": [
     14
@@ -16419,33 +15387,6 @@
    "lesson": "s14-l04"
   },
   {
-   "id": "9be31e5619",
-   "en": "what catches",
-   "tr": "neyin yakaladığı",
-   "type": "kalip",
-   "sections": [
-    14
-   ],
-   "lesson": "s14-l04"
-  },
-  {
-   "id": "de590e75a5",
-   "en": "the answer is",
-   "tr": "cevap …dır",
-   "type": "kalip",
-   "sections": [
-    14,
-    17,
-    20,
-    26,
-    32,
-    36,
-    39,
-    43
-   ],
-   "lesson": "s14-l04"
-  },
-  {
    "id": "b6a0b6d308",
    "en": "T1078 (Valid Accounts)",
    "tr": "saldırganın çalınmış ama geçerli hesapla iş görmesi • saldırganın geçerli hesap kullanarak iş görmesi tekniği • saldırganın geçerli hesapla iş görmesi tekniği",
@@ -16458,149 +15399,9 @@
    "lesson": "s14-l04"
   },
   {
-   "id": "62a50aa31b",
-   "en": "both can be active simultaneously",
-   "tr": "sınav dili: ikisi aynı anda geçerli olabilir",
-   "type": "terim",
-   "sections": [
-    14
-   ],
-   "lesson": "s14-l04"
-  },
-  {
-   "id": "4263d03e1a",
-   "en": "applies when",
-   "tr": "…durumunda geçerlidir",
-   "type": "kalip",
-   "sections": [
-    14
-   ],
-   "lesson": "s14-l04"
-  },
-  {
-   "id": "76a8054713",
-   "en": "almost all actions are API calls",
-   "tr": "sınav dili: bulutta yapılan hemen her şey bir API çağrısıdır, dolayısıyla iz bırakır",
-   "type": "terim",
-   "sections": [
-    14
-   ],
-   "lesson": "s14-l05"
-  },
-  {
-   "id": "9cf758716a",
-   "en": "cloud audit log",
-   "tr": "bulutta kimin ne zaman hangi çağrıyı yaptığını tutan denetim kaydı",
-   "type": "terim",
-   "sections": [
-    14
-   ],
-   "lesson": "s14-l05"
-  },
-  {
-   "id": "8d0f7f7a8e",
-   "en": "the cloud equivalent of",
-   "tr": "…in buluttaki karşılığı",
-   "type": "terim",
-   "sections": [
-    14
-   ],
-   "lesson": "s14-l05"
-  },
-  {
-   "id": "e6bba91f03",
-   "en": "are logged",
-   "tr": "kayda alınır",
-   "type": "kalip",
-   "sections": [
-    14
-   ],
-   "lesson": "s14-l05"
-  },
-  {
-   "id": "1ad2708eba",
-   "en": "primary sources",
-   "tr": "başlıca kaynaklar",
-   "type": "kalip",
-   "sections": [
-    14
-   ],
-   "lesson": "s14-l05"
-  },
-  {
-   "id": "aeaa948f98",
-   "en": "IAM (Identity and Access Management)",
-   "tr": "buluttaki kimlik, rol ve yetki yönetimi sistemi",
-   "type": "terim",
-   "sections": [
-    14
-   ],
-   "lesson": "s14-l05"
-  },
-  {
-   "id": "4c0c34b1d0",
-   "en": "policy changes that expand permissions",
-   "tr": "yetki alanını genişleten politika değişiklikleri",
-   "type": "terim",
-   "sections": [
-    14
-   ],
-   "lesson": "s14-l05"
-  },
-  {
-   "id": "bf3224ef43",
-   "en": "access keys",
-   "tr": "programatik erişim için üretilen anahtar çiftleri; sessiz kalıcılık aracı",
-   "type": "terim",
-   "sections": [
-    14
-   ],
-   "lesson": "s14-l05"
-  },
-  {
    "id": "249e886372",
    "en": "AssumeRole",
    "tr": "bir kimliğin geçici olarak başka bir rolün yetkilerine bürünmesi",
-   "type": "terim",
-   "sections": [
-    14
-   ],
-   "lesson": "s14-l05"
-  },
-  {
-   "id": "d6676519b6",
-   "en": "highest-value",
-   "tr": "en yüksek değerli",
-   "type": "kalip",
-   "sections": [
-    14
-   ],
-   "lesson": "s14-l05"
-  },
-  {
-   "id": "65b79c48de",
-   "en": "outside business hours",
-   "tr": "mesai saatleri dışında",
-   "type": "kalip",
-   "sections": [
-    14
-   ],
-   "lesson": "s14-l05"
-  },
-  {
-   "id": "b5f71515d8",
-   "en": "higher-privilege roles",
-   "tr": "daha yetkili roller",
-   "type": "kalip",
-   "sections": [
-    14
-   ],
-   "lesson": "s14-l05"
-  },
-  {
-   "id": "a2d7c7f66a",
-   "en": "non-standard regions",
-   "tr": "kurumun normalde kullanmadığı bulut bölgeleri; madencilik için sık seçilir",
    "type": "terim",
    "sections": [
     14
@@ -16618,40 +15419,10 @@
    "lesson": "s14-l05"
   },
   {
-   "id": "9b51126fff",
-   "en": "drift from approved baselines",
-   "tr": "onaylı yapılandırmadan zamanla uzaklaşma",
-   "type": "terim",
-   "sections": [
-    14
-   ],
-   "lesson": "s14-l05"
-  },
-  {
-   "id": "bf594975ed",
-   "en": "records every configuration change",
-   "tr": "her yapılandırma değişikliğini kaydeder",
-   "type": "kalip",
-   "sections": [
-    14
-   ],
-   "lesson": "s14-l05"
-  },
-  {
    "id": "3d1f13e6aa",
    "en": "provisioning activity",
    "tr": "kaynak oluşturma faaliyeti",
    "type": "kalip",
-   "sections": [
-    14
-   ],
-   "lesson": "s14-l05"
-  },
-  {
-   "id": "897a3dbf91",
-   "en": "buckets made public",
-   "tr": "depolama alanının herkese açık hâle getirilmesi",
-   "type": "terim",
    "sections": [
     14
    ],
@@ -16668,49 +15439,9 @@
    "lesson": "s14-l05"
   },
   {
-   "id": "2c65ea89b0",
-   "en": "signed URLs",
-   "tr": "belirli süre erişim veren imzalı bağlantılar; standart dışı üretilirse şüphelidir",
-   "type": "terim",
-   "sections": [
-    14
-   ],
-   "lesson": "s14-l05"
-  },
-  {
-   "id": "d3011a73f2",
-   "en": "previously private",
-   "tr": "daha önce özel/kapalı olan",
-   "type": "kalip",
-   "sections": [
-    14
-   ],
-   "lesson": "s14-l05"
-  },
-  {
-   "id": "2fa5d86299",
-   "en": "unknown external IPs",
-   "tr": "tanınmayan dış IP'ler",
-   "type": "kalip",
-   "sections": [
-    14
-   ],
-   "lesson": "s14-l05"
-  },
-  {
    "id": "8f3ff4da22",
    "en": "monitoring tampering",
    "tr": "izleme mekanizmasının kendisinin kurcalanması",
-   "type": "terim",
-   "sections": [
-    14
-   ],
-   "lesson": "s14-l05"
-  },
-  {
-   "id": "a97edd3323",
-   "en": "attacker sophistication",
-   "tr": "sınav dili: saldırganın ne kadar yetkin olduğunun göstergesi",
    "type": "terim",
    "sections": [
     14
@@ -16728,66 +15459,6 @@
    "lesson": "s14-l05"
   },
   {
-   "id": "af98f85e76",
-   "en": "is itself a high-priority IoC",
-   "tr": "kendisi başlı başına yüksek öncelikli bir göstergedir",
-   "type": "kalip",
-   "sections": [
-    14
-   ],
-   "lesson": "s14-l05"
-  },
-  {
-   "id": "69992f1747",
-   "en": "removed",
-   "tr": "kaldırılmış, silinmiş",
-   "type": "kalip",
-   "sections": [
-    14
-   ],
-   "lesson": "s14-l05"
-  },
-  {
-   "id": "f19e4e8ff6",
-   "en": "requires evidence that",
-   "tr": "sınav dili: … olduğuna dair kanıt aranır",
-   "type": "terim",
-   "sections": [
-    14
-   ],
-   "lesson": "s14-l05"
-  },
-  {
-   "id": "cb1f9be2b7",
-   "en": "made public",
-   "tr": "herkese açık hâle getirilmiş",
-   "type": "kalip",
-   "sections": [
-    14
-   ],
-   "lesson": "s14-l05"
-  },
-  {
-   "id": "1e9db0dc55",
-   "en": "right up until the moment it is disabled",
-   "tr": "sınav dili: kapatıldığı ana kadar kaydı tutar; son kayıt silme eyleminin kendisidir",
-   "type": "terim",
-   "sections": [
-    14
-   ],
-   "lesson": "s14-l05"
-  },
-  {
-   "id": "64958b6f67",
-   "en": "secondary read-only log archive",
-   "tr": "ayrı hesapta tutulan, yalnızca okunabilir yedek kayıt arşivi",
-   "type": "terim",
-   "sections": [
-    14
-   ],
-   "lesson": "s14-l05"
-  },
-  {
    "id": "3aab2b3ca2",
    "en": "the mitigation",
    "tr": "riski azaltan önlem",
@@ -16798,120 +15469,10 @@
    "lesson": "s14-l05"
   },
   {
-   "id": "464063bf1c",
-   "en": "the deletion of ... itself",
-   "tr": "…in kendisinin silinmesini",
-   "type": "kalip",
-   "sections": [
-    14
-   ],
-   "lesson": "s14-l05"
-  },
-  {
-   "id": "2cbc5d8d52",
-   "en": "in a separate account",
-   "tr": "ayrı bir hesapta",
-   "type": "kalip",
-   "sections": [
-    14
-   ],
-   "lesson": "s14-l05"
-  },
-  {
-   "id": "e29f2a7544",
-   "en": "behavioral detection applied to cloud API logs",
-   "tr": "sınav dili: davranışsal tespitin bulut API kayıtlarına uygulanmış hâli",
-   "type": "terim",
-   "sections": [
-    14
-   ],
-   "lesson": "s14-l06"
-  },
-  {
-   "id": "aa0a433c02",
-   "en": "geographic or temporal access anomalies",
-   "tr": "erişimin geldiği yer veya saatteki sapmalar",
-   "type": "terim",
-   "sections": [
-    14
-   ],
-   "lesson": "s14-l06"
-  },
-  {
-   "id": "a89b0555d1",
-   "en": "discovery behavior",
-   "tr": "saldırganın ortamda ne olduğunu keşfetme davranışı",
-   "type": "terim",
-   "sections": [
-    14
-   ],
-   "lesson": "s14-l06"
-  },
-  {
-   "id": "5b95fcf54f",
-   "en": "four key patterns",
-   "tr": "bilinmesi gereken dört desen",
-   "type": "kalip",
-   "sections": [
-    14
-   ],
-   "lesson": "s14-l06"
-  },
-  {
-   "id": "92a4710dc6",
-   "en": "unusual data access patterns",
-   "tr": "olağandışı veri erişim örüntüleri",
-   "type": "kalip",
-   "sections": [
-    14
-   ],
-   "lesson": "s14-l06"
-  },
-  {
-   "id": "8930f5395b",
-   "en": "baseline each IAM user's normal login behavior",
-   "tr": "her kimliğin olağan giriş davranışını öğrenip referans alma",
-   "type": "terim",
-   "sections": [
-    14
-   ],
-   "lesson": "s14-l06"
-  },
-  {
    "id": "bda456f1f6",
    "en": "ContextualAnomaly",
    "tr": "bağlamına göre olağandışı sayılan giriş; teknik olarak başarılı ama profile uymayan",
    "type": "terim",
-   "sections": [
-    14
-   ],
-   "lesson": "s14-l06"
-  },
-  {
-   "id": "d22341ce24",
-   "en": "first investigation step",
-   "tr": "sınav dili: incelemede atılacak ilk adım",
-   "type": "terim",
-   "sections": [
-    14
-   ],
-   "lesson": "s14-l06"
-  },
-  {
-   "id": "ff5a64ff8f",
-   "en": "fires findings",
-   "tr": "bulgu üretir",
-   "type": "kalip",
-   "sections": [
-    14
-   ],
-   "lesson": "s14-l06"
-  },
-  {
-   "id": "40332c76dd",
-   "en": "for deviations",
-   "tr": "sapmalar için",
-   "type": "kalip",
    "sections": [
     14
    ],
@@ -16958,36 +15519,6 @@
    "lesson": "s14-l06"
   },
   {
-   "id": "92504616ed",
-   "en": "sequence",
-   "tr": "sıra, dizi",
-   "type": "kalip",
-   "sections": [
-    14
-   ],
-   "lesson": "s14-l06"
-  },
-  {
-   "id": "cb0f016096",
-   "en": "List and Describe API calls",
-   "tr": "yalnızca okuyan, hiçbir şeyi değiştirmeyen sorgu çağrıları",
-   "type": "terim",
-   "sections": [
-    14
-   ],
-   "lesson": "s14-l06"
-  },
-  {
-   "id": "0f626b7f6d",
-   "en": "without resource changes",
-   "tr": "hiçbir kaynağı değiştirmeden; keşfin ayırt edici işareti",
-   "type": "terim",
-   "sections": [
-    14
-   ],
-   "lesson": "s14-l06"
-  },
-  {
    "id": "951f120ff3",
    "en": "followed by",
    "tr": "ardından gelen • ardından",
@@ -17001,151 +15532,10 @@
    "lesson": "s14-l06"
   },
   {
-   "id": "035f2bc8a6",
-   "en": "permission changes",
-   "tr": "yetki değişiklikleri",
-   "type": "kalip",
-   "sections": [
-    14
-   ],
-   "lesson": "s14-l06"
-  },
-  {
-   "id": "91ba826663",
-   "en": "sensitive data exposure",
-   "tr": "hassas verinin açığa çıkması",
-   "type": "terim",
-   "sections": [
-    14
-   ],
-   "lesson": "s14-l06"
-  },
-  {
-   "id": "0ee45210ed",
-   "en": "threat intelligence matches",
-   "tr": "bilinen kötü IP/alan adı listeleriyle eşleşme",
-   "type": "terim",
-   "sections": [
-    14
-   ],
-   "lesson": "s14-l06"
-  },
-  {
-   "id": "b22baf98c0",
-   "en": "aggregates and prioritizes",
-   "tr": "farklı kaynaklardan gelen bulguları toplar ve önem sırasına dizer",
-   "type": "terim",
-   "sections": [
-    14
-   ],
-   "lesson": "s14-l06"
-  },
-  {
-   "id": "316edba7e3",
-   "en": "from both",
-   "tr": "her ikisinden de",
-   "type": "kalip",
-   "sections": [
-    14,
-    15
-   ],
-   "lesson": "s14-l06"
-  },
-  {
-   "id": "3853522c10",
-   "en": "know what each cloud tool detects",
-   "tr": "sınav dili: hangi bulut aracının neyi tespit ettiğini bil",
-   "type": "terim",
-   "sections": [
-    14
-   ],
-   "lesson": "s14-l06"
-  },
-  {
-   "id": "b6be9e61c0",
-   "en": "do not confuse their roles",
-   "tr": "rollerini birbirine karıştırma",
-   "type": "terim",
-   "sections": [
-    14
-   ],
-   "lesson": "s14-l06"
-  },
-  {
-   "id": "84a9216846",
-   "en": "in a scenario question",
-   "tr": "senaryo sorusunda",
-   "type": "kalip",
-   "sections": [
-    14
-   ],
-   "lesson": "s14-l06"
-  },
-  {
-   "id": "209d0852d1",
-   "en": "the impact phase",
-   "tr": "etki aşaması; zarar gerçekleşmiş",
-   "type": "terim",
-   "sections": [
-    14
-   ],
-   "lesson": "s14-l06"
-  },
-  {
-   "id": "3084f127af",
-   "en": "which phase",
-   "tr": "hangi aşama",
-   "type": "kalip",
-   "sections": [
-    14
-   ],
-   "lesson": "s14-l06"
-  },
-  {
    "id": "afe51f1abf",
    "en": "compute hijacking",
    "tr": "işlem kaynağının gasp edilip saldırganın işine koşulması",
    "type": "terim",
-   "sections": [
-    14
-   ],
-   "lesson": "s14-l07"
-  },
-  {
-   "id": "7d11e7a9ce",
-   "en": "serverless function",
-   "tr": "sunucu yönetmeden çalışan kod parçası (Lambda gibi)",
-   "type": "terim",
-   "sections": [
-    14
-   ],
-   "lesson": "s14-l07"
-  },
-  {
-   "id": "988b563169",
-   "en": "storage exposure",
-   "tr": "depolama alanının dışarıya açılmış olması",
-   "type": "terim",
-   "sections": [
-    14
-   ],
-   "lesson": "s14-l07"
-  },
-  {
-   "id": "8d1b0b0d92",
-   "en": "taken control of",
-   "tr": "kontrolünü ele geçirmiş",
-   "type": "kalip",
-   "sections": [
-    14
-   ],
-   "lesson": "s14-l07"
-  },
-  {
-   "id": "680ee5d1c6",
-   "en": "key indicator types",
-   "tr": "başlıca gösterge türleri",
-   "type": "kalip",
    "sections": [
     14
    ],
@@ -17162,120 +15552,9 @@
    "lesson": "s14-l07"
   },
   {
-   "id": "ce7b922493",
-   "en": "financial signals",
-   "tr": "sınav dili: maliyet tarafından gelen sinyaller",
-   "type": "terim",
-   "sections": [
-    14
-   ],
-   "lesson": "s14-l07"
-  },
-  {
-   "id": "244c3359df",
-   "en": "inactive region",
-   "tr": "normalde kullanılmayan, boş duran bulut bölgesi",
-   "type": "terim",
-   "sections": [
-    14
-   ],
-   "lesson": "s14-l07"
-  },
-  {
-   "id": "be544e6825",
-   "en": "spend spike",
-   "tr": "harcama sıçraması",
-   "type": "kalip",
-   "sections": [
-    14
-   ],
-   "lesson": "s14-l07"
-  },
-  {
-   "id": "cf464f0099",
-   "en": "before ... sometimes appear",
-   "tr": "bazen …ortaya çıkmadan önce",
-   "type": "kalip",
-   "sections": [
-    14
-   ],
-   "lesson": "s14-l07"
-  },
-  {
-   "id": "bc69e39557",
-   "en": "serverless persistence",
-   "tr": "fonksiyon koduna arka kapı gömerek kalıcılık sağlama",
-   "type": "terim",
-   "sections": [
-    14
-   ],
-   "lesson": "s14-l07"
-  },
-  {
-   "id": "54155c720d",
-   "en": "CI/CD pipeline",
-   "tr": "kodun onaylı biçimde derlenip yayına alındığı otomatik hat",
-   "type": "terim",
-   "sections": [
-    14
-   ],
-   "lesson": "s14-l07"
-  },
-  {
-   "id": "11655d6c32",
-   "en": "the distinguishing factor",
-   "tr": "sınav dili: ayrımı belirleyen unsur",
-   "type": "terim",
-   "sections": [
-    14
-   ],
-   "lesson": "s14-l07"
-  },
-  {
-   "id": "1e5cf756a3",
-   "en": "not triggered by",
-   "tr": "…tarafından tetiklenmemiş",
-   "type": "kalip",
-   "sections": [
-    14
-   ],
-   "lesson": "s14-l07"
-  },
-  {
-   "id": "8b7c4985d6",
-   "en": "authorized",
-   "tr": "yetkili, onaylı",
-   "type": "kalip",
-   "sections": [
-    14
-   ],
-   "lesson": "s14-l07"
-  },
-  {
-   "id": "b347a0fe01",
-   "en": "unauthorized modification",
-   "tr": "izinsiz değişiklik",
-   "type": "kalip",
-   "sections": [
-    14,
-    24
-   ],
-   "lesson": "s14-l07"
-  },
-  {
    "id": "07a8ea05ce",
    "en": "bucket ACL or policy",
    "tr": "depolama alanına kimin erişebileceğini belirleyen erişim listesi/politika",
-   "type": "terim",
-   "sections": [
-    14
-   ],
-   "lesson": "s14-l07"
-  },
-  {
-   "id": "b8c7a54eed",
-   "en": "fires noncompliant",
-   "tr": "kural ihlali olarak işaretlenir, uyumsuz bulgusu üretir",
    "type": "terim",
    "sections": [
     14
@@ -17293,161 +15572,10 @@
    "lesson": "s14-l07"
   },
   {
-   "id": "1dedac522a",
-   "en": "changed to allow public access",
-   "tr": "herkese açık erişime izin verecek şekilde değiştirilmiş",
-   "type": "kalip",
-   "sections": [
-    14
-   ],
-   "lesson": "s14-l07"
-  },
-  {
-   "id": "a1102927b5",
-   "en": "attacker-controlled location",
-   "tr": "saldırganın kontrolündeki konum",
-   "type": "kalip",
-   "sections": [
-    14
-   ],
-   "lesson": "s14-l07"
-  },
-  {
-   "id": "33e78d9a38",
-   "en": "0.0.0.0/0",
-   "tr": "internetteki herkes anlamına gelen adres bloğu; hassas portta açılması arka kapıdır",
-   "type": "terim",
-   "sections": [
-    14
-   ],
-   "lesson": "s14-l07"
-  },
-  {
    "id": "05b767acd0",
    "en": "T1562.007 (Disable or Modify Cloud Firewall)",
    "tr": "bulut güvenlik duvarını devre dışı bırakma veya değiştirme tekniği",
    "type": "terim",
-   "sections": [
-    14
-   ],
-   "lesson": "s14-l07"
-  },
-  {
-   "id": "8e44034433",
-   "en": "adding rules permitting",
-   "tr": "…e izin veren kural ekleme",
-   "type": "kalip",
-   "sections": [
-    14
-   ],
-   "lesson": "s14-l07"
-  },
-  {
-   "id": "074049c332",
-   "en": "sensitive ports",
-   "tr": "hassas portlar",
-   "type": "kalip",
-   "sections": [
-    14
-   ],
-   "lesson": "s14-l07"
-  },
-  {
-   "id": "f71f7d9117",
-   "en": "a backdoor being opened",
-   "tr": "bir arka kapının açılmakta olduğu",
-   "type": "kalip",
-   "sections": [
-    14
-   ],
-   "lesson": "s14-l07"
-  },
-  {
-   "id": "9e5c6acff8",
-   "en": "multi-service evidence trail",
-   "tr": "sınav dili: kanıtın tek serviste değil, birden çok servise dağılmış olması",
-   "type": "terim",
-   "sections": [
-    14
-   ],
-   "lesson": "s14-l07"
-  },
-  {
-   "id": "841117513f",
-   "en": "leaves",
-   "tr": "geride bırakır",
-   "type": "kalip",
-   "sections": [
-    14
-   ],
-   "lesson": "s14-l07"
-  },
-  {
-   "id": "899ec2e064",
-   "en": "to build the complete",
-   "tr": "eksiksiz … kurmak için",
-   "type": "kalip",
-   "sections": [
-    14
-   ],
-   "lesson": "s14-l07"
-  },
-  {
-   "id": "7c5ae0278b",
-   "en": "which category applies",
-   "tr": "sınav dili: hangi kategoriye girdiği • hangi kategoriye girdiği",
-   "type": "terim",
-   "sections": [
-    14,
-    24
-   ],
-   "lesson": "s14-l07"
-  },
-  {
-   "id": "4ee8d3c6a1",
-   "en": "will present scenarios",
-   "tr": "senaryolar sunacaktır",
-   "type": "kalip",
-   "sections": [
-    14
-   ],
-   "lesson": "s14-l07"
-  },
-  {
-   "id": "a94a8fe5cc",
-   "en": "test",
-   "tr": "ölçer, sınar",
-   "type": "kalip",
-   "sections": [
-    14
-   ],
-   "lesson": "s14-l07"
-  },
-  {
-   "id": "a9396adc47",
-   "en": "answer three questions",
-   "tr": "sınav dili: şu üç soruyu cevapla",
-   "type": "terim",
-   "sections": [
-    14
-   ],
-   "lesson": "s14-l07"
-  },
-  {
-   "id": "825704f8a3",
-   "en": "which resources are affected",
-   "tr": "hangi kaynakların etkilendiği",
-   "type": "kalip",
-   "sections": [
-    14
-   ],
-   "lesson": "s14-l07"
-  },
-  {
-   "id": "37fee4cd20",
-   "en": "define both",
-   "tr": "her ikisini de belirler",
-   "type": "kalip",
    "sections": [
     14
    ],
@@ -21375,16 +19503,6 @@
    "id": "a5b2612c23",
    "en": "geolocate both IPs",
    "tr": "iki IP'nin de konumunu çıkar",
-   "type": "kalip",
-   "sections": [
-    16
-   ],
-   "lesson": "s16-l05"
-  },
-  {
-   "id": "ace230d203",
-   "en": "contact the user",
-   "tr": "kullanıcıyla iletişime geç",
    "type": "kalip",
    "sections": [
     16

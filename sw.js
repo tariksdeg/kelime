@@ -1,4 +1,4 @@
-const SURUM = "ezber-d1c52192db69";
+const SURUM = "ezber-7554fc9e149d";
 const DOSYALAR = ["./", "./index.html", "./kelimeler.json",
                   "./manifest.webmanifest", "./ikon-192.png", "./ikon-512.png"];
 
