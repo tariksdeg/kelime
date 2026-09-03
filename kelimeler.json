@@ -4098,26 +4098,6 @@
    "lesson": "s06-l01"
   },
   {
-   "id": "0cb406e2b3",
-   "en": "wastewater",
-   "tr": "atık su",
-   "type": "terim",
-   "sections": [
-    6
-   ],
-   "lesson": "s06-l01"
-  },
-  {
-   "id": "9978eecb4c",
-   "en": "sectors",
-   "tr": "sektörler",
-   "type": "kalip",
-   "sections": [
-    6
-   ],
-   "lesson": "s06-l01"
-  },
-  {
    "id": "b090d8f393",
    "en": "owned and operated by",
    "tr": "… tarafından sahiplenilip işletilen",
@@ -4150,26 +4130,6 @@
    "lesson": "s06-l01"
   },
   {
-   "id": "c3c1e5405f",
-   "en": "defensive best practices",
-   "tr": "savunmada en iyi bilinen uygulamalar",
-   "type": "terim",
-   "sections": [
-    6
-   ],
-   "lesson": "s06-l01"
-  },
-  {
-   "id": "fd67ae7576",
-   "en": "member companies",
-   "tr": "üye şirketler",
-   "type": "kalip",
-   "sections": [
-    6
-   ],
-   "lesson": "s06-l01"
-  },
-  {
    "id": "bacf201d15",
    "en": "CIA triad",
    "tr": "Confidentiality, Integrity, Availability — güvenliğin üç temel hedefi • Confidentiality (gizlilik), Integrity (bütünlük), Availability (erişilebilirlik) • gizlilik, bütünlük ve erişilebilirlik üçlüsü",
@@ -4186,26 +4146,6 @@
    "en": "AIC flip",
    "tr": "OT'de sıra tersine döner: önce erişilebilirlik, sonra bütünlük, en son gizlilik",
    "type": "terim",
-   "sections": [
-    6
-   ],
-   "lesson": "s06-l01"
-  },
-  {
-   "id": "d7cee4d0de",
-   "en": "downtime",
-   "tr": "sistemin çalışmadığı süre; OT'de bu üretim durması veya can güvenliği demektir",
-   "type": "terim",
-   "sections": [
-    6
-   ],
-   "lesson": "s06-l01"
-  },
-  {
-   "id": "01909f98ed",
-   "en": "priority order",
-   "tr": "öncelik sırası",
-   "type": "kalip",
    "sections": [
     6
    ],
@@ -4232,39 +4172,6 @@
    "lesson": "s06-l01"
   },
   {
-   "id": "2b781ff8e3",
-   "en": "extends",
-   "tr": "genişletir, üstüne ekler • genişletir",
-   "type": "terim",
-   "sections": [
-    6,
-    32
-   ],
-   "lesson": "s06-l01"
-  },
-  {
-   "id": "f81c7bf2d0",
-   "en": "specific to",
-   "tr": "…e özgü",
-   "type": "kalip",
-   "sections": [
-    6,
-    15
-   ],
-   "lesson": "s06-l01"
-  },
-  {
-   "id": "e711631380",
-   "en": "entity",
-   "tr": "kuruluş, varlık • grafikteki her bir varlık: alan adı, IP, kişi",
-   "type": "terim",
-   "sections": [
-    6,
-    29
-   ],
-   "lesson": "s06-l01"
-  },
-  {
    "id": "b51c31d9ce",
    "en": "against",
    "tr": "…e karşı, … ile karşılaştırarak • …e karşı • … ile karşılaştırarak",
@@ -4274,16 +4181,6 @@
     11
    ],
    "lesson": "s06-l01"
-  },
-  {
-   "id": "aeed71d78d",
-   "en": "OT",
-   "tr": "Operational Technology: fiziksel süreçleri (vana, motor, sıcaklık) kontrol eden sistemler",
-   "type": "terim",
-   "sections": [
-    6
-   ],
-   "lesson": "s06-l02"
   },
   {
    "id": "53ea519b8b",
@@ -4356,26 +4253,6 @@
    "lesson": "s06-l02"
   },
   {
-   "id": "f0b74774b9",
-   "en": "HMI",
-   "tr": "operatörün süreci gördüğü ve müdahale ettiği kontrol ekranı",
-   "type": "terim",
-   "sections": [
-    6
-   ],
-   "lesson": "s06-l02"
-  },
-  {
-   "id": "962cb2dace",
-   "en": "tightly coupled to",
-   "tr": "…e sıkı sıkıya bağlı; biri etkilenirse diğeri de etkilenir",
-   "type": "terim",
-   "sections": [
-    6
-   ],
-   "lesson": "s06-l02"
-  },
-  {
    "id": "9bf3841f19",
    "en": "legacy operating systems",
    "tr": "desteği bitmiş eski işletim sistemleri (Windows 7/XP)",
@@ -4386,29 +4263,9 @@
    "lesson": "s06-l02"
   },
   {
-   "id": "fd51e011be",
-   "en": "forensic resource",
-   "tr": "adli incelemede başvurulacak kanıt kaynağı",
-   "type": "terim",
-   "sections": [
-    6
-   ],
-   "lesson": "s06-l02"
-  },
-  {
    "id": "a176485e9e",
    "en": "storing",
    "tr": "saklayan",
-   "type": "kalip",
-   "sections": [
-    6
-   ],
-   "lesson": "s06-l02"
-  },
-  {
-   "id": "a62f2225bf",
-   "en": "key",
-   "tr": "başlıca, kilit",
    "type": "kalip",
    "sections": [
     6
@@ -4446,26 +4303,6 @@
    "lesson": "s06-l02"
   },
   {
-   "id": "41b98ea1fe",
-   "en": "dramatically expanding",
-   "tr": "çarpıcı biçimde genişleterek",
-   "type": "kalip",
-   "sections": [
-    6
-   ],
-   "lesson": "s06-l02"
-  },
-  {
-   "id": "b0e45f3518",
-   "en": "it appears in",
-   "tr": "… içinde çıkar",
-   "type": "kalip",
-   "sections": [
-    6
-   ],
-   "lesson": "s06-l02"
-  },
-  {
    "id": "a37ca5ef6e",
    "en": "not feasible",
    "tr": "uygulanabilir değil, mümkün değil • uygulanabilir değil",
@@ -4473,17 +4310,6 @@
    "sections": [
     6,
     34
-   ],
-   "lesson": "s06-l02"
-  },
-  {
-   "id": "27669a3143",
-   "en": "prioritizes",
-   "tr": "önceliklendirir",
-   "type": "kalip",
-   "sections": [
-    6,
-    41
    ],
    "lesson": "s06-l02"
   },
@@ -4505,17 +4331,6 @@
    "type": "terim",
    "sections": [
     6
-   ],
-   "lesson": "s06-l03"
-  },
-  {
-   "id": "d27cafe12d",
-   "en": "coordinates",
-   "tr": "eşgüdümler, birlikte çalışmasını sağlar • enlem-boylam koordinatları",
-   "type": "terim",
-   "sections": [
-    6,
-    19
    ],
    "lesson": "s06-l03"
   },
@@ -4560,26 +4375,6 @@
    "lesson": "s06-l03"
   },
   {
-   "id": "365d23823d",
-   "en": "were not designed with",
-   "tr": "… düşünülerek tasarlanmadı",
-   "type": "kalip",
-   "sections": [
-    6
-   ],
-   "lesson": "s06-l03"
-  },
-  {
-   "id": "6ba9f8b8a5",
-   "en": "anyone with",
-   "tr": "… sahibi olan herkes",
-   "type": "kalip",
-   "sections": [
-    6
-   ],
-   "lesson": "s06-l03"
-  },
-  {
    "id": "6099aabb8d",
    "en": "prohibited",
    "tr": "yasak, izin verilmeyen",
@@ -4603,16 +4398,6 @@
    "id": "cbabad95eb",
    "en": "OT-aware monitoring",
    "tr": "endüstriyel protokolleri anlayabilen özel izleme araçları",
-   "type": "terim",
-   "sections": [
-    6
-   ],
-   "lesson": "s06-l03"
-  },
-  {
-   "id": "ddedc71728",
-   "en": "process anomalies",
-   "tr": "üretim sürecinde normalden sapan davranışlar",
    "type": "terim",
    "sections": [
     6
@@ -4659,39 +4444,6 @@
     13
    ],
    "lesson": "s06-l03"
-  },
-  {
-   "id": "a4d5b0a0ac",
-   "en": "presents",
-   "tr": "sunar, önüne koyar",
-   "type": "kalip",
-   "sections": [
-    6
-   ],
-   "lesson": "s06-l03"
-  },
-  {
-   "id": "81ffd46db9",
-   "en": "enhanced monitoring",
-   "tr": "artırılmış izleme • o varlık çevresinde izlemenin sıklaştırılması",
-   "type": "terim",
-   "sections": [
-    6,
-    33,
-    34,
-    41
-   ],
-   "lesson": "s06-l03"
-  },
-  {
-   "id": "a001d388a8",
-   "en": "wide-area networks",
-   "tr": "şehirler/ülkeler arası uzun mesafeli ağlar",
-   "type": "terim",
-   "sections": [
-    6
-   ],
-   "lesson": "s06-l04"
   },
   {
    "id": "1804f30f98",
@@ -4744,50 +4496,10 @@
    "lesson": "s06-l04"
   },
   {
-   "id": "dc2436ab46",
-   "en": "IP-based",
-   "tr": "internet protokolü üzerinden çalışan; erişilebilir ama saldırıya da açık",
-   "type": "terim",
-   "sections": [
-    6
-   ],
-   "lesson": "s06-l04"
-  },
-  {
-   "id": "b6cc260fe1",
-   "en": "the shift from … to",
-   "tr": "…den …e geçiş",
-   "type": "kalip",
-   "sections": [
-    6
-   ],
-   "lesson": "s06-l04"
-  },
-  {
    "id": "b1a347ac27",
    "en": "vendor compatibility constraints",
    "tr": "üreticinin yazılımı yalnızca eski OS'ta desteklemesi; yükseltme yapılamaz",
    "type": "terim",
-   "sections": [
-    6
-   ],
-   "lesson": "s06-l04"
-  },
-  {
-   "id": "1efedc75aa",
-   "en": "due to",
-   "tr": "… nedeniyle",
-   "type": "kalip",
-   "sections": [
-    6
-   ],
-   "lesson": "s06-l04"
-  },
-  {
-   "id": "e70d51f444",
-   "en": "often run",
-   "tr": "sıklıkla … çalıştırır",
-   "type": "kalip",
    "sections": [
     6
    ],
@@ -4804,40 +4516,10 @@
    "lesson": "s06-l04"
   },
   {
-   "id": "59b8360495",
-   "en": "centrifuge",
-   "tr": "santrifüj: yüksek hızda dönen ayrıştırma makinesi",
-   "type": "terim",
-   "sections": [
-    6
-   ],
-   "lesson": "s06-l04"
-  },
-  {
    "id": "70ea67870c",
    "en": "false normal readings",
    "tr": "operatöre gösterilen sahte \"her şey yolunda\" değerleri",
    "type": "terim",
-   "sections": [
-    6
-   ],
-   "lesson": "s06-l04"
-  },
-  {
-   "id": "762597ec1c",
-   "en": "manipulated",
-   "tr": "değiştirdi, oynadı",
-   "type": "kalip",
-   "sections": [
-    6
-   ],
-   "lesson": "s06-l04"
-  },
-  {
-   "id": "87ca67c881",
-   "en": "without operator awareness",
-   "tr": "operatörün haberi olmadan",
-   "type": "kalip",
    "sections": [
     6
    ],
@@ -4874,56 +4556,6 @@
    "lesson": "s06-l04"
   },
   {
-   "id": "ec4a71f1f6",
-   "en": "readings",
-   "tr": "ölçüm değerleri",
-   "type": "kalip",
-   "sections": [
-    6
-   ],
-   "lesson": "s06-l04"
-  },
-  {
-   "id": "9cef6dd4b5",
-   "en": "consider",
-   "tr": "… ihtimalini düşün",
-   "type": "kalip",
-   "sections": [
-    6
-   ],
-   "lesson": "s06-l04"
-  },
-  {
-   "id": "97f185b6d6",
-   "en": "analytical conclusion",
-   "tr": "verilerden çıkarılacak analiz sonucu",
-   "type": "terim",
-   "sections": [
-    6
-   ],
-   "lesson": "s06-l04"
-  },
-  {
-   "id": "0406565158",
-   "en": "certificate-based authentication",
-   "tr": "sertifika ile kimlik doğrulama; paroladan güçlüdür",
-   "type": "terim",
-   "sections": [
-    6
-   ],
-   "lesson": "s06-l04"
-  },
-  {
-   "id": "d189448917",
-   "en": "absence of",
-   "tr": "… yokluğu",
-   "type": "kalip",
-   "sections": [
-    6
-   ],
-   "lesson": "s06-l04"
-  },
-  {
    "id": "f5620c0deb",
    "en": "nation-state actor",
    "tr": "bir devletin desteklediği, kaynağı ve sabrı yüksek saldırgan grup",
@@ -4944,40 +4576,10 @@
    "lesson": "s06-l05"
   },
   {
-   "id": "61ac7d4998",
-   "en": "at a time of their choosing",
-   "tr": "kendi seçtikleri bir zamanda",
-   "type": "kalip",
-   "sections": [
-    6
-   ],
-   "lesson": "s06-l05"
-  },
-  {
    "id": "b9283d0c1a",
    "en": "IT/OT boundary",
    "tr": "kurumsal ağ ile üretim ağı arasındaki sınır; en kritik savunma hattı",
    "type": "terim",
-   "sections": [
-    6
-   ],
-   "lesson": "s06-l05"
-  },
-  {
-   "id": "78e7e332bd",
-   "en": "exposed RDP",
-   "tr": "internete açık bırakılmış uzak masaüstü servisi",
-   "type": "terim",
-   "sections": [
-    6
-   ],
-   "lesson": "s06-l05"
-  },
-  {
-   "id": "aa2a137373",
-   "en": "insufficiently protected",
-   "tr": "yeterince korunmamış",
-   "type": "kalip",
    "sections": [
     6
    ],
@@ -5014,28 +4616,6 @@
    "lesson": "s06-l05"
   },
   {
-   "id": "d264b7c9ee",
-   "en": "legitimate",
-   "tr": "meşru, gerçek • meşru, gerçek olan",
-   "type": "kalip",
-   "sections": [
-    6,
-    7
-   ],
-   "lesson": "s06-l05"
-  },
-  {
-   "id": "3824350e2f",
-   "en": "rogue device",
-   "tr": "ağda olmaması gereken, izinsiz eklenmiş cihaz • ağa izinsiz bağlanmış cihaz • izinsiz olarak ağa bağlanmış cihaz",
-   "type": "terim",
-   "sections": [
-    6,
-    12
-   ],
-   "lesson": "s06-l05"
-  },
-  {
    "id": "8f38ecfb0f",
    "en": "read/poll traffic",
    "tr": "yalnızca değer okuyan sorgu trafiği; OT'de normal olan budur",
@@ -5046,50 +4626,10 @@
    "lesson": "s06-l05"
   },
   {
-   "id": "eec4808386",
-   "en": "historical baselines",
-   "tr": "geçmiş verilerden çıkarılmış normal aralıklar",
-   "type": "terim",
-   "sections": [
-    6
-   ],
-   "lesson": "s06-l05"
-  },
-  {
-   "id": "89dbe3b98f",
-   "en": "indicators of compromise",
-   "tr": "ele geçirilme göstergeleri",
-   "type": "kalip",
-   "sections": [
-    6
-   ],
-   "lesson": "s06-l05"
-  },
-  {
-   "id": "e4a4d604e6",
-   "en": "deviating from",
-   "tr": "…den sapan",
-   "type": "kalip",
-   "sections": [
-    6
-   ],
-   "lesson": "s06-l05"
-  },
-  {
    "id": "6d6ca9075a",
    "en": "operations team",
    "tr": "üretimi/tesisi fiilen işleten ekip; OT'de onların onayı olmadan müdahale edilmez",
    "type": "terim",
-   "sections": [
-    6
-   ],
-   "lesson": "s06-l05"
-  },
-  {
-   "id": "d67243d4d3",
-   "en": "requires coordination with",
-   "tr": "… ile eşgüdüm gerektirir",
-   "type": "kalip",
    "sections": [
     6
    ],
@@ -5136,50 +4676,10 @@
    "lesson": "s06-l05"
   },
   {
-   "id": "e04086e9a5",
-   "en": "notifying",
-   "tr": "bilgilendirmek, haber vermek",
-   "type": "kalip",
-   "sections": [
-    6
-   ],
-   "lesson": "s06-l05"
-  },
-  {
-   "id": "1e4a3428bf",
-   "en": "communicating directly with",
-   "tr": "… ile doğrudan konuşan",
-   "type": "kalip",
-   "sections": [
-    6
-   ],
-   "lesson": "s06-l05"
-  },
-  {
    "id": "d97b626c6e",
    "en": "IDMZ",
    "tr": "IT ile OT arasına konan, tüm trafiğin uğradığı kontrollü ara bölge",
    "type": "terim",
-   "sections": [
-    6
-   ],
-   "lesson": "s06-l06"
-  },
-  {
-   "id": "fe96bf4a39",
-   "en": "gold-standard",
-   "tr": "en iyi kabul edilen, referans alınan çözüm",
-   "type": "terim",
-   "sections": [
-    6
-   ],
-   "lesson": "s06-l06"
-  },
-  {
-   "id": "3304f85244",
-   "en": "passes through",
-   "tr": "… içinden geçer",
-   "type": "kalip",
    "sections": [
     6
    ],
@@ -5206,16 +4706,6 @@
    "lesson": "s06-l06"
   },
   {
-   "id": "4133cd3c40",
-   "en": "one-way data flow",
-   "tr": "tek yönlü veri akışı",
-   "type": "terim",
-   "sections": [
-    6
-   ],
-   "lesson": "s06-l06"
-  },
-  {
    "id": "7f2337511f",
    "en": "command path back",
    "tr": "geri dönüş komut yolu; diode bunu imkânsız kılar",
@@ -5233,36 +4723,6 @@
    "sections": [
     6,
     10
-   ],
-   "lesson": "s06-l06"
-  },
-  {
-   "id": "08fc22a3a4",
-   "en": "allowing … while blocking",
-   "tr": "…e izin verirken …i engelleyerek",
-   "type": "kalip",
-   "sections": [
-    6
-   ],
-   "lesson": "s06-l06"
-  },
-  {
-   "id": "79063b9fe0",
-   "en": "replace patching",
-   "tr": "yamanın yerini alır; yama mümkün olmadığında",
-   "type": "terim",
-   "sections": [
-    6
-   ],
-   "lesson": "s06-l06"
-  },
-  {
-   "id": "88fc8d853f",
-   "en": "restricts … to",
-   "tr": "…i … ile sınırlar",
-   "type": "kalip",
-   "sections": [
-    6
    ],
    "lesson": "s06-l06"
   },
@@ -5317,36 +4777,6 @@
    "lesson": "s06-l06"
   },
   {
-   "id": "940bc959bc",
-   "en": "time-limited vendor access",
-   "tr": "tedarikçiye yalnızca belirli süre açılan erişim",
-   "type": "terim",
-   "sections": [
-    6
-   ],
-   "lesson": "s06-l06"
-  },
-  {
-   "id": "ca9509bc55",
-   "en": "must route through",
-   "tr": "… üzerinden geçmek zorundadır",
-   "type": "kalip",
-   "sections": [
-    6
-   ],
-   "lesson": "s06-l06"
-  },
-  {
-   "id": "0d30712fde",
-   "en": "dedicated",
-   "tr": "özel olarak ayrılmış",
-   "type": "kalip",
-   "sections": [
-    6
-   ],
-   "lesson": "s06-l06"
-  },
-  {
    "id": "51a3d642c5",
    "en": "SIS",
    "tr": "Safety Instrumented System: süreç tehlikeli sınıra gelince otomatik durduran bağımsız güvenlik sistemi",
@@ -5379,37 +4809,6 @@
    "lesson": "s06-l06"
   },
   {
-   "id": "b569186923",
-   "en": "by name and scope",
-   "tr": "hem adını hem neyi kapsadığını",
-   "type": "terim",
-   "sections": [
-    6
-   ],
-   "lesson": "s06-l06"
-  },
-  {
-   "id": "510efa8596",
-   "en": "bypassed",
-   "tr": "devre dışı bırakılmış, atlatılmış",
-   "type": "terim",
-   "sections": [
-    6
-   ],
-   "lesson": "s06-l06"
-  },
-  {
-   "id": "18f2e8907c",
-   "en": "immediate escalation",
-   "tr": "derhal üst kademeye taşıma • gecikmeden üst kademeye taşıma",
-   "type": "terim",
-   "sections": [
-    6,
-    33
-   ],
-   "lesson": "s06-l06"
-  },
-  {
    "id": "95feb49f75",
    "en": "telemetry",
    "tr": "sistemin kendi çalışması hakkında ürettiği log ve ölçüm verisi; analistin ham malzemesi • sistemin kendi çalışması hakkında ürettiği ölçüm ve olay verisi • toplanan ölçüm verisi",
@@ -5418,16 +4817,6 @@
     7,
     19,
     42
-   ],
-   "lesson": "s07-l01"
-  },
-  {
-   "id": "c6ea346f9d",
-   "en": "available to",
-   "tr": "…in erişebildiği",
-   "type": "kalip",
-   "sections": [
-    7
    ],
    "lesson": "s07-l01"
   },
@@ -5483,16 +4872,6 @@
    "lesson": "s07-l01"
   },
   {
-   "id": "f7c13f20ca",
-   "en": "separation",
-   "tr": "ayrım, birbirinden ayrı tutma",
-   "type": "kalip",
-   "sections": [
-    7
-   ],
-   "lesson": "s07-l01"
-  },
-  {
    "id": "4f653f7fad",
    "en": "ASLR",
    "tr": "programın bellekteki yerini her çalıştırmada rastgele değiştirir; saldırganın adres tahmin etmesini engeller",
@@ -5507,27 +4886,6 @@
    "en": "DEP",
    "tr": "veri alanındaki içeriğin kod olarak çalıştırılmasını engeller",
    "type": "terim",
-   "sections": [
-    7
-   ],
-   "lesson": "s07-l01"
-  },
-  {
-   "id": "0714e345b9",
-   "en": "exploitation",
-   "tr": "açıktan yararlanma, sömürü • istismar",
-   "type": "kalip",
-   "sections": [
-    7,
-    29
-   ],
-   "lesson": "s07-l01"
-  },
-  {
-   "id": "8b4f9eeb53",
-   "en": "make … harder",
-   "tr": "…i zorlaştırır",
-   "type": "kalip",
    "sections": [
     7
    ],
@@ -5552,17 +4910,6 @@
    "sections": [
     7,
     11
-   ],
-   "lesson": "s07-l01"
-  },
-  {
-   "id": "65c3466e88",
-   "en": "feed",
-   "tr": "besler, girdi sağlar • sürekli akan kaynak",
-   "type": "kalip",
-   "sections": [
-    7,
-    20
    ],
    "lesson": "s07-l01"
   },
@@ -5599,32 +4946,10 @@
    "lesson": "s07-l01"
   },
   {
-   "id": "cc0e9f903f",
-   "en": "tied to",
-   "tr": "… ile bağlantılı olan • …e bağlanmış • …e bağlı",
-   "type": "kalip",
-   "sections": [
-    7,
-    24,
-    27
-   ],
-   "lesson": "s07-l01"
-  },
-  {
    "id": "a1cfc403a7",
    "en": "kernel module",
    "tr": "çekirdeğe sonradan yüklenen kod parçası; normal uygulama bunu yüklemeye çalışmaz",
    "type": "terim",
-   "sections": [
-    7
-   ],
-   "lesson": "s07-l01"
-  },
-  {
-   "id": "862298a39b",
-   "en": "undocumented",
-   "tr": "belgelenmemiş, resmi olmayan",
-   "type": "kalip",
    "sections": [
     7
    ],
@@ -5642,30 +4967,10 @@
    "lesson": "s07-l01"
   },
   {
-   "id": "e9d5aacd5b",
-   "en": "hardening",
-   "tr": "sistemi sıkılaştırma: gereksiz servis, hesap ve ayarları kapatarak saldırı yüzeyini daraltma",
-   "type": "terim",
-   "sections": [
-    7
-   ],
-   "lesson": "s07-l02"
-  },
-  {
    "id": "b67b182bd2",
    "en": "maintained",
    "tr": "sürdürülmeli, korunmalı",
    "type": "kalip",
-   "sections": [
-    7
-   ],
-   "lesson": "s07-l02"
-  },
-  {
-   "id": "53f989c679",
-   "en": "configuration baseline",
-   "tr": "tüm sistemlerin uyması gereken, onaylanmış referans ayar seti",
-   "type": "terim",
    "sections": [
     7
    ],
@@ -5690,16 +4995,6 @@
    "sections": [
     7,
     27
-   ],
-   "lesson": "s07-l02"
-  },
-  {
-   "id": "2bb9d1477f",
-   "en": "defense-in-depth",
-   "tr": "tek bir kontrole güvenmeyip üst üste birden çok koruma katmanı koyma yaklaşımı",
-   "type": "terim",
-   "sections": [
-    7
    ],
    "lesson": "s07-l02"
   },
@@ -5734,39 +5029,9 @@
    "lesson": "s07-l02"
   },
   {
-   "id": "7511845d9e",
-   "en": "widely used",
-   "tr": "yaygın olarak kullanılan",
-   "type": "kalip",
-   "sections": [
-    7
-   ],
-   "lesson": "s07-l02"
-  },
-  {
-   "id": "4b5bb23671",
-   "en": "serve the same function as",
-   "tr": "… ile aynı işlevi görür",
-   "type": "kalip",
-   "sections": [
-    7
-   ],
-   "lesson": "s07-l02"
-  },
-  {
    "id": "521e1a9c81",
    "en": "System32",
    "tr": "Windows'un çekirdek programlarının bulunduğu klasör; meşru sistem süreçleri buradan çalışır",
-   "type": "terim",
-   "sections": [
-    7
-   ],
-   "lesson": "s07-l03"
-  },
-  {
-   "id": "63edd8f8ae",
-   "en": "binaries",
-   "tr": "çalıştırılabilir program dosyaları (.exe, .dll)",
    "type": "terim",
    "sections": [
     7
@@ -5778,16 +5043,6 @@
    "en": "masquerading",
    "tr": "zararlıyı meşru bir sistem süreci adıyla adlandırıp kılık değiştirtme tekniği",
    "type": "terim",
-   "sections": [
-    7
-   ],
-   "lesson": "s07-l03"
-  },
-  {
-   "id": "218ab0c0c4",
-   "en": "naming … after",
-   "tr": "…in adını vermek",
-   "type": "kalip",
    "sections": [
     7
    ],
@@ -5811,16 +5066,6 @@
    "sections": [
     7,
     13
-   ],
-   "lesson": "s07-l03"
-  },
-  {
-   "id": "ef3f332a50",
-   "en": "prime locations",
-   "tr": "başlıca/en uygun yerler",
-   "type": "kalip",
-   "sections": [
-    7
    ],
    "lesson": "s07-l03"
   },
@@ -5866,16 +5111,6 @@
    "lesson": "s07-l03"
   },
   {
-   "id": "536f172f9e",
-   "en": "is always the one",
-   "tr": "her zaman … olandır",
-   "type": "kalip",
-   "sections": [
-    7
-   ],
-   "lesson": "s07-l03"
-  },
-  {
    "id": "a314a0a463",
    "en": "FHS",
    "tr": "Linux'ta hangi klasörde ne bulunacağını tanımlayan standart",
@@ -5892,20 +5127,6 @@
    "type": "kalip",
    "sections": [
     7
-   ],
-   "lesson": "s07-l04"
-  },
-  {
-   "id": "039b47cbc9",
-   "en": "defines",
-   "tr": "tanımlar, belirler • tanımlar • …i belirler",
-   "type": "kalip",
-   "sections": [
-    7,
-    8,
-    26,
-    33,
-    37
    ],
    "lesson": "s07-l04"
   },
@@ -5930,16 +5151,6 @@
    "lesson": "s07-l04"
   },
   {
-   "id": "7771850977",
-   "en": "crontab",
-   "tr": "zamanlanmış görev tanımları; saldırganlar kalıcılık için buraya kayıt ekler",
-   "type": "terim",
-   "sections": [
-    7
-   ],
-   "lesson": "s07-l04"
-  },
-  {
    "id": "70efee2cf6",
    "en": "auditd",
    "tr": "çekirdek seviyesinde denetim kaydı tutan Linux servisi • dosya erişimi ve sistem çağrılarını ayrıntılı kaydeden Linux denetim servisi",
@@ -5951,40 +5162,10 @@
    "lesson": "s07-l04"
   },
   {
-   "id": "e9da39a3f4",
-   "en": "world-writable",
-   "tr": "herkesin yazabildiği; yetkisiz kullanıcı bile buraya dosya bırakabilir",
-   "type": "terim",
-   "sections": [
-    7
-   ],
-   "lesson": "s07-l04"
-  },
-  {
    "id": "099070c159",
    "en": "/dev/shm",
    "tr": "diskte değil bellekte duran dosya sistemi",
    "type": "terim",
-   "sections": [
-    7
-   ],
-   "lesson": "s07-l04"
-  },
-  {
-   "id": "2de3344226",
-   "en": "fileless execution",
-   "tr": "diske hiç dosya yazmadan, yalnızca bellekte çalışma; adli incelemede iz bırakmaz",
-   "type": "terim",
-   "sections": [
-    7
-   ],
-   "lesson": "s07-l04"
-  },
-  {
-   "id": "9b8927087b",
-   "en": "staging area",
-   "tr": "hazırlık/bekletme alanı",
-   "type": "kalip",
    "sections": [
     7
    ],
@@ -6001,54 +5182,10 @@
    "lesson": "s07-l04"
   },
   {
-   "id": "1834755a76",
-   "en": "exposing",
-   "tr": "açığa çıkaran, erişilebilir kılan",
-   "type": "kalip",
-   "sections": [
-    7
-   ],
-   "lesson": "s07-l04"
-  },
-  {
-   "id": "98aadb3708",
-   "en": "live",
-   "tr": "anlık, o an çalışan",
-   "type": "kalip",
-   "sections": [
-    7
-   ],
-   "lesson": "s07-l04"
-  },
-  {
-   "id": "4fd65fcf01",
-   "en": "points to",
-   "tr": "…i gösterir, …e işaret eder • sınav dili: bu ipucu şu cevaba işaret eder • …i işaret eder",
-   "type": "terim",
-   "sections": [
-    7,
-    10,
-    31,
-    32,
-    34
-   ],
-   "lesson": "s07-l04"
-  },
-  {
    "id": "b0ba212495",
    "en": "breach window",
    "tr": "ihlalin gerçekleştiği tahmin edilen zaman aralığı",
    "type": "terim",
-   "sections": [
-    7
-   ],
-   "lesson": "s07-l04"
-  },
-  {
-   "id": "f637e9f9db",
-   "en": "equivalent of",
-   "tr": "…in karşılığı/eşdeğeri",
-   "type": "kalip",
    "sections": [
     7
    ],
@@ -6123,17 +5260,6 @@
    "type": "terim",
    "sections": [
     7
-   ],
-   "lesson": "s07-l05"
-  },
-  {
-   "id": "4283c5d33e",
-   "en": "deviation",
-   "tr": "sapma, normalden ayrılma • sapma",
-   "type": "kalip",
-   "sections": [
-    7,
-    12
    ],
    "lesson": "s07-l05"
   },
@@ -6222,44 +5348,12 @@
    "lesson": "s07-l05"
   },
   {
-   "id": "9f10e5f523",
-   "en": "abused for",
-   "tr": "… amacıyla kötüye kullanılan",
-   "type": "kalip",
-   "sections": [
-    7
-   ],
-   "lesson": "s07-l05"
-  },
-  {
    "id": "04fa0969c7",
    "en": "user context",
    "tr": "sürecin hangi kullanıcı hesabıyla çalıştığı",
    "type": "terim",
    "sections": [
     7
-   ],
-   "lesson": "s07-l05"
-  },
-  {
-   "id": "bacee13a66",
-   "en": "signature-based detection",
-   "tr": "bilinen zararlıların parmak izine bakan tespit; yeni veya meşru araçlarda işe yaramaz • bilinen kötü desenlerin kurallarla aranması",
-   "type": "terim",
-   "sections": [
-    7,
-    17
-   ],
-   "lesson": "s07-l05"
-  },
-  {
-   "id": "477418cd7f",
-   "en": "insufficient",
-   "tr": "yetersiz",
-   "type": "kalip",
-   "sections": [
-    7,
-    25
    ],
    "lesson": "s07-l05"
   },
@@ -6298,16 +5392,6 @@
    "en": "domain admin",
    "tr": "tüm etki alanını yönetebilen en yetkili hesap; ele geçirilirse her şey ele geçer",
    "type": "terim",
-   "sections": [
-    7
-   ],
-   "lesson": "s07-l06"
-  },
-  {
-   "id": "1dfca29b47",
-   "en": "startup scripts",
-   "tr": "açılışta çalışan betikler",
-   "type": "kalip",
    "sections": [
     7
    ],
@@ -6354,26 +5438,6 @@
    "lesson": "s07-l06"
   },
   {
-   "id": "2346ad27d7",
-   "en": "hash",
-   "tr": "dosyanın benzersiz özet değeri",
-   "type": "kalip",
-   "sections": [
-    7
-   ],
-   "lesson": "s07-l06"
-  },
-  {
-   "id": "5e781bf65a",
-   "en": "resistant to bypass",
-   "tr": "atlatılmaya dirençli",
-   "type": "kalip",
-   "sections": [
-    7
-   ],
-   "lesson": "s07-l06"
-  },
-  {
    "id": "d66a76d2e3",
    "en": "audit policy",
    "tr": "hangi olayların log'a yazılacağını belirleyen ayar; açılmazsa olay hiç kaydedilmez • hangi olayların kaydedileceğini belirleyen ayar",
@@ -6385,30 +5449,10 @@
    "lesson": "s07-l06"
   },
   {
-   "id": "3d6350aad7",
-   "en": "in the wild",
-   "tr": "gerçek dünyada, sahada",
-   "type": "kalip",
-   "sections": [
-    7
-   ],
-   "lesson": "s07-l06"
-  },
-  {
    "id": "384dbbe7b3",
    "en": "continuous configuration assessment",
    "tr": "ayarların sürekli taranıp referans setten sapmanın yakalanması",
    "type": "terim",
-   "sections": [
-    7
-   ],
-   "lesson": "s07-l06"
-  },
-  {
-   "id": "f96df0112e",
-   "en": "which … is stronger",
-   "tr": "hangisi daha güçlü",
-   "type": "kalip",
    "sections": [
     7
    ],
@@ -6475,16 +5519,6 @@
    "lesson": "s08-l01"
   },
   {
-   "id": "de78274596",
-   "en": "log volume",
-   "tr": "üretilen log miktarı; depolama ve performans maliyeti demektir",
-   "type": "terim",
-   "sections": [
-    8
-   ],
-   "lesson": "s08-l01"
-  },
-  {
    "id": "1d25abbe4e",
    "en": "structured logging",
    "tr": "log'u serbest metin yerine alan-değer biçiminde (JSON) yazma",
@@ -6493,27 +5527,6 @@
     8
    ],
    "lesson": "s08-l01"
-  },
-  {
-   "id": "823ce156e7",
-   "en": "parsing",
-   "tr": "ayrıştırma: metni anlamlı alanlara bölme • veriyi ayrıştırıp anlamlı parçalara bölme",
-   "type": "terim",
-   "sections": [
-    8,
-    21
-   ],
-   "lesson": "s08-l01"
-  },
-  {
-   "id": "f5dcb51c39",
-   "en": "agent-based collection",
-   "tr": "kaynak sisteme küçük bir yazılım kurup log'u oradan gönderme",
-   "type": "terim",
-   "sections": [
-    8
-   ],
-   "lesson": "s08-l02"
   },
   {
    "id": "aee3dcdbe4",
@@ -6606,16 +5619,6 @@
    "lesson": "s08-l02"
   },
   {
-   "id": "6e0ee2378a",
-   "en": "consistent schema",
-   "tr": "tutarlı alan yapısı; her kaynakta \"kaynak IP\" aynı alan adıyla durur",
-   "type": "terim",
-   "sections": [
-    8
-   ],
-   "lesson": "s08-l02"
-  },
-  {
    "id": "8c422f164c",
    "en": "work across sources",
    "tr": "kaynak fark etmeksizin çalışır",
@@ -6644,26 +5647,6 @@
     8
    ],
    "lesson": "s08-l02"
-  },
-  {
-   "id": "227dea14aa",
-   "en": "troubleshoot",
-   "tr": "arıza bulup gidermek",
-   "type": "terim",
-   "sections": [
-    8
-   ],
-   "lesson": "s08-l02"
-  },
-  {
-   "id": "c42aa1e130",
-   "en": "harden",
-   "tr": "sıkılaştırmak: güvenlik açısından daha katı hâle getirmek",
-   "type": "terim",
-   "sections": [
-    8
-   ],
-   "lesson": "s08-l03"
   },
   {
    "id": "931cb28767",
@@ -6706,29 +5689,9 @@
    "lesson": "s08-l03"
   },
   {
-   "id": "20192b9b60",
-   "en": "what got through",
-   "tr": "engellenmeyip geçen trafik; asıl tehlike buradadır",
-   "type": "terim",
-   "sections": [
-    8
-   ],
-   "lesson": "s08-l03"
-  },
-  {
    "id": "ce878a930d",
    "en": "conservatively",
    "tr": "ihtiyatlı, temkinli biçimde; aşırıya kaçmadan",
-   "type": "terim",
-   "sections": [
-    8
-   ],
-   "lesson": "s08-l03"
-  },
-  {
-   "id": "eae181227a",
-   "en": "over-filtering",
-   "tr": "aşırı eleme; saldırgan izini de silebilir",
    "type": "terim",
    "sections": [
     8
@@ -6760,16 +5723,6 @@
    "id": "380221e0e8",
    "en": "stored only on",
    "tr": "yalnızca … üzerinde saklanan",
-   "type": "kalip",
-   "sections": [
-    8
-   ],
-   "lesson": "s08-l04"
-  },
-  {
-   "id": "0bb18dbced",
-   "en": "secured",
-   "tr": "güvenliği sağlanmış",
    "type": "kalip",
    "sections": [
     8
@@ -6812,16 +5765,6 @@
    "en": "post-write modification",
    "tr": "yazıldıktan sonra yapılan değişiklik",
    "type": "terim",
-   "sections": [
-    8
-   ],
-   "lesson": "s08-l04"
-  },
-  {
-   "id": "bfa5369e71",
-   "en": "re-hash and compare",
-   "tr": "yeniden özetle ve karşılaştır",
-   "type": "kalip",
    "sections": [
     8
    ],
@@ -6909,16 +5852,6 @@
    "lesson": "s08-l05"
   },
   {
-   "id": "dd5d0501e2",
-   "en": "synchronizes",
-   "tr": "eşitler, senkronlar",
-   "type": "kalip",
-   "sections": [
-    8
-   ],
-   "lesson": "s08-l05"
-  },
-  {
    "id": "592efe39cc",
    "en": "essential for",
    "tr": "… için şart",
@@ -6944,26 +5877,6 @@
    "id": "2778d1d8ea",
    "en": "stratum hierarchy",
    "tr": "saat kaynaklarının güvenilirlik basamakları; numara büyüdükçe kaynaktan uzaklaşır",
-   "type": "terim",
-   "sections": [
-    8
-   ],
-   "lesson": "s08-l05"
-  },
-  {
-   "id": "9ecb68e148",
-   "en": "reference clock",
-   "tr": "atom saati veya GPS gibi asıl zaman kaynağı",
-   "type": "terim",
-   "sections": [
-    8
-   ],
-   "lesson": "s08-l05"
-  },
-  {
-   "id": "eab4e83c52",
-   "en": "authoritative server",
-   "tr": "referans saate doğrudan bağlı, yetkili zaman sunucusu",
    "type": "terim",
    "sections": [
     8
@@ -7084,16 +5997,6 @@
    "lesson": "s08-l06"
   },
   {
-   "id": "29ee392f69",
-   "en": "immediately available",
-   "tr": "anında erişilebilir; arşivden çıkarmayı beklemeden sorgulanabilir",
-   "type": "terim",
-   "sections": [
-    8
-   ],
-   "lesson": "s08-l06"
-  },
-  {
    "id": "31e69adfb2",
    "en": "retention",
    "tr": "saklama",
@@ -7120,17 +6023,6 @@
    "type": "terim",
    "sections": [
     8
-   ],
-   "lesson": "s08-l06"
-  },
-  {
-   "id": "ba2a1650a7",
-   "en": "documentation",
-   "tr": "belgelendirme • yapılan her adımın yeniden üretilebilir ve savunulabilir biçimde kaydı",
-   "type": "terim",
-   "sections": [
-    8,
-    20
    ],
    "lesson": "s08-l06"
   },
@@ -7165,51 +6057,9 @@
    "lesson": "s08-l06"
   },
   {
-   "id": "0f6831f1a9",
-   "en": "queryable",
-   "tr": "sorgulanabilir",
-   "type": "terim",
-   "sections": [
-    8
-   ],
-   "lesson": "s08-l06"
-  },
-  {
-   "id": "6443277374",
-   "en": "legal hold",
-   "tr": "hukuki süreç nedeniyle verinin silinmesini yasaklayan durdurma emri • hukuki süreç nedeniyle log'ların silinmesini yasaklama • hukuki süreç beklenirken verinin silinmesini durduran resmî talimat",
-   "type": "terim",
-   "sections": [
-    8,
-    10,
-    40
-   ],
-   "lesson": "s08-l06"
-  },
-  {
    "id": "91d064fd12",
    "en": "overrides",
    "tr": "ezer, geçersiz kılar",
-   "type": "terim",
-   "sections": [
-    8
-   ],
-   "lesson": "s08-l06"
-  },
-  {
-   "id": "b27395bd40",
-   "en": "must be preserved",
-   "tr": "korunmak zorundadır",
-   "type": "kalip",
-   "sections": [
-    8
-   ],
-   "lesson": "s08-l06"
-  },
-  {
-   "id": "2342f067ab",
-   "en": "high-sensitivity logs",
-   "tr": "en hassas, en uzun saklanması gereken kayıtlar",
    "type": "terim",
    "sections": [
     8
@@ -7247,16 +6097,6 @@
    "lesson": "s08-l06"
   },
   {
-   "id": "ee0980b621",
-   "en": "should follow",
-   "tr": "… uygun olmalı",
-   "type": "kalip",
-   "sections": [
-    8
-   ],
-   "lesson": "s08-l06"
-  },
-  {
    "id": "3ff4fc3114",
    "en": "verify actual configuration",
    "tr": "belgeye değil gerçek ayara bak",
@@ -7265,66 +6105,6 @@
     8
    ],
    "lesson": "s08-l06"
-  },
-  {
-   "id": "34c4d83023",
-   "en": "SIEM query language",
-   "tr": "SIEM'in kendi arama dili (Splunk SPL, KQL gibi)",
-   "type": "terim",
-   "sections": [
-    8
-   ],
-   "lesson": "s08-l07"
-  },
-  {
-   "id": "13d17800a7",
-   "en": "field-based filtering",
-   "tr": "serbest metin yerine belirli bir alana göre süzme",
-   "type": "terim",
-   "sections": [
-    8
-   ],
-   "lesson": "s08-l07"
-  },
-  {
-   "id": "660cffc21b",
-   "en": "specific",
-   "tr": "belirli",
-   "type": "kalip",
-   "sections": [
-    8
-   ],
-   "lesson": "s08-l07"
-  },
-  {
-   "id": "fbde4b8659",
-   "en": "timeline correlation",
-   "tr": "farklı kaynaklardaki olayları zaman sırasına dizip birleştirme",
-   "type": "terim",
-   "sections": [
-    8
-   ],
-   "lesson": "s08-l07"
-  },
-  {
-   "id": "2376cc39a4",
-   "en": "volume spike",
-   "tr": "olağandışı ani hacim artışı",
-   "type": "terim",
-   "sections": [
-    8
-   ],
-   "lesson": "s08-l07"
-  },
-  {
-   "id": "3cd487e8a6",
-   "en": "off-hours activity",
-   "tr": "mesai dışı saatlerde görülen etkinlik",
-   "type": "terim",
-   "sections": [
-    8
-   ],
-   "lesson": "s08-l07"
   },
   {
    "id": "253cee9639",
@@ -7368,17 +6148,6 @@
    "lesson": "s08-l07"
   },
   {
-   "id": "d6a8e6cdd4",
-   "en": "regex",
-   "tr": "düzenli ifade: metinde desen yakalamaya yarayan yazım • metin içinde desen aramaya yarayan kalıp dili",
-   "type": "terim",
-   "sections": [
-    8,
-    21
-   ],
-   "lesson": "s08-l07"
-  },
-  {
    "id": "889fc4c89f",
    "en": "unstructured",
    "tr": "yapılandırılmamış, düz",
@@ -7399,16 +6168,6 @@
    "lesson": "s08-l07"
   },
   {
-   "id": "9360ca556d",
-   "en": "raw log data",
-   "tr": "işlenmemiş ham log çıktısı",
-   "type": "terim",
-   "sections": [
-    8
-   ],
-   "lesson": "s08-l07"
-  },
-  {
    "id": "af0a9bd843",
    "en": "the suspicious entry",
    "tr": "şüpheli olan satır/kayıt",
@@ -7419,53 +6178,12 @@
    "lesson": "s08-l07"
   },
   {
-   "id": "92f131bbc9",
-   "en": "a block of",
-   "tr": "bir öbek …",
-   "type": "kalip",
-   "sections": [
-    8
-   ],
-   "lesson": "s08-l07"
-  },
-  {
-   "id": "263b0efec6",
-   "en": "authentication pattern",
-   "tr": "kimlik doğrulama örüntüsü",
-   "type": "kalip",
-   "sections": [
-    8
-   ],
-   "lesson": "s08-l07"
-  },
-  {
-   "id": "cbbb8e9043",
-   "en": "under what conditions",
-   "tr": "hangi koşullar altında (cihaz, konum, saat)",
-   "type": "terim",
-   "sections": [
-    9
-   ],
-   "lesson": "s09-l01"
-  },
-  {
    "id": "72ec368c5b",
    "en": "the set of",
    "tr": "… bütünü, kümesi",
    "type": "kalip",
    "sections": [
     9
-   ],
-   "lesson": "s09-l01"
-  },
-  {
-   "id": "2aeede80be",
-   "en": "control",
-   "tr": "denetler, yönetir • temiz görüntüler, tanımlı ağ ayarları ve yazılı prosedürlerle denetim",
-   "type": "terim",
-   "sections": [
-    9,
-    20
    ],
    "lesson": "s09-l01"
   },
@@ -7520,16 +6238,6 @@
    "lesson": "s09-l01"
   },
   {
-   "id": "e52226c5f6",
-   "en": "orphaned account",
-   "tr": "sahibi ayrıldığı hâlde kapatılmamış, öksüz kalmış hesap",
-   "type": "terim",
-   "sections": [
-    9
-   ],
-   "lesson": "s09-l01"
-  },
-  {
    "id": "35e4e38cc3",
    "en": "federated identity",
    "tr": "dış kaynaktan gelen kimliğe güvenip kendi sistemine kabul etme",
@@ -7544,26 +6252,6 @@
    "en": "SSO",
    "tr": "tek oturum açmayla birçok sisteme erişebilme",
    "type": "terim",
-   "sections": [
-    9
-   ],
-   "lesson": "s09-l01"
-  },
-  {
-   "id": "328e7b2562",
-   "en": "allows … to trust",
-   "tr": "…in … güvenmesini sağlar",
-   "type": "kalip",
-   "sections": [
-    9
-   ],
-   "lesson": "s09-l01"
-  },
-  {
-   "id": "c02e44af3e",
-   "en": "may grant",
-   "tr": "… verebilir",
-   "type": "kalip",
    "sections": [
     9
    ],
@@ -7590,50 +6278,9 @@
    "lesson": "s09-l01"
   },
   {
-   "id": "4d7e48114a",
-   "en": "target … directly",
-   "tr": "doğrudan …i hedef alır",
-   "type": "kalip",
-   "sections": [
-    9
-   ],
-   "lesson": "s09-l01"
-  },
-  {
-   "id": "b115e6f1df",
-   "en": "identity is the primary perimeter",
-   "tr": "bulutta asıl savunma hattı ağ değil kimliktir • sınav dili: bulutta asıl savunma hattı kimliktir",
-   "type": "terim",
-   "sections": [
-    9,
-    31
-   ],
-   "lesson": "s09-l01"
-  },
-  {
    "id": "6d9c2297de",
    "en": "network boundary",
    "tr": "geleneksel ağ sınırı",
-   "type": "terim",
-   "sections": [
-    9
-   ],
-   "lesson": "s09-l01"
-  },
-  {
-   "id": "995df669ec",
-   "en": "frequently swapped",
-   "tr": "sık sık yer değiştirilmiş",
-   "type": "kalip",
-   "sections": [
-    9
-   ],
-   "lesson": "s09-l01"
-  },
-  {
-   "id": "10568db720",
-   "en": "critical lifecycle step",
-   "tr": "hesap ömründeki atlanmaması gereken kritik adım",
    "type": "terim",
    "sections": [
     9
@@ -7692,30 +6339,10 @@
    "lesson": "s09-l02"
   },
   {
-   "id": "e8ee3cb221",
-   "en": "password rotation",
-   "tr": "parolanın düzenli olarak değiştirilmesi",
-   "type": "terim",
-   "sections": [
-    9
-   ],
-   "lesson": "s09-l02"
-  },
-  {
    "id": "90430184ee",
    "en": "credential checkout",
    "tr": "kasadan parola çekme işlemi; her seferi kaydedilir",
    "type": "terim",
-   "sections": [
-    9
-   ],
-   "lesson": "s09-l02"
-  },
-  {
-   "id": "0b401efaf8",
-   "en": "encrypted repository",
-   "tr": "şifreli depo",
-   "type": "kalip",
    "sections": [
     9
    ],
@@ -7752,16 +6379,6 @@
    "lesson": "s09-l02"
   },
   {
-   "id": "9ae165c487",
-   "en": "elevated privileges",
-   "tr": "yükseltilmiş yetkiler",
-   "type": "kalip",
-   "sections": [
-    9
-   ],
-   "lesson": "s09-l02"
-  },
-  {
    "id": "5644dd18a6",
    "en": "eliminating",
    "tr": "ortadan kaldırarak",
@@ -7785,16 +6402,6 @@
    "id": "fdd8d6daa1",
    "en": "deterrence",
    "tr": "caydırıcılık: izlendiğini bilen kişi kötüye kullanmaz",
-   "type": "terim",
-   "sections": [
-    9
-   ],
-   "lesson": "s09-l02"
-  },
-  {
-   "id": "2f261e2209",
-   "en": "forensic investigation",
-   "tr": "adli inceleme: sonradan ne olduğunu kanıtlarla ortaya çıkarma",
    "type": "terim",
    "sections": [
     9
@@ -7843,51 +6450,10 @@
    "lesson": "s09-l02"
   },
   {
-   "id": "3628bf8a23",
-   "en": "unchecked control",
-   "tr": "denetlenmeyen, kimseye sorulmayan kontrol",
-   "type": "terim",
-   "sections": [
-    9
-   ],
-   "lesson": "s09-l02"
-  },
-  {
-   "id": "e4788b8afe",
-   "en": "approve",
-   "tr": "onaylamak",
-   "type": "kalip",
-   "sections": [
-    9
-   ],
-   "lesson": "s09-l02"
-  },
-  {
-   "id": "17e177dc45",
-   "en": "insider threat",
-   "tr": "içeriden gelen tehdit: yetkili bir çalışanın kötüye kullanımı • yetkili bir çalışandan gelen tehdit",
-   "type": "terim",
-   "sections": [
-    9,
-    11
-   ],
-   "lesson": "s09-l02"
-  },
-  {
    "id": "44a1e2926f",
    "en": "something you know / have / are",
    "tr": "bildiğin (parola), sahip olduğun (telefon, token), olduğun (parmak izi)",
    "type": "terim",
-   "sections": [
-    9
-   ],
-   "lesson": "s09-l03"
-  },
-  {
-   "id": "97b33c493c",
-   "en": "factors",
-   "tr": "faktörler, unsurlar",
-   "type": "kalip",
    "sections": [
     9
    ],
@@ -7906,36 +6472,6 @@
    "lesson": "s09-l03"
   },
   {
-   "id": "3f8be21b6f",
-   "en": "single-factor",
-   "tr": "tek faktörlü",
-   "type": "kalip",
-   "sections": [
-    9
-   ],
-   "lesson": "s09-l03"
-  },
-  {
-   "id": "6854363efc",
-   "en": "is not sufficient",
-   "tr": "yeterli değildir",
-   "type": "kalip",
-   "sections": [
-    9
-   ],
-   "lesson": "s09-l03"
-  },
-  {
-   "id": "b5522cf3fa",
-   "en": "are compromised through",
-   "tr": "… yoluyla ele geçirilir",
-   "type": "kalip",
-   "sections": [
-    9
-   ],
-   "lesson": "s09-l03"
-  },
-  {
    "id": "71125121f1",
    "en": "TOTP",
    "tr": "zamana bağlı, 30 saniyede bir değişen tek kullanımlık kod",
@@ -7950,16 +6486,6 @@
    "en": "hardware token",
    "tr": "fiziksel olarak elinde bulunan kimlik doğrulama cihazı",
    "type": "terim",
-   "sections": [
-    9
-   ],
-   "lesson": "s09-l03"
-  },
-  {
-   "id": "0bf84f67f1",
-   "en": "strength order",
-   "tr": "güç sıralaması",
-   "type": "kalip",
    "sections": [
     9
    ],
@@ -8009,16 +6535,6 @@
    "id": "c79b3ba18b",
    "en": "never leaves",
    "tr": "asla dışına çıkmaz",
-   "type": "kalip",
-   "sections": [
-    9
-   ],
-   "lesson": "s09-l03"
-  },
-  {
-   "id": "e4b1bc7a23",
-   "en": "cryptographically",
-   "tr": "kriptografik olarak",
    "type": "kalip",
    "sections": [
     9
@@ -8108,16 +6624,6 @@
    "lesson": "s09-l03"
   },
   {
-   "id": "3fb867a652",
-   "en": "the weakest MFA option",
-   "tr": "sınav dili: SMS en zayıf MFA yöntemidir (SIM swap ile atlatılır)",
-   "type": "terim",
-   "sections": [
-    9
-   ],
-   "lesson": "s09-l03"
-  },
-  {
    "id": "4bddde8cdd",
    "en": "does not perform",
    "tr": "… yapmaz",
@@ -8182,16 +6688,6 @@
    "lesson": "s09-l04"
   },
   {
-   "id": "b1c5e0f781",
-   "en": "security labels",
-   "tr": "gizlilik dereceleri (Gizli, Çok Gizli gibi)",
-   "type": "terim",
-   "sections": [
-    9
-   ],
-   "lesson": "s09-l04"
-  },
-  {
    "id": "dd5c47eca3",
    "en": "SELinux",
    "tr": "Linux'ta MAC uygulayan zorunlu erişim denetimi mekanizması",
@@ -8243,26 +6739,6 @@
    "lesson": "s09-l04"
   },
   {
-   "id": "8365d388d5",
-   "en": "the basis for",
-   "tr": "…in temeli, dayanağı",
-   "type": "terim",
-   "sections": [
-    9
-   ],
-   "lesson": "s09-l04"
-  },
-  {
-   "id": "3ac42ac2d1",
-   "en": "access decisions",
-   "tr": "erişim kararları",
-   "type": "kalip",
-   "sections": [
-    9
-   ],
-   "lesson": "s09-l04"
-  },
-  {
    "id": "997fcad20d",
    "en": "applies across",
    "tr": "… genelinde geçerlidir",
@@ -8293,16 +6769,6 @@
    "lesson": "s09-l04"
   },
   {
-   "id": "df0a995cb7",
-   "en": "auditing",
-   "tr": "denetim kaydı tutma",
-   "type": "kalip",
-   "sections": [
-    9
-   ],
-   "lesson": "s09-l04"
-  },
-  {
    "id": "7519fa0df7",
    "en": "job-function access",
    "tr": "kişinin görevine göre verilen erişim",
@@ -8323,16 +6789,6 @@
    "lesson": "s09-l04"
   },
   {
-   "id": "4c9f8fbaf7",
-   "en": "multi-attribute",
-   "tr": "çok öznitelikli",
-   "type": "kalip",
-   "sections": [
-    9
-   ],
-   "lesson": "s09-l04"
-  },
-  {
    "id": "5137103f7d",
    "en": "prone to misconfiguration",
    "tr": "yanlış yapılandırmaya en açık olan",
@@ -8341,56 +6797,6 @@
     9
    ],
    "lesson": "s09-l04"
-  },
-  {
-   "id": "e5e9fa1ba3",
-   "en": "secret",
-   "tr": "gösterildiğinde erişim sağlayan her hassas veri",
-   "type": "terim",
-   "sections": [
-    9
-   ],
-   "lesson": "s09-l05"
-  },
-  {
-   "id": "4f41fd7b92",
-   "en": "grants access",
-   "tr": "erişim verir",
-   "type": "kalip",
-   "sections": [
-    9
-   ],
-   "lesson": "s09-l05"
-  },
-  {
-   "id": "cda5d5ec7e",
-   "en": "centralized vault storage",
-   "tr": "secret'ları tek bir korumalı kasada tutma",
-   "type": "terim",
-   "sections": [
-    9
-   ],
-   "lesson": "s09-l05"
-  },
-  {
-   "id": "acaf322543",
-   "en": "rotation",
-   "tr": "kimlik bilgisini düzenli aralıklarla değiştirme",
-   "type": "terim",
-   "sections": [
-    9
-   ],
-   "lesson": "s09-l05"
-  },
-  {
-   "id": "d14babe099",
-   "en": "leaked",
-   "tr": "sızmış",
-   "type": "kalip",
-   "sections": [
-    9
-   ],
-   "lesson": "s09-l05"
   },
   {
    "id": "034408803a",
@@ -8433,16 +6839,6 @@
    "lesson": "s09-l05"
   },
   {
-   "id": "e984e85220",
-   "en": "damage window",
-   "tr": "zarar penceresi: sızıntının işe yarayabildiği zaman aralığı",
-   "type": "terim",
-   "sections": [
-    9
-   ],
-   "lesson": "s09-l05"
-  },
-  {
    "id": "571b8277a7",
    "en": "is worthless",
    "tr": "hiçbir işe yaramaz, değersizdir",
@@ -8451,50 +6847,6 @@
     9
    ],
    "lesson": "s09-l05"
-  },
-  {
-   "id": "4b164244a9",
-   "en": "account compromise",
-   "tr": "hesabın ele geçirilmesi; saldırgan artık geçerli kimlikle içeridedir",
-   "type": "terim",
-   "sections": [
-    9
-   ],
-   "lesson": "s09-l06"
-  },
-  {
-   "id": "28aab085d9",
-   "en": "appear legitimate",
-   "tr": "meşru görünmek; parola doğru olduğu için alarm çalmaz",
-   "type": "terim",
-   "sections": [
-    9
-   ],
-   "lesson": "s09-l06"
-  },
-  {
-   "id": "99433bb2de",
-   "en": "behavioral deviation",
-   "tr": "kişinin kendi normalinden sapması",
-   "type": "terim",
-   "sections": [
-    9
-   ],
-   "lesson": "s09-l06"
-  },
-  {
-   "id": "045ed87436",
-   "en": "relies on",
-   "tr": "…e dayanır",
-   "type": "kalip",
-   "sections": [
-    9,
-    12,
-    13,
-    22,
-    27
-   ],
-   "lesson": "s09-l06"
   },
   {
    "id": "1e27ad330f",
@@ -8510,16 +6862,6 @@
    "id": "dfadaecff4",
    "en": "Event ID 4728 / 4732",
    "tr": "4728 = global güvenlik grubuna üye eklendi, 4732 = yerel gruba üye eklendi",
-   "type": "terim",
-   "sections": [
-    9
-   ],
-   "lesson": "s09-l06"
-  },
-  {
-   "id": "37624a07d1",
-   "en": "privileged groups",
-   "tr": "yüksek yetkili gruplar (Domain Admins gibi)",
    "type": "terim",
    "sections": [
     9
@@ -8578,16 +6920,6 @@
    "lesson": "s09-l06"
   },
   {
-   "id": "9d07784885",
-   "en": "access review",
-   "tr": "kimin neye erişebildiğinin periyodik gözden geçirilmesi",
-   "type": "terim",
-   "sections": [
-    9
-   ],
-   "lesson": "s09-l06"
-  },
-  {
    "id": "c6d2a8aa15",
    "en": "compare … against",
    "tr": "…i … ile karşılaştırır",
@@ -8628,36 +6960,6 @@
    "lesson": "s09-l06"
   },
   {
-   "id": "e73f573c6b",
-   "en": "what each looks like",
-   "tr": "her birinin nasıl göründüğü",
-   "type": "kalip",
-   "sections": [
-    9
-   ],
-   "lesson": "s09-l06"
-  },
-  {
-   "id": "10afa0582e",
-   "en": "privileged group membership changes",
-   "tr": "yetkili gruplara üyelik değişiklikleri",
-   "type": "terim",
-   "sections": [
-    9
-   ],
-   "lesson": "s09-l06"
-  },
-  {
-   "id": "c3464fe167",
-   "en": "grounded in",
-   "tr": "…e dayanan, temelini …den alan",
-   "type": "terim",
-   "sections": [
-    10
-   ],
-   "lesson": "s10-l01"
-  },
-  {
    "id": "eab9dd6e95",
    "en": "intact",
    "tr": "bozulmamış, olduğu gibi kalmış",
@@ -8688,19 +6990,6 @@
    "lesson": "s10-l01"
   },
   {
-   "id": "ff93c451ac",
-   "en": "expect",
-   "tr": "… bekle • …bekle, karşına çıkacak • …bekle",
-   "type": "kalip",
-   "sections": [
-    10,
-    15,
-    18,
-    37
-   ],
-   "lesson": "s10-l01"
-  },
-  {
    "id": "5af651b783",
    "en": "DLP control",
    "tr": "veri sızıntısını önleyen kontrol",
@@ -8721,26 +7010,6 @@
    "lesson": "s10-l02"
   },
   {
-   "id": "f642179206",
-   "en": "states",
-   "tr": "hâller, durumlar",
-   "type": "kalip",
-   "sections": [
-    10
-   ],
-   "lesson": "s10-l02"
-  },
-  {
-   "id": "ab514b9a49",
-   "en": "stored",
-   "tr": "saklanan",
-   "type": "kalip",
-   "sections": [
-    10
-   ],
-   "lesson": "s10-l02"
-  },
-  {
    "id": "c975c1ac2d",
    "en": "actively processed",
    "tr": "o an işlenmekte olan",
@@ -8755,16 +7024,6 @@
    "en": "differ",
    "tr": "farklılık gösterir",
    "type": "kalip",
-   "sections": [
-    10
-   ],
-   "lesson": "s10-l02"
-  },
-  {
-   "id": "87b77c640e",
-   "en": "the hardest state to protect",
-   "tr": "korunması en zor hâl; veri işlenirken açık olmak zorundadır",
-   "type": "terim",
    "sections": [
     10
    ],
@@ -8915,16 +7174,6 @@
    "lesson": "s10-l02"
   },
   {
-   "id": "4673a248fb",
-   "en": "reverses the process",
-   "tr": "işlemi tersine çevirir",
-   "type": "terim",
-   "sections": [
-    10
-   ],
-   "lesson": "s10-l03"
-  },
-  {
    "id": "8af2907291",
    "en": "brute-force resistance",
    "tr": "tüm ihtimalleri deneme saldırısına direnç",
@@ -8955,26 +7204,6 @@
    "lesson": "s10-l03"
   },
   {
-   "id": "5ef4d02460",
-   "en": "one-way",
-   "tr": "tek yönlü; geri çevrilemez",
-   "type": "terim",
-   "sections": [
-    10
-   ],
-   "lesson": "s10-l03"
-  },
-  {
-   "id": "3db1c3aa3c",
-   "en": "format change only",
-   "tr": "yalnızca biçim değişikliği",
-   "type": "kalip",
-   "sections": [
-    10
-   ],
-   "lesson": "s10-l03"
-  },
-  {
    "id": "513b28ad38",
    "en": "deprecated",
    "tr": "kullanımdan kaldırılmış, artık güvenli sayılmayan",
@@ -8988,26 +7217,6 @@
    "id": "6c9c7baf0d",
    "en": "3DES",
    "tr": "eski simetrik algoritma; ortamda görülmesi zafiyet bulgusudur",
-   "type": "terim",
-   "sections": [
-    10
-   ],
-   "lesson": "s10-l03"
-  },
-  {
-   "id": "ddb54628c4",
-   "en": "seeing … in",
-   "tr": "…de … görmek",
-   "type": "kalip",
-   "sections": [
-    10
-   ],
-   "lesson": "s10-l03"
-  },
-  {
-   "id": "8088c1b3b6",
-   "en": "key management",
-   "tr": "anahtarların üretimi, saklanması, döndürülmesi ve imhasının yönetimi",
    "type": "terim",
    "sections": [
     10
@@ -9115,16 +7324,6 @@
    "lesson": "s10-l04"
   },
   {
-   "id": "9dd319a4d2",
-   "en": "equivalent security",
-   "tr": "eşdeğer güvenlik seviyesi",
-   "type": "terim",
-   "sections": [
-    10
-   ],
-   "lesson": "s10-l04"
-  },
-  {
    "id": "6e5c1ccae7",
    "en": "roughly equivalent to",
    "tr": "kabaca …e denk",
@@ -9155,16 +7354,6 @@
    "lesson": "s10-l04"
   },
   {
-   "id": "cca2519fbf",
-   "en": "this is how … work",
-   "tr": "… böyle çalışır",
-   "type": "kalip",
-   "sections": [
-    10
-   ],
-   "lesson": "s10-l04"
-  },
-  {
    "id": "e8a7bc5263",
    "en": "digital signature",
    "tr": "gönderenin gizli anahtarıyla imzalayıp kimliğini ve içeriğin değişmediğini kanıtlaması • dosyanın üreticisini ve bozulmamışlığını kanıtlayan imza",
@@ -9172,26 +7361,6 @@
    "sections": [
     10,
     13
-   ],
-   "lesson": "s10-l04"
-  },
-  {
-   "id": "b061fa7b46",
-   "en": "in reverse",
-   "tr": "ters yönde: normalde açık anahtarla şifrelenir, imzada gizli anahtarla imzalanır",
-   "type": "terim",
-   "sections": [
-    10
-   ],
-   "lesson": "s10-l04"
-  },
-  {
-   "id": "62680790e0",
-   "en": "not confidentiality",
-   "tr": "sınav dili: imza içeriği gizlemez, sadece doğrular",
-   "type": "terim",
-   "sections": [
-    10
    ],
    "lesson": "s10-l04"
   },
@@ -9296,16 +7465,6 @@
    "lesson": "s10-l05"
   },
   {
-   "id": "b511236b9c",
-   "en": "allows … to",
-   "tr": "…in … yapmasına imkân verir",
-   "type": "kalip",
-   "sections": [
-    10
-   ],
-   "lesson": "s10-l05"
-  },
-  {
    "id": "2d325771bb",
    "en": "TDE",
    "tr": "veritabanının tamamını diskte şeffaf biçimde şifreleyen yöntem",
@@ -9356,16 +7515,6 @@
    "lesson": "s10-l05"
   },
   {
-   "id": "d2aede8d22",
-   "en": "decentralized",
-   "tr": "merkeziyetsiz",
-   "type": "kalip",
-   "sections": [
-    10
-   ],
-   "lesson": "s10-l05"
-  },
-  {
    "id": "013eb85af2",
    "en": "differentiate … from",
    "tr": "…i …den ayırt et",
@@ -9374,39 +7523,6 @@
     10
    ],
    "lesson": "s10-l05"
-  },
-  {
-   "id": "ec2727b3b7",
-   "en": "context",
-   "tr": "bağlam",
-   "type": "kalip",
-   "sections": [
-    10,
-    23
-   ],
-   "lesson": "s10-l05"
-  },
-  {
-   "id": "998e87c637",
-   "en": "may require",
-   "tr": "… gerektirebilir • …gerektirebilir",
-   "type": "kalip",
-   "sections": [
-    10,
-    41
-   ],
-   "lesson": "s10-l05"
-  },
-  {
-   "id": "a5c5f137cc",
-   "en": "data classification",
-   "tr": "veriyi hassasiyet seviyesine göre etiketleyip gruplama • verinin gizlilik derecesine göre sınıflandırılması",
-   "type": "terim",
-   "sections": [
-    10,
-    27
-   ],
-   "lesson": "s10-l06"
   },
   {
    "id": "a1ea5461c7",
@@ -9422,16 +7538,6 @@
    "id": "f8ef5300ad",
    "en": "commercial",
    "tr": "ticari, özel sektör",
-   "type": "kalip",
-   "sections": [
-    10
-   ],
-   "lesson": "s10-l06"
-  },
-  {
-   "id": "ff28673d31",
-   "en": "typical",
-   "tr": "tipik, alışılmış",
    "type": "kalip",
    "sections": [
     10
@@ -9529,29 +7635,9 @@
    "lesson": "s10-l06"
   },
   {
-   "id": "170dae4212",
-   "en": "mismatch",
-   "tr": "uyuşmazlık: etiketle yapılan işlem birbirini tutmuyor",
-   "type": "terim",
-   "sections": [
-    10
-   ],
-   "lesson": "s10-l06"
-  },
-  {
    "id": "e8a6f2c271",
    "en": "handling action",
    "tr": "yapılan işlem",
-   "type": "kalip",
-   "sections": [
-    10
-   ],
-   "lesson": "s10-l06"
-  },
-  {
-   "id": "06f684e10b",
-   "en": "access approvals",
-   "tr": "erişim onayları",
    "type": "kalip",
    "sections": [
     10
@@ -9569,50 +7655,10 @@
    "lesson": "s10-l06"
   },
   {
-   "id": "c2673fe6ca",
-   "en": "map each … to",
-   "tr": "her birini … ile eşleştir",
-   "type": "kalip",
-   "sections": [
-    10
-   ],
-   "lesson": "s10-l06"
-  },
-  {
-   "id": "35200fce98",
-   "en": "the primary objective",
-   "tr": "asıl amaç",
-   "type": "kalip",
-   "sections": [
-    10
-   ],
-   "lesson": "s10-l07"
-  },
-  {
-   "id": "b46c7debc5",
-   "en": "email forwarding",
-   "tr": "gelen postaların gizlice dış adrese yönlendirilmesi",
-   "type": "terim",
-   "sections": [
-    10
-   ],
-   "lesson": "s10-l07"
-  },
-  {
    "id": "48aefe0297",
    "en": "encoded in",
    "tr": "… içine kodlanmış",
    "type": "kalip",
-   "sections": [
-    10
-   ],
-   "lesson": "s10-l07"
-  },
-  {
-   "id": "25ece7d177",
-   "en": "high-entropy",
-   "tr": "yüksek rastgelelik; anlamsız/karışık görünen dizi, kodlanmış veri işareti",
-   "type": "terim",
    "sections": [
     10
    ],
@@ -9629,30 +7675,10 @@
    "lesson": "s10-l07"
   },
   {
-   "id": "faf80ca935",
-   "en": "baselines",
-   "tr": "normal davranışı ölçüp referans alır",
-   "type": "terim",
-   "sections": [
-    10
-   ],
-   "lesson": "s10-l07"
-  },
-  {
    "id": "0de633d26b",
    "en": "flags deviations",
    "tr": "sapmaları işaretler",
    "type": "terim",
-   "sections": [
-    10
-   ],
-   "lesson": "s10-l07"
-  },
-  {
-   "id": "68bd61fe04",
-   "en": "available in",
-   "tr": "… içinde mevcuttur",
-   "type": "kalip",
    "sections": [
     10
    ],
@@ -9679,16 +7705,6 @@
    "lesson": "s10-l07"
   },
   {
-   "id": "94d2111c77",
-   "en": "volume spikes",
-   "tr": "hacim sıçramaları",
-   "type": "terim",
-   "sections": [
-    10
-   ],
-   "lesson": "s10-l07"
-  },
-  {
    "id": "61a31064cf",
    "en": "content inspection",
    "tr": "DLP'nin dosya içeriğini okuyup hassas veri arama işlemi",
@@ -9703,16 +7719,6 @@
    "en": "IoC",
    "tr": "Indicator of Compromise: ele geçirilmenin gözlemlenebilir izi",
    "type": "terim",
-   "sections": [
-    11
-   ],
-   "lesson": "s11-l01"
-  },
-  {
-   "id": "220926c8a3",
-   "en": "observable evidence",
-   "tr": "gözlemlenebilir kanıt",
-   "type": "kalip",
    "sections": [
     11
    ],
@@ -9874,30 +7880,9 @@
    "lesson": "s11-l02"
   },
   {
-   "id": "c546af2db7",
-   "en": "delivery mechanism",
-   "tr": "iletim/teslim mekanizması • saldırının kurbana ulaştırılma yolu",
-   "type": "terim",
-   "sections": [
-    11,
-    15
-   ],
-   "lesson": "s11-l02"
-  },
-  {
    "id": "728299390a",
    "en": "mutex",
    "tr": "zararlının aynı makinede iki kez çalışmasını önlemek için bıraktığı işaret; iyi bir gösterge",
-   "type": "terim",
-   "sections": [
-    11
-   ],
-   "lesson": "s11-l03"
-  },
-  {
-   "id": "2ac527f1d0",
-   "en": "rotate",
-   "tr": "değiştirip yenisiyle devam etmek",
    "type": "terim",
    "sections": [
     11
@@ -9909,27 +7894,6 @@
    "en": "TTP",
    "tr": "Tactics, Techniques, Procedures: saldırganın çalışma tarzı; değiştirmesi en pahalı olan şey",
    "type": "terim",
-   "sections": [
-    11
-   ],
-   "lesson": "s11-l03"
-  },
-  {
-   "id": "f356c30308",
-   "en": "evade detection",
-   "tr": "tespitten kaçmak • tespitten kaçınmak",
-   "type": "terim",
-   "sections": [
-    11,
-    21
-   ],
-   "lesson": "s11-l03"
-  },
-  {
-   "id": "3d9ffc648b",
-   "en": "network and host artifacts",
-   "tr": "ağ ve host izleri",
-   "type": "kalip",
    "sections": [
     11
    ],
@@ -10057,16 +8021,6 @@
    "lesson": "s11-l04"
   },
   {
-   "id": "27b0601266",
-   "en": "commercial platforms",
-   "tr": "ticari platformlar",
-   "type": "kalip",
-   "sections": [
-    11
-   ],
-   "lesson": "s11-l04"
-  },
-  {
    "id": "2a2415c508",
    "en": "proprietary",
    "tr": "özel mülk; şirkete ait, herkese açık olmayan",
@@ -10157,26 +8111,6 @@
    "lesson": "s11-l04"
   },
   {
-   "id": "338ad11a14",
-   "en": "suit",
-   "tr": "…e uygundur, … için iyidir",
-   "type": "terim",
-   "sections": [
-    11
-   ],
-   "lesson": "s11-l04"
-  },
-  {
-   "id": "832b899abf",
-   "en": "tagging",
-   "tr": "etiketleme",
-   "type": "kalip",
-   "sections": [
-    11
-   ],
-   "lesson": "s11-l04"
-  },
-  {
    "id": "9f00654f7d",
    "en": "validate / enrich / prioritize",
    "tr": "doğrula → bağlam ekle → önceliklendir",
@@ -10226,26 +8160,6 @@
    "sections": [
     11,
     38
-   ],
-   "lesson": "s11-l05"
-  },
-  {
-   "id": "06506e05c9",
-   "en": "malware families",
-   "tr": "aynı kökten türeyen zararlı yazılım aileleri",
-   "type": "terim",
-   "sections": [
-    11
-   ],
-   "lesson": "s11-l05"
-  },
-  {
-   "id": "43f717cfa4",
-   "en": "raw indicator",
-   "tr": "ham gösterge",
-   "type": "kalip",
-   "sections": [
-    11
    ],
    "lesson": "s11-l05"
   },
@@ -10400,16 +8314,6 @@
    "lesson": "s11-l06"
   },
   {
-   "id": "8da99cf825",
-   "en": "gather confirmation",
-   "tr": "teyit toplamak",
-   "type": "kalip",
-   "sections": [
-    11
-   ],
-   "lesson": "s11-l06"
-  },
-  {
    "id": "7233fb3683",
    "en": "deployment",
    "tr": "sahaya alma, devreye sokma • kurulum, konumlandırma",
@@ -10545,16 +8449,6 @@
    "lesson": "s11-l07"
   },
   {
-   "id": "05b23453b1",
-   "en": "known-good patterns",
-   "tr": "zararsız olduğu bilinen örüntüler",
-   "type": "terim",
-   "sections": [
-    11
-   ],
-   "lesson": "s11-l07"
-  },
-  {
    "id": "adc09cdc4c",
    "en": "excessive",
    "tr": "aşırı, fazla • aşırı, haddinden fazla",
@@ -10597,29 +8491,9 @@
    "lesson": "s12-l01"
   },
   {
-   "id": "57f747a599",
-   "en": "visibility layer",
-   "tr": "görünürlük katmanı; olup biteni izleyebildiğin düzlem",
-   "type": "terim",
-   "sections": [
-    12
-   ],
-   "lesson": "s12-l01"
-  },
-  {
    "id": "9f7ad5e677",
    "en": "cross-environment behavior",
    "tr": "birden çok ortama yayılan davranış",
-   "type": "terim",
-   "sections": [
-    12
-   ],
-   "lesson": "s12-l01"
-  },
-  {
-   "id": "eb78d700e8",
-   "en": "host-based tools can miss",
-   "tr": "uç noktadaki araçların gözünden kaçabilecek olan",
    "type": "terim",
    "sections": [
     12
@@ -10644,21 +8518,6 @@
    "sections": [
     12,
     16
-   ],
-   "lesson": "s12-l02"
-  },
-  {
-   "id": "f1e51058d9",
-   "en": "map to",
-   "tr": "…e karşılık gelir • …ile eşleşir • sınav dili: …hedefine karşılık gelir",
-   "type": "terim",
-   "sections": [
-    12,
-    16,
-    26,
-    29,
-    30,
-    37
    ],
    "lesson": "s12-l02"
   },
@@ -10697,16 +8556,6 @@
    "en": "among the most abused",
    "tr": "en çok kötüye kullanılanlar arasında",
    "type": "kalip",
-   "sections": [
-    12
-   ],
-   "lesson": "s12-l02"
-  },
-  {
-   "id": "38b3908569",
-   "en": "equivalent visibility",
-   "tr": "eşdeğer görünürlük; bulutta karşılığı olan araçlar",
-   "type": "terim",
    "sections": [
     12
    ],
@@ -11034,16 +8883,6 @@
    "lesson": "s12-l04"
   },
   {
-   "id": "250397657f",
-   "en": "Discovery tactic",
-   "tr": "ATT&CK'te ortamı tanıma taktiği",
-   "type": "terim",
-   "sections": [
-    12
-   ],
-   "lesson": "s12-l04"
-  },
-  {
    "id": "86ce3f3230",
    "en": "enumerate",
    "tr": "sıralayıp çıkarmak",
@@ -11078,16 +8917,6 @@
    "en": "transmit",
    "tr": "iletir, gönderir",
    "type": "kalip",
-   "sections": [
-    12
-   ],
-   "lesson": "s12-l04"
-  },
-  {
-   "id": "ceae7972fc",
-   "en": "key discriminators",
-   "tr": "sınav dili: ayırt etmeni sağlayacak asıl ölçütler",
-   "type": "terim",
    "sections": [
     12
    ],
@@ -11158,16 +8987,6 @@
    "id": "e274c2b932",
    "en": "Zeek",
    "tr": "ağ trafiğini protokol seviyesinde ayrıştırıp yapılandırılmış log üreten araç",
-   "type": "terim",
-   "sections": [
-    12
-   ],
-   "lesson": "s12-l05"
-  },
-  {
-   "id": "4c79e03d69",
-   "en": "port 4444",
-   "tr": "Metasploit Meterpreter'ın varsayılan dinleme portu; görülmesi güçlü işarettir",
    "type": "terim",
    "sections": [
     12
@@ -11315,16 +9134,6 @@
    "lesson": "s12-l06"
   },
   {
-   "id": "caed72fbe8",
-   "en": "random-looking",
-   "tr": "rastgele görünen",
-   "type": "kalip",
-   "sections": [
-    12
-   ],
-   "lesson": "s12-l06"
-  },
-  {
    "id": "9ec7834dbd",
    "en": "HTTPS-wrapped C2",
    "tr": "C2 trafiğinin şifreli HTTPS oturumu içine gizlenmesi",
@@ -11398,26 +9207,6 @@
    "id": "33e1634b2f",
    "en": "communication pairs",
    "tr": "normalde hangi host'un hangisiyle konuştuğu eşleşmeleri",
-   "type": "terim",
-   "sections": [
-    12
-   ],
-   "lesson": "s12-l07"
-  },
-  {
-   "id": "59729d839e",
-   "en": "expected listeners",
-   "tr": "her sistemde açık olması beklenen portlar",
-   "type": "terim",
-   "sections": [
-    12
-   ],
-   "lesson": "s12-l07"
-  },
-  {
-   "id": "c6b3e72956",
-   "en": "known-good",
-   "tr": "zararsız olduğu bilinen, doğrulanmış",
    "type": "terim",
    "sections": [
     12
@@ -11505,16 +9294,6 @@
    "lesson": "s12-l07"
   },
   {
-   "id": "351656ea38",
-   "en": "applies … to",
-   "tr": "…i …e uygular",
-   "type": "kalip",
-   "sections": [
-    12
-   ],
-   "lesson": "s12-l07"
-  },
-  {
    "id": "666425e4a4",
    "en": "security group tier",
    "tr": "bulutta aynı güvenlik grubuna bağlı kaynak katmanı",
@@ -11579,16 +9358,6 @@
    "en": "network socket open",
    "tr": "bir ağ bağlantı ucunun açılması",
    "type": "terim",
-   "sections": [
-    13
-   ],
-   "lesson": "s13-l01"
-  },
-  {
-   "id": "fa8201ac44",
-   "en": "meaningful",
-   "tr": "anlamlı, kayda değer",
-   "type": "kalip",
    "sections": [
     13
    ],
@@ -11770,16 +9539,6 @@
    "id": "81e0f686ee",
    "en": "memory scanning",
    "tr": "diskin değil, çalışan belleğin taranması",
-   "type": "terim",
-   "sections": [
-    13
-   ],
-   "lesson": "s13-l03"
-  },
-  {
-   "id": "47f30be545",
-   "en": "behavioral signature",
-   "tr": "davranışın kendisinden çıkan tanıma imzası",
    "type": "terim",
    "sections": [
     13
@@ -11975,16 +9734,6 @@
     13,
     26,
     41
-   ],
-   "lesson": "s13-l04"
-  },
-  {
-   "id": "6c1143480c",
-   "en": "approved baseline",
-   "tr": "onaylı yazılım listesi; sapmalar buna göre ölçülür",
-   "type": "terim",
-   "sections": [
-    13
    ],
    "lesson": "s13-l04"
   },
@@ -12353,16 +10102,6 @@
    "lesson": "s13-l07"
   },
   {
-   "id": "0652e436f4",
-   "en": "configuration",
-   "tr": "yapılandırma",
-   "type": "kalip",
-   "sections": [
-    13
-   ],
-   "lesson": "s13-l07"
-  },
-  {
    "id": "bf884a6f7f",
    "en": "DLL hijacking",
    "tr": "uygulamanın önce bulacağı bir yere sahte DLL koyup kendi kodunu çalıştırtma",
@@ -12413,30 +10152,10 @@
    "lesson": "s13-l07"
   },
   {
-   "id": "3a72a65271",
-   "en": "correlate ... with",
-   "tr": "…ile ilişkilendir",
-   "type": "kalip",
-   "sections": [
-    13
-   ],
-   "lesson": "s13-l07"
-  },
-  {
    "id": "b86429e964",
    "en": "coinciding with",
    "tr": "…ile aynı zamana denk gelen",
    "type": "kalip",
-   "sections": [
-    13
-   ],
-   "lesson": "s13-l07"
-  },
-  {
-   "id": "144eaa8545",
-   "en": "timing analysis",
-   "tr": "değişikliğin ne zaman olduğuna bakan analiz",
-   "type": "terim",
    "sections": [
     13
    ],
@@ -12456,16 +10175,6 @@
    "id": "d9390b2c40",
    "en": "staging",
    "tr": "sızdırılacak verinin host üzerinde toplanıp paketlenmesi aşaması",
-   "type": "terim",
-   "sections": [
-    13
-   ],
-   "lesson": "s13-l08"
-  },
-  {
-   "id": "34899a33e3",
-   "en": "transmission",
-   "tr": "hazırlanan verinin dışarı gönderilmesi aşaması",
    "type": "terim",
    "sections": [
     13
@@ -12516,16 +10225,6 @@
    "id": "083b4f9098",
    "en": "is attached",
    "tr": "takıldığında",
-   "type": "kalip",
-   "sections": [
-    13
-   ],
-   "lesson": "s13-l08"
-  },
-  {
-   "id": "37f1051353",
-   "en": "correlate with",
-   "tr": "…ile ilişkilendir",
    "type": "kalip",
    "sections": [
     13
