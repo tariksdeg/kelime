@@ -10937,143 +10937,12 @@
    "lesson": "s14-l07"
   },
   {
-   "id": "e456e59bba",
-   "en": "leading breach vector",
-   "tr": "sınav dili: ihlallerin en sık kullanılan giriş yolu",
-   "type": "terim",
-   "sections": [
-    15
-   ],
-   "lesson": "s15-l01"
-  },
-  {
-   "id": "8ba05eaf22",
-   "en": "not just to advise users",
-   "tr": "sınav dili: iş yalnızca kullanıcıyı uyarmakla bitmez",
-   "type": "terim",
-   "sections": [
-    15
-   ],
-   "lesson": "s15-l01"
-  },
-  {
-   "id": "1abfe1789e",
-   "en": "statistically",
-   "tr": "istatistiksel olarak",
-   "type": "kalip",
-   "sections": [
-    15
-   ],
-   "lesson": "s15-l01"
-  },
-  {
-   "id": "c0b78996d0",
-   "en": "respond",
-   "tr": "müdahale etmek",
-   "type": "kalip",
-   "sections": [
-    15
-   ],
-   "lesson": "s15-l01"
-  },
-  {
-   "id": "d7072a6ed2",
-   "en": "human behavior dimension",
-   "tr": "olayın insan davranışına bakan boyutu",
-   "type": "terim",
-   "sections": [
-    15
-   ],
-   "lesson": "s15-l01"
-  },
-  {
-   "id": "94f1f92b6f",
-   "en": "pull it apart",
-   "tr": "sınav dili: parçalarına ayırıp incele",
-   "type": "terim",
-   "sections": [
-    15
-   ],
-   "lesson": "s15-l01"
-  },
-  {
-   "id": "d7aa079b8f",
-   "en": "pull emails",
-   "tr": "gönderilmiş e-postaları posta kutularından geri çekme",
-   "type": "terim",
-   "sections": [
-    15
-   ],
-   "lesson": "s15-l01"
-  },
-  {
    "id": "5f08b040a5",
    "en": "mail gateways",
    "tr": "kuruma giren e-postaların süzüldüğü geçit sunucuları",
    "type": "terim",
    "sections": [
     15
-   ],
-   "lesson": "s15-l01"
-  },
-  {
-   "id": "f2d863ee56",
-   "en": "flags the attack",
-   "tr": "saldırıyı işaretler",
-   "type": "kalip",
-   "sections": [
-    15
-   ],
-   "lesson": "s15-l01"
-  },
-  {
-   "id": "b7c2af9731",
-   "en": "leave digital traces",
-   "tr": "dijital iz bırakır",
-   "type": "kalip",
-   "sections": [
-    15
-   ],
-   "lesson": "s15-l01"
-  },
-  {
-   "id": "87f954b155",
-   "en": "get flagged by",
-   "tr": "…tarafından işaretlenir",
-   "type": "kalip",
-   "sections": [
-    15
-   ],
-   "lesson": "s15-l01"
-  },
-  {
-   "id": "f252ed8426",
-   "en": "log excerpt",
-   "tr": "kayıttan alınmış kısa bir kesit",
-   "type": "terim",
-   "sections": [
-    15
-   ],
-   "lesson": "s15-l01"
-  },
-  {
-   "id": "735b90c0c7",
-   "en": "the correct next analytical step",
-   "tr": "sınav dili: analizde atılacak doğru bir sonraki adım",
-   "type": "terim",
-   "sections": [
-    15
-   ],
-   "lesson": "s15-l01"
-  },
-  {
-   "id": "c3cdd7a508",
-   "en": "you are given",
-   "tr": "sana … verilir",
-   "type": "kalip",
-   "sections": [
-    15,
-    18
    ],
    "lesson": "s15-l01"
   },
@@ -11088,41 +10957,10 @@
    "lesson": "s15-l01"
   },
   {
-   "id": "a628950a4a",
-   "en": "email header",
-   "tr": "e-postanın gönderim yolunu ve kimlik bilgilerini taşıyan başlık kısmı",
-   "type": "terim",
-   "sections": [
-    15
-   ],
-   "lesson": "s15-l01"
-  },
-  {
    "id": "c68f8e9d53",
    "en": "typosquatting",
    "tr": "meşru alan adına harf oyunuyla benzetilmiş sahte alan adı • meşru alan adının yazım/görüntü benzeriyle sahte alan adı kaydetme",
    "type": "terim",
-   "sections": [
-    15
-   ],
-   "lesson": "s15-l01"
-  },
-  {
-   "id": "92e2c0e61c",
-   "en": "to determine whether",
-   "tr": "…olup olmadığını belirlemek için",
-   "type": "kalip",
-   "sections": [
-    15,
-    19
-   ],
-   "lesson": "s15-l01"
-  },
-  {
-   "id": "6a9f6c3fff",
-   "en": "passed",
-   "tr": "geçti, doğrulandı",
-   "type": "kalip",
    "sections": [
     15
    ],
@@ -11179,36 +11017,6 @@
    "lesson": "s15-l02"
   },
   {
-   "id": "6be91d2a4a",
-   "en": "to appear legitimate",
-   "tr": "meşru görünmek için",
-   "type": "kalip",
-   "sections": [
-    15
-   ],
-   "lesson": "s15-l02"
-  },
-  {
-   "id": "1d0fe0379e",
-   "en": "mass-distribution",
-   "tr": "kitlesel dağıtım; kime gittiği fark etmeksizin toplu gönderim",
-   "type": "terim",
-   "sections": [
-    15
-   ],
-   "lesson": "s15-l02"
-  },
-  {
-   "id": "35cd5e8945",
-   "en": "volume-driven",
-   "tr": "sınav dili: başarısı hedeflemeye değil sayıya dayanan",
-   "type": "terim",
-   "sections": [
-    15
-   ],
-   "lesson": "s15-l02"
-  },
-  {
    "id": "f806fd6f66",
    "en": "deceptive",
    "tr": "aldatıcı",
@@ -11229,29 +11037,9 @@
    "lesson": "s15-l02"
   },
   {
-   "id": "4f4b9a3eac",
-   "en": "untargeted",
-   "tr": "hedefsiz",
-   "type": "kalip",
-   "sections": [
-    15
-   ],
-   "lesson": "s15-l02"
-  },
-  {
    "id": "5f94a72d4e",
    "en": "spear-phishing",
    "tr": "belirli kişi ya da kuruma özel hazırlanmış, araştırmaya dayalı oltalama",
-   "type": "terim",
-   "sections": [
-    15
-   ],
-   "lesson": "s15-l02"
-  },
-  {
-   "id": "9498761d40",
-   "en": "initial access",
-   "tr": "saldırganın ortama ilk ayak basma aşaması",
    "type": "terim",
    "sections": [
     15
@@ -11269,16 +11057,6 @@
    "lesson": "s15-l02"
   },
   {
-   "id": "03d3ee8521",
-   "en": "accurate context",
-   "tr": "doğru, yerinde bağlam bilgisi",
-   "type": "kalip",
-   "sections": [
-    15
-   ],
-   "lesson": "s15-l02"
-  },
-  {
    "id": "6c18e34c7d",
    "en": "smishing",
    "tr": "SMS üzerinden yapılan oltalama",
@@ -11289,90 +11067,10 @@
    "lesson": "s15-l02"
   },
   {
-   "id": "3200ebce8f",
-   "en": "bypasses email security controls",
-   "tr": "e-posta güvenlik katmanına hiç uğramaz, onu atlar",
-   "type": "terim",
-   "sections": [
-    15
-   ],
-   "lesson": "s15-l02"
-  },
-  {
-   "id": "4a15a2e91f",
-   "en": "endpoint proxy logs",
-   "tr": "cihazın internete çıkışını kaydeden vekil sunucu kayıtları",
-   "type": "terim",
-   "sections": [
-    15
-   ],
-   "lesson": "s15-l02"
-  },
-  {
-   "id": "7d8064101e",
-   "en": "hits personal devices",
-   "tr": "kişisel cihazlara ulaşır",
-   "type": "kalip",
-   "sections": [
-    15
-   ],
-   "lesson": "s15-l02"
-  },
-  {
-   "id": "ea51b8b845",
-   "en": "after user report",
-   "tr": "kullanıcı bildirdikten sonra",
-   "type": "kalip",
-   "sections": [
-    15
-   ],
-   "lesson": "s15-l02"
-  },
-  {
    "id": "0156d0e151",
    "en": "vishing",
    "tr": "telefonla, sesli olarak yapılan oltalama",
    "type": "terim",
-   "sections": [
-    15
-   ],
-   "lesson": "s15-l02"
-  },
-  {
-   "id": "134c51c9d5",
-   "en": "AI-generated voice cloning",
-   "tr": "yapay zekâyla birinin sesinin taklit edilmesi",
-   "type": "terim",
-   "sections": [
-    15
-   ],
-   "lesson": "s15-l02"
-  },
-  {
-   "id": "d286cfe239",
-   "en": "not log data",
-   "tr": "sınav dili: kayıtlardan değil, insan bildirimiyle yakalanır",
-   "type": "terim",
-   "sections": [
-    15
-   ],
-   "lesson": "s15-l02"
-  },
-  {
-   "id": "a4de278cc3",
-   "en": "increasingly",
-   "tr": "giderek artan biçimde",
-   "type": "kalip",
-   "sections": [
-    15
-   ],
-   "lesson": "s15-l02"
-  },
-  {
-   "id": "2060a2f9f1",
-   "en": "user reports",
-   "tr": "kullanıcı bildirimleri",
-   "type": "kalip",
    "sections": [
     15
    ],
@@ -11409,26 +11107,6 @@
    "lesson": "s15-l02"
   },
   {
-   "id": "2db7eb4bb0",
-   "en": "curiosity or greed",
-   "tr": "merak ya da açgözlülük",
-   "type": "kalip",
-   "sections": [
-    15
-   ],
-   "lesson": "s15-l02"
-  },
-  {
-   "id": "f800c8377b",
-   "en": "labeled",
-   "tr": "üzerine etiket yazılmış",
-   "type": "kalip",
-   "sections": [
-    15
-   ],
-   "lesson": "s15-l02"
-  },
-  {
    "id": "4fd84394eb",
    "en": "parking lot",
    "tr": "otopark",
@@ -11449,26 +11127,6 @@
    "lesson": "s15-l02"
   },
   {
-   "id": "f43d333a83",
-   "en": "cloning websites",
-   "tr": "meşru siteyi birebir kopyalayıp sahtesini yayına alma",
-   "type": "terim",
-   "sections": [
-    15
-   ],
-   "lesson": "s15-l02"
-  },
-  {
-   "id": "8f188a07c6",
-   "en": "header analysis",
-   "tr": "e-posta başlığının incelenmesi",
-   "type": "terim",
-   "sections": [
-    15
-   ],
-   "lesson": "s15-l02"
-  },
-  {
    "id": "121487b3d2",
    "en": "spoofing",
    "tr": "sahteciliği yapma, kılığına girme • güvenilen bir kimliğe bürünme",
@@ -11476,26 +11134,6 @@
    "sections": [
     15,
     24
-   ],
-   "lesson": "s15-l02"
-  },
-  {
-   "id": "415dacf48c",
-   "en": "detectable through",
-   "tr": "…yoluyla tespit edilebilir",
-   "type": "kalip",
-   "sections": [
-    15
-   ],
-   "lesson": "s15-l02"
-  },
-  {
-   "id": "985f824ae9",
-   "en": "false identity established through direct interaction",
-   "tr": "sınav dili: pretexting'in özü — doğrudan temasla kurulan sahte kimlik",
-   "type": "terim",
-   "sections": [
-    15
    ],
    "lesson": "s15-l02"
   },
@@ -11510,60 +11148,10 @@
    "lesson": "s15-l02"
   },
   {
-   "id": "c33e69356e",
-   "en": "treats them as distinct",
-   "tr": "sınav dili: sınav bunları ayrı kavram sayar",
-   "type": "terim",
-   "sections": [
-    15
-   ],
-   "lesson": "s15-l02"
-  },
-  {
-   "id": "96f06ff9fa",
-   "en": "to take an action",
-   "tr": "bir eylemde bulunmaya",
-   "type": "kalip",
-   "sections": [
-    15
-   ],
-   "lesson": "s15-l02"
-  },
-  {
    "id": "927ef18b69",
    "en": "prevention control",
    "tr": "olayı önlemeye yönelik kontrol",
    "type": "terim",
-   "sections": [
-    15
-   ],
-   "lesson": "s15-l02"
-  },
-  {
-   "id": "94f560bc5b",
-   "en": "what distinguishes each one",
-   "tr": "sınav dili: her birini diğerinden ayıran nitelik",
-   "type": "terim",
-   "sections": [
-    15
-   ],
-   "lesson": "s15-l02"
-  },
-  {
-   "id": "65c68fbbc0",
-   "en": "name the type",
-   "tr": "türünü söyle",
-   "type": "kalip",
-   "sections": [
-    15
-   ],
-   "lesson": "s15-l02"
-  },
-  {
-   "id": "f290fd9a14",
-   "en": "appropriate",
-   "tr": "duruma uygun",
-   "type": "kalip",
    "sections": [
     15
    ],
@@ -11610,29 +11198,9 @@
    "lesson": "s15-l03"
   },
   {
-   "id": "7689a13e6f",
-   "en": "added words around",
-   "tr": "etrafına eklenmiş kelimeler",
-   "type": "kalip",
-   "sections": [
-    15
-   ],
-   "lesson": "s15-l03"
-  },
-  {
    "id": "590fcdca46",
    "en": "IDN homograph attack",
    "tr": "farklı alfabelerden, göze aynı görünen karakterlerle sahte alan adı kurma",
-   "type": "terim",
-   "sections": [
-    15
-   ],
-   "lesson": "s15-l03"
-  },
-  {
-   "id": "e989934fed",
-   "en": "resolve to different domains",
-   "tr": "aynı görünseler de DNS'te bambaşka bir adrese çözümlenirler",
    "type": "terim",
    "sections": [
     15
@@ -11650,40 +11218,10 @@
    "lesson": "s15-l03"
   },
   {
-   "id": "d256fe72ae",
-   "en": "does not make it legitimate",
-   "tr": "sınav dili: bu onu meşru kılmaz",
-   "type": "terim",
-   "sections": [
-    15
-   ],
-   "lesson": "s15-l03"
-  },
-  {
    "id": "3210bdf634",
    "en": "the registrant's control of the full domain",
    "tr": "alan adının tamamının kimin adına kayıtlı olduğu; asıl ölçüt budur",
    "type": "terim",
-   "sections": [
-    15
-   ],
-   "lesson": "s15-l03"
-  },
-  {
-   "id": "e80dd16cb4",
-   "en": "appearing anywhere in",
-   "tr": "içinde herhangi bir yerde geçmesi",
-   "type": "kalip",
-   "sections": [
-    15
-   ],
-   "lesson": "s15-l03"
-  },
-  {
-   "id": "a57d775395",
-   "en": "only ... matters",
-   "tr": "yalnızca … önemlidir",
-   "type": "kalip",
    "sections": [
     15
    ],
@@ -11700,49 +11238,9 @@
    "lesson": "s15-l03"
   },
   {
-   "id": "d7676f8c3a",
-   "en": "the apparent sender",
-   "tr": "görünürdeki gönderen",
-   "type": "terim",
-   "sections": [
-    15
-   ],
-   "lesson": "s15-l03"
-  },
-  {
-   "id": "0a9b45315c",
-   "en": "are designed to address this",
-   "tr": "sınav dili: tam olarak bu sorunu çözmek için tasarlanmışlardır",
-   "type": "terim",
-   "sections": [
-    15
-   ],
-   "lesson": "s15-l03"
-  },
-  {
    "id": "7120e01875",
    "en": "forging",
    "tr": "sahtesini üretme",
-   "type": "kalip",
-   "sections": [
-    15
-   ],
-   "lesson": "s15-l03"
-  },
-  {
-   "id": "576e757494",
-   "en": "without necessarily",
-   "tr": "illa …gerekmeksizin",
-   "type": "kalip",
-   "sections": [
-    15
-   ],
-   "lesson": "s15-l03"
-  },
-  {
-   "id": "24e48beed0",
-   "en": "do not catch",
-   "tr": "yakalayamazlar",
    "type": "kalip",
    "sections": [
     15
@@ -11782,81 +11280,9 @@
    "lesson": "s15-l03"
   },
   {
-   "id": "5fce216730",
-   "en": "registration age",
-   "tr": "kayıt yaşı, ne zamandır var olduğu • alan adının ne zamandır kayıtlı olduğu",
-   "type": "terim",
-   "sections": [
-    15,
-    19
-   ],
-   "lesson": "s15-l03"
-  },
-  {
-   "id": "e299ae5f2e",
-   "en": "high-risk",
-   "tr": "yüksek riskli",
-   "type": "kalip",
-   "sections": [
-    15
-   ],
-   "lesson": "s15-l03"
-  },
-  {
-   "id": "a35a1f939d",
-   "en": "major red flags",
-   "tr": "ciddi tehlike işaretleri",
-   "type": "kalip",
-   "sections": [
-    15
-   ],
-   "lesson": "s15-l03"
-  },
-  {
-   "id": "70de202544",
-   "en": "properly configured lookalike domain",
-   "tr": "saldırganın kendi adına kaydedip düzgün ayarladığı benzer alan adı",
-   "type": "terim",
-   "sections": [
-    15
-   ],
-   "lesson": "s15-l03"
-  },
-  {
    "id": "545199e740",
    "en": "authentication catches spoofed domains, not convincing lookalikes",
    "tr": "sınav dili: doğrulama sahte adresi yakalar, inandırıcı benzeri yakalamaz",
-   "type": "terim",
-   "sections": [
-    15
-   ],
-   "lesson": "s15-l03"
-  },
-  {
-   "id": "9dc743fa0e",
-   "en": "passing does not mean",
-   "tr": "geçmiş olması … anlamına gelmez",
-   "type": "kalip",
-   "sections": [
-    15
-   ],
-   "lesson": "s15-l03"
-  },
-  {
-   "id": "645909435a",
-   "en": "all three checks",
-   "tr": "üç kontrolün üçünü de • üç kontrolün üçü de",
-   "type": "kalip",
-   "sections": [
-    15,
-    19
-   ],
-   "lesson": "s15-l03"
-  },
-  {
-   "id": "f015fd8add",
-   "en": "the analyst workflow is",
-   "tr": "sınav dili: analistin izleyeceği sıra şudur",
    "type": "terim",
    "sections": [
     15
@@ -11874,230 +11300,10 @@
    "lesson": "s15-l03"
   },
   {
-   "id": "d321794d1b",
-   "en": "for age",
-   "tr": "yaşını öğrenmek için",
-   "type": "kalip",
-   "sections": [
-    15
-   ],
-   "lesson": "s15-l03"
-  },
-  {
-   "id": "d11130ec94",
-   "en": "certificate history",
-   "tr": "sertifika geçmişi",
-   "type": "kalip",
-   "sections": [
-    15
-   ],
-   "lesson": "s15-l03"
-  },
-  {
-   "id": "f146ddc07b",
-   "en": "URL shorteners",
-   "tr": "uzun bağlantıyı kısa bir adrese çeviren servisler; gerçek hedefi gizler",
-   "type": "terim",
-   "sections": [
-    15
-   ],
-   "lesson": "s15-l04"
-  },
-  {
-   "id": "99843cf493",
-   "en": "passes gateway scanning",
-   "tr": "e-posta güvenlik taramasından sorunsuz geçer",
-   "type": "terim",
-   "sections": [
-    15
-   ],
-   "lesson": "s15-l04"
-  },
-  {
-   "id": "1272f1bfab",
-   "en": "legitimate reputation",
-   "tr": "servisin itibar listelerinde temiz görünmesi",
-   "type": "terim",
-   "sections": [
-    15
-   ],
-   "lesson": "s15-l04"
-  },
-  {
-   "id": "3286841dc5",
-   "en": "hide the actual destination",
-   "tr": "gerçek varış adresini gizler",
-   "type": "kalip",
-   "sections": [
-    15
-   ],
-   "lesson": "s15-l04"
-  },
-  {
-   "id": "f14007cbc7",
-   "en": "redirect chains",
-   "tr": "bağlantının hedefe varmadan önce birkaç adresten geçirilmesi",
-   "type": "terim",
-   "sections": [
-    15
-   ],
-   "lesson": "s15-l04"
-  },
-  {
-   "id": "ad0c304200",
-   "en": "multi-hop redirection",
-   "tr": "çok adımlı yönlendirme",
-   "type": "terim",
-   "sections": [
-    15
-   ],
-   "lesson": "s15-l04"
-  },
-  {
-   "id": "fed111458e",
-   "en": "laundering the reputation",
-   "tr": "sınav dili: her durakta güvenilir alan adına uğrayıp kötü itibarı aklama",
-   "type": "terim",
-   "sections": [
-    15
-   ],
-   "lesson": "s15-l04"
-  },
-  {
-   "id": "29f8aa9a15",
-   "en": "route through",
-   "tr": "…üzerinden geçirir",
-   "type": "kalip",
-   "sections": [
-    15
-   ],
-   "lesson": "s15-l04"
-  },
-  {
-   "id": "b42fbab0a6",
-   "en": "before reaching",
-   "tr": "…e varmadan önce",
-   "type": "kalip",
-   "sections": [
-    15
-   ],
-   "lesson": "s15-l04"
-  },
-  {
-   "id": "2f255e099c",
-   "en": "at each hop",
-   "tr": "her durakta",
-   "type": "kalip",
-   "sections": [
-    15
-   ],
-   "lesson": "s15-l04"
-  },
-  {
-   "id": "00c200052e",
-   "en": "open redirect",
-   "tr": "meşru sitedeki, ziyaretçiyi istenen herhangi bir dış adrese yollayabilen zafiyet",
-   "type": "terim",
-   "sections": [
-    15
-   ],
-   "lesson": "s15-l04"
-  },
-  {
    "id": "1211d90e2c",
    "en": "crafts a URL",
    "tr": "özel olarak hazırlanmış bir adres üretir",
    "type": "terim",
-   "sections": [
-    15
-   ],
-   "lesson": "s15-l04"
-  },
-  {
-   "id": "cc3aef10dd",
-   "en": "the gateway sees the trusted domain and approves",
-   "tr": "sınav dili: geçit güvenilir alan adını gördüğü için bağlantıya izin verir",
-   "type": "terim",
-   "sections": [
-    15
-   ],
-   "lesson": "s15-l04"
-  },
-  {
-   "id": "37fd848847",
-   "en": "exploit a vulnerability on",
-   "tr": "…üzerindeki zafiyeti istismar eder",
-   "type": "kalip",
-   "sections": [
-    15
-   ],
-   "lesson": "s15-l04"
-  },
-  {
-   "id": "de23889b85",
-   "en": "any external destination",
-   "tr": "herhangi bir dış adres",
-   "type": "kalip",
-   "sections": [
-    15
-   ],
-   "lesson": "s15-l04"
-  },
-  {
-   "id": "5d315465db",
-   "en": "safe analysis workflow",
-   "tr": "güvenli inceleme sırası",
-   "type": "terim",
-   "sections": [
-    15
-   ],
-   "lesson": "s15-l04"
-  },
-  {
-   "id": "e4f7460bfe",
-   "en": "sandboxed browser",
-   "tr": "izole, dış dünyadan yalıtılmış tarayıcı ortamı",
-   "type": "terim",
-   "sections": [
-    15
-   ],
-   "lesson": "s15-l04"
-  },
-  {
-   "id": "f2afe95bc4",
-   "en": "network log of the final destination",
-   "tr": "son varış adresinin ağ trafiği kaydı",
-   "type": "terim",
-   "sections": [
-    15
-   ],
-   "lesson": "s15-l04"
-  },
-  {
-   "id": "6a3f5a084d",
-   "en": "never click ... directly",
-   "tr": "asla doğrudan tıklama",
-   "type": "kalip",
-   "sections": [
-    15
-   ],
-   "lesson": "s15-l04"
-  },
-  {
-   "id": "867b826384",
-   "en": "follow the full chain",
-   "tr": "zincirin tamamını takip et",
-   "type": "kalip",
-   "sections": [
-    15
-   ],
-   "lesson": "s15-l04"
-  },
-  {
-   "id": "fbb6506c41",
-   "en": "against 70+ vendors",
-   "tr": "70'ten fazla üreticinin verisine karşı",
-   "type": "kalip",
    "sections": [
     15
    ],
@@ -12114,106 +11320,6 @@
    "lesson": "s15-l04"
   },
   {
-   "id": "952decdc47",
-   "en": "at click time",
-   "tr": "sınav dili: tarama anında değil, tıklandığı anda",
-   "type": "terim",
-   "sections": [
-    15
-   ],
-   "lesson": "s15-l04"
-  },
-  {
-   "id": "0df83b605c",
-   "en": "invisible to scan-time analysis",
-   "tr": "e-posta ilk tarandığında henüz görünmeyen tehditler",
-   "type": "terim",
-   "sections": [
-    15
-   ],
-   "lesson": "s15-l04"
-  },
-  {
-   "id": "ce5245f3d9",
-   "en": "rewrites",
-   "tr": "yeniden yazar",
-   "type": "kalip",
-   "sections": [
-    15
-   ],
-   "lesson": "s15-l04"
-  },
-  {
-   "id": "7b8f78d177",
-   "en": "re-evaluates",
-   "tr": "yeniden değerlendirir",
-   "type": "kalip",
-   "sections": [
-    15
-   ],
-   "lesson": "s15-l04"
-  },
-  {
-   "id": "3d41607a60",
-   "en": "including shortened ones",
-   "tr": "kısaltılmış olanlar dâhil",
-   "type": "kalip",
-   "sections": [
-    15
-   ],
-   "lesson": "s15-l04"
-  },
-  {
-   "id": "eea0e28ad7",
-   "en": "sandboxed analysis tool",
-   "tr": "yalıtılmış ortamda inceleme yapan araç",
-   "type": "terim",
-   "sections": [
-    15
-   ],
-   "lesson": "s15-l04"
-  },
-  {
-   "id": "81f4649fa3",
-   "en": "not clicking the link",
-   "tr": "sınav dili: doğru cevap bağlantıya tıklamak değildir",
-   "type": "terim",
-   "sections": [
-    15
-   ],
-   "lesson": "s15-l04"
-  },
-  {
-   "id": "de95099b65",
-   "en": "safely analyze",
-   "tr": "güvenli biçimde incelemek",
-   "type": "kalip",
-   "sections": [
-    15
-   ],
-   "lesson": "s15-l04"
-  },
-  {
-   "id": "70398243ba",
-   "en": "the correct answer is",
-   "tr": "doğru cevap …dır",
-   "type": "kalip",
-   "sections": [
-    15
-   ],
-   "lesson": "s15-l04"
-  },
-  {
-   "id": "9d5faf8228",
-   "en": "achieve similar goals but exploit different mechanisms",
-   "tr": "sınav dili: amaçları benzer, kullandıkları mekanizma farklıdır",
-   "type": "terim",
-   "sections": [
-    15
-   ],
-   "lesson": "s15-l04"
-  },
-  {
    "id": "c2f0430ec4",
    "en": "BEC (Business Email Compromise)",
    "tr": "kurumsal e-posta üzerinden, ikna yoluyla para ya da veri koparma saldırısı • kurumsal e-posta üzerinden ikna yoluyla para/veri koparma saldırısı",
@@ -12221,46 +11327,6 @@
    "sections": [
     15,
     19
-   ],
-   "lesson": "s15-l05"
-  },
-  {
-   "id": "a45606479a",
-   "en": "no malware",
-   "tr": "sınav dili: zararlı yazılım yok; dolayısıyla uç nokta tespiti işe yaramaz",
-   "type": "terim",
-   "sections": [
-    15
-   ],
-   "lesson": "s15-l05"
-  },
-  {
-   "id": "d57eda3b0e",
-   "en": "changing banking details",
-   "tr": "ödeme yapılacak banka bilgisinin değiştirilmesi",
-   "type": "terim",
-   "sections": [
-    15
-   ],
-   "lesson": "s15-l05"
-  },
-  {
-   "id": "5eafe94819",
-   "en": "manipulates victims into",
-   "tr": "kurbanları …e ikna eder, yönlendirir",
-   "type": "kalip",
-   "sections": [
-    15
-   ],
-   "lesson": "s15-l05"
-  },
-  {
-   "id": "9bcb854645",
-   "en": "sharing sensitive data",
-   "tr": "hassas veriyi paylaşmaya",
-   "type": "kalip",
-   "sections": [
-    15
    ],
    "lesson": "s15-l05"
   },
@@ -12315,120 +11381,10 @@
    "lesson": "s15-l05"
   },
   {
-   "id": "5bba965068",
-   "en": "redirect payment to",
-   "tr": "ödemeyi …e yönlendirmek",
-   "type": "kalip",
-   "sections": [
-    15
-   ],
-   "lesson": "s15-l05"
-  },
-  {
-   "id": "63bdd78069",
-   "en": "bypassing all authentication checks",
-   "tr": "tüm kimlik doğrulama kontrollerini atlayarak",
-   "type": "kalip",
-   "sections": [
-    15
-   ],
-   "lesson": "s15-l05"
-  },
-  {
-   "id": "01834fa993",
-   "en": "display name spoofing",
-   "tr": "görünen adı sahte yazma; gerçek adres dışarıdadır ama kullanıcı adı görür",
-   "type": "terim",
-   "sections": [
-    15
-   ],
-   "lesson": "s15-l05"
-  },
-  {
-   "id": "1222d8d357",
-   "en": "inbox rule creation",
-   "tr": "posta kutusuna kural eklenmesi; saldırgan izini böyle gizler",
-   "type": "terim",
-   "sections": [
-    15
-   ],
-   "lesson": "s15-l05"
-  },
-  {
    "id": "3c0aa27a0b",
    "en": "auto-forward to obscure folders",
    "tr": "gelen postaların göze batmayan bir klasöre otomatik yönlendirilmesi",
    "type": "terim",
-   "sections": [
-    15
-   ],
-   "lesson": "s15-l05"
-  },
-  {
-   "id": "849ffd922e",
-   "en": "technical indicators",
-   "tr": "teknik göstergeler",
-   "type": "kalip",
-   "sections": [
-    15
-   ],
-   "lesson": "s15-l05"
-  },
-  {
-   "id": "511a14edf2",
-   "en": "actual sending address",
-   "tr": "gerçek gönderen adresi",
-   "type": "kalip",
-   "sections": [
-    15
-   ],
-   "lesson": "s15-l05"
-  },
-  {
-   "id": "b8bf887f1f",
-   "en": "auto-delete sent items",
-   "tr": "gönderilmiş öğelerin otomatik silinmesi",
-   "type": "kalip",
-   "sections": [
-    15
-   ],
-   "lesson": "s15-l05"
-  },
-  {
-   "id": "d1744cfe4c",
-   "en": "anomalous authentication events",
-   "tr": "olağandışı oturum açma olayları",
-   "type": "terim",
-   "sections": [
-    15
-   ],
-   "lesson": "s15-l05"
-  },
-  {
-   "id": "d004868646",
-   "en": "audit logs",
-   "tr": "kimin ne yaptığını tutan denetim kayıtları",
-   "type": "terim",
-   "sections": [
-    15
-   ],
-   "lesson": "s15-l05"
-  },
-  {
-   "id": "9e02ab4811",
-   "en": "new locations or devices",
-   "tr": "yeni konum veya cihazlar",
-   "type": "kalip",
-   "sections": [
-    15
-   ],
-   "lesson": "s15-l05"
-  },
-  {
-   "id": "39fcb04622",
-   "en": "unusual send times",
-   "tr": "olağandışı gönderim saatleri",
-   "type": "kalip",
    "sections": [
     15
    ],
@@ -12475,37 +11431,6 @@
    "lesson": "s15-l05"
   },
   {
-   "id": "6a863356de",
-   "en": "account lockout",
-   "tr": "hesabın kilitlenmesi • hesap kilitleme",
-   "type": "kalip",
-   "sections": [
-    15,
-    34
-   ],
-   "lesson": "s15-l05"
-  },
-  {
-   "id": "0db73d0158",
-   "en": "credential reset",
-   "tr": "kimlik bilgilerinin sıfırlanması",
-   "type": "kalip",
-   "sections": [
-    15
-   ],
-   "lesson": "s15-l05"
-  },
-  {
-   "id": "06ca919670",
-   "en": "endpoint detection does not help",
-   "tr": "sınav dili: zararlı yazılım olmadığı için uç nokta tespiti fayda etmez",
-   "type": "terim",
-   "sections": [
-    15
-   ],
-   "lesson": "s15-l05"
-  },
-  {
    "id": "d2b5e1b399",
    "en": "impersonation protection",
    "tr": "e-posta geçidinin taklit girişimlerini yakalayan koruma katmanı",
@@ -12514,88 +11439,6 @@
     15
    ],
    "lesson": "s15-l05"
-  },
-  {
-   "id": "295ab1ef69",
-   "en": "the detection layer",
-   "tr": "tespitin fiilen gerçekleştiği katman",
-   "type": "terim",
-   "sections": [
-    15
-   ],
-   "lesson": "s15-l05"
-  },
-  {
-   "id": "890d4a1393",
-   "en": "most ... have no",
-   "tr": "çoğunda … bulunmaz",
-   "type": "kalip",
-   "sections": [
-    15
-   ],
-   "lesson": "s15-l05"
-  },
-  {
-   "id": "0f3528060d",
-   "en": "variants",
-   "tr": "varyantlar, alt türler",
-   "type": "kalip",
-   "sections": [
-    15
-   ],
-   "lesson": "s15-l05"
-  },
-  {
-   "id": "d4ef3e3019",
-   "en": "fundamentally different",
-   "tr": "temelden farklı",
-   "type": "terim",
-   "sections": [
-    15
-   ],
-   "lesson": "s15-l05"
-  },
-  {
-   "id": "eb521f4908",
-   "en": "the distinction between",
-   "tr": "…arasındaki ayrım",
-   "type": "kalip",
-   "sections": [
-    15,
-    23,
-    27
-   ],
-   "lesson": "s15-l05"
-  },
-  {
-   "id": "7bb6ed2252",
-   "en": "response steps",
-   "tr": "müdahale adımları",
-   "type": "kalip",
-   "sections": [
-    15
-   ],
-   "lesson": "s15-l05"
-  },
-  {
-   "id": "bf3005512f",
-   "en": "free provider",
-   "tr": "kurumsal olmayan, ücretsiz e-posta sağlayıcısı",
-   "type": "terim",
-   "sections": [
-    15
-   ],
-   "lesson": "s15-l06"
-  },
-  {
-   "id": "0611f0cf67",
-   "en": "urgent or threatening language",
-   "tr": "düşünmeye fırsat bırakmayan aciliyet ya da tehdit dili",
-   "type": "terim",
-   "sections": [
-    15
-   ],
-   "lesson": "s15-l06"
   },
   {
    "id": "ae5bf7c217",
@@ -12618,141 +11461,10 @@
    "lesson": "s15-l06"
   },
   {
-   "id": "09453bf4e6",
-   "en": "newly registered",
-   "tr": "yeni kaydedilmiş",
-   "type": "kalip",
-   "sections": [
-    15,
-    19
-   ],
-   "lesson": "s15-l06"
-  },
-  {
-   "id": "6347debf75",
-   "en": "grammar and spelling errors",
-   "tr": "dilbilgisi ve imla hataları",
-   "type": "kalip",
-   "sections": [
-    15
-   ],
-   "lesson": "s15-l06"
-  },
-  {
-   "id": "472e84a696",
-   "en": "requests for",
-   "tr": "…talepleri",
-   "type": "kalip",
-   "sections": [
-    15
-   ],
-   "lesson": "s15-l06"
-  },
-  {
-   "id": "1e11e376df",
-   "en": "unexpectedly accurate context",
-   "tr": "sınav dili: saldırganın bilmemesi gereken kadar doğru ayrıntılar",
-   "type": "terim",
-   "sections": [
-    15
-   ],
-   "lesson": "s15-l06"
-  },
-  {
-   "id": "134f6dbe04",
-   "en": "deviate from normal process",
-   "tr": "olağan iş akışının dışına çıkan talepler",
-   "type": "terim",
-   "sections": [
-    15
-   ],
-   "lesson": "s15-l06"
-  },
-  {
-   "id": "4c937011b5",
-   "en": "weaponized attachments",
-   "tr": "içine zararlı yerleştirilmiş ek dosyalar",
-   "type": "terim",
-   "sections": [
-    15
-   ],
-   "lesson": "s15-l06"
-  },
-  {
-   "id": "3f6e9a2eb9",
-   "en": "context-appropriate",
-   "tr": "bağlama uygun; hedefin zaten beklediği türden",
-   "type": "terim",
-   "sections": [
-    15
-   ],
-   "lesson": "s15-l06"
-  },
-  {
-   "id": "abdb6745ba",
-   "en": "bypass approvals",
-   "tr": "onay adımlarını atlamak",
-   "type": "kalip",
-   "sections": [
-    15
-   ],
-   "lesson": "s15-l06"
-  },
-  {
-   "id": "655303262e",
-   "en": "alternate payment methods",
-   "tr": "alışılmışın dışında ödeme yolları",
-   "type": "kalip",
-   "sections": [
-    15
-   ],
-   "lesson": "s15-l06"
-  },
-  {
-   "id": "50c1ccd55b",
-   "en": "expects to receive",
-   "tr": "gelmesini beklediği",
-   "type": "kalip",
-   "sections": [
-    15
-   ],
-   "lesson": "s15-l06"
-  },
-  {
    "id": "b5a6106c15",
    "en": "whaling",
    "tr": "doğrudan üst düzey yöneticileri hedef alan spear-phishing",
    "type": "terim",
-   "sections": [
-    15
-   ],
-   "lesson": "s15-l06"
-  },
-  {
-   "id": "4635f0c979",
-   "en": "targeting level distinguishes all three",
-   "tr": "sınav dili: üçünü ayıran tek ölçüt hedefleme düzeyidir",
-   "type": "terim",
-   "sections": [
-    15
-   ],
-   "lesson": "s15-l06"
-  },
-  {
-   "id": "be0c608c82",
-   "en": "senior executives",
-   "tr": "üst düzey yöneticiler",
-   "type": "kalip",
-   "sections": [
-    15
-   ],
-   "lesson": "s15-l06"
-  },
-  {
-   "id": "b00a6d3ea9",
-   "en": "specifically targeting",
-   "tr": "özellikle …hedef alan",
-   "type": "kalip",
    "sections": [
     15
    ],
@@ -12789,50 +11501,6 @@
    "lesson": "s15-l06"
   },
   {
-   "id": "1571d0889b",
-   "en": "sub-techniques",
-   "tr": "alt teknikler • tekniğin daha dar tanımlı, somut uygulanış biçimleri",
-   "type": "terim",
-   "sections": [
-    15,
-    23,
-    36,
-    43
-   ],
-   "lesson": "s15-l06"
-  },
-  {
-   "id": "8f963c6683",
-   "en": "via services",
-   "tr": "servisler üzerinden",
-   "type": "kalip",
-   "sections": [
-    15
-   ],
-   "lesson": "s15-l06"
-  },
-  {
-   "id": "dc3fc3fb23",
-   "en": "triage workflow",
-   "tr": "gelen şüpheli e-postanın hızla elenip sıralanma sırası • şüpheliyi hızla eleyip sıralayan inceleme sırası",
-   "type": "terim",
-   "sections": [
-    15,
-    19
-   ],
-   "lesson": "s15-l06"
-  },
-  {
-   "id": "4aa3329070",
-   "en": "sender verification",
-   "tr": "gönderenin itibarının ve gerçekliğinin doğrulanması",
-   "type": "terim",
-   "sections": [
-    15
-   ],
-   "lesson": "s15-l06"
-  },
-  {
    "id": "afae1a0cc3",
    "en": "sandbox submission",
    "tr": "bilinmeyen dosyanın yalıtılmış ortamda çalıştırılıp izlenmesi",
@@ -12853,152 +11521,10 @@
    "lesson": "s15-l06"
   },
   {
-   "id": "c2795bf67e",
-   "en": "attachment hash check",
-   "tr": "ek dosyanın özet değeri kontrolü",
-   "type": "kalip",
-   "sections": [
-    15
-   ],
-   "lesson": "s15-l06"
-  },
-  {
-   "id": "1eaa29694a",
-   "en": "if unknown",
-   "tr": "tanınmıyorsa",
-   "type": "kalip",
-   "sections": [
-    15
-   ],
-   "lesson": "s15-l06"
-  },
-  {
-   "id": "aa7e34ce07",
-   "en": "threat explorer",
-   "tr": "tehdit tarayıcı arayüzü",
-   "type": "kalip",
-   "sections": [
-    15
-   ],
-   "lesson": "s15-l06"
-  },
-  {
-   "id": "bd36489a74",
-   "en": "has eroded ... reliability",
-   "tr": "sınav dili: bu göstergenin güvenilirliğini aşındırdı",
-   "type": "terim",
-   "sections": [
-    15
-   ],
-   "lesson": "s15-l06"
-  },
-  {
-   "id": "65da17a34f",
-   "en": "authentication mismatches",
-   "tr": "doğrulama sonuçlarının birbirini tutmaması",
-   "type": "terim",
-   "sections": [
-    15
-   ],
-   "lesson": "s15-l06"
-  },
-  {
-   "id": "b0cb644105",
-   "en": "content quality signals",
-   "tr": "metnin dil kalitesine bakan sinyaller; artık zayıf gösterge",
-   "type": "terim",
-   "sections": [
-    15
-   ],
-   "lesson": "s15-l06"
-  },
-  {
-   "id": "1f4942651e",
-   "en": "domain age",
-   "tr": "alan adının yaşı",
-   "type": "kalip",
-   "sections": [
-    15,
-    19
-   ],
-   "lesson": "s15-l06"
-  },
-  {
-   "id": "8988ecba10",
-   "en": "link destinations",
-   "tr": "bağlantıların gittiği adresler",
-   "type": "kalip",
-   "sections": [
-    15
-   ],
-   "lesson": "s15-l06"
-  },
-  {
-   "id": "aa563530ff",
-   "en": "now more important than",
-   "tr": "artık …den daha önemli",
-   "type": "kalip",
-   "sections": [
-    15
-   ],
-   "lesson": "s15-l06"
-  },
-  {
    "id": "246f13dad9",
    "en": "whether the authenticated domain is actually the correct domain",
    "tr": "sınav dili: asıl soru doğrulamanın geçip geçmediği değil, doğrulanan alan adının doğru alan adı olup olmadığıdır",
    "type": "terim",
-   "sections": [
-    15
-   ],
-   "lesson": "s15-l06"
-  },
-  {
-   "id": "68e25b81b2",
-   "en": "does not mean safe",
-   "tr": "güvenli olduğu anlamına gelmez",
-   "type": "kalip",
-   "sections": [
-    15
-   ],
-   "lesson": "s15-l06"
-  },
-  {
-   "id": "fddc3c1b48",
-   "en": "not just whether",
-   "tr": "yalnızca …olup olmadığı değil",
-   "type": "kalip",
-   "sections": [
-    15,
-    28
-   ],
-   "lesson": "s15-l06"
-  },
-  {
-   "id": "d431c05ec3",
-   "en": "a common exam test point",
-   "tr": "sınav dili: sık sorulan ölçme noktası",
-   "type": "terim",
-   "sections": [
-    15
-   ],
-   "lesson": "s15-l06"
-  },
-  {
-   "id": "d4c2c80bcf",
-   "en": "the level of targeting that defines each",
-   "tr": "her birini tanımlayan hedefleme düzeyi",
-   "type": "terim",
-   "sections": [
-    15
-   ],
-   "lesson": "s15-l06"
-  },
-  {
-   "id": "deedc0b39a",
-   "en": "know the definitions",
-   "tr": "tanımları bil",
-   "type": "kalip",
    "sections": [
     15
    ],
@@ -13055,39 +11581,9 @@
    "lesson": "s15-l07"
   },
   {
-   "id": "7291e08412",
-   "en": "hidden from user view",
-   "tr": "kullanıcının görüşüne kapalı",
-   "type": "kalip",
-   "sections": [
-    15
-   ],
-   "lesson": "s15-l07"
-  },
-  {
-   "id": "9f61001c57",
-   "en": "read bottom-to-top",
-   "tr": "aşağıdan yukarıya doğru okunur",
-   "type": "kalip",
-   "sections": [
-    15
-   ],
-   "lesson": "s15-l07"
-  },
-  {
    "id": "1ec0c3ee4e",
    "en": "SPF (Sender Policy Framework)",
    "tr": "bir alan adı adına hangi IP'lerin posta gönderebileceğini DNS'te ilan eden kayıt",
-   "type": "terim",
-   "sections": [
-    15
-   ],
-   "lesson": "s15-l07"
-  },
-  {
-   "id": "1bee6cbedc",
-   "en": "DNS TXT record",
-   "tr": "alan adına iliştirilen serbest metin DNS kaydı",
    "type": "terim",
    "sections": [
     15
@@ -13105,71 +11601,10 @@
    "lesson": "s15-l07"
   },
   {
-   "id": "78eb622580",
-   "en": "authorized sending IPs",
-   "tr": "gönderim yetkisi olan IP'ler",
-   "type": "kalip",
-   "sections": [
-    15
-   ],
-   "lesson": "s15-l07"
-  },
-  {
-   "id": "96916db8d8",
-   "en": "is not authorized",
-   "tr": "yetkili değildir",
-   "type": "kalip",
-   "sections": [
-    15
-   ],
-   "lesson": "s15-l07"
-  },
-  {
-   "id": "683c896911",
-   "en": "even though",
-   "tr": "…olmasına rağmen",
-   "type": "kalip",
-   "sections": [
-    15,
-    22
-   ],
-   "lesson": "s15-l07"
-  },
-  {
    "id": "21d11c079a",
    "en": "DKIM (DomainKeys Identified Mail)",
    "tr": "giden postaya eklenen kriptografik imza",
    "type": "terim",
-   "sections": [
-    15
-   ],
-   "lesson": "s15-l07"
-  },
-  {
-   "id": "eaff340bbe",
-   "en": "holding the private key",
-   "tr": "özel anahtarı elinde bulunduran; yani gerçekten o alan adının sunucusu",
-   "type": "terim",
-   "sections": [
-    15
-   ],
-   "lesson": "s15-l07"
-  },
-  {
-   "id": "e923c23621",
-   "en": "not modified in transit",
-   "tr": "yolda değiştirilmemiş olması",
-   "type": "terim",
-   "sections": [
-    15
-   ],
-   "lesson": "s15-l07"
-  },
-  {
-   "id": "f2987c9247",
-   "en": "cryptographic signature",
-   "tr": "kriptografik imza",
-   "type": "kalip",
    "sections": [
     15
    ],
@@ -13216,36 +11651,6 @@
    "lesson": "s15-l07"
   },
   {
-   "id": "9030a6990f",
-   "en": "catches display-name spoofing at the protocol level",
-   "tr": "sınav dili: görünen ad sahteciliğini protokol düzeyinde yakalayan mekanizma budur",
-   "type": "terim",
-   "sections": [
-    15
-   ],
-   "lesson": "s15-l07"
-  },
-  {
-   "id": "2f5bc896fb",
-   "en": "sits on top of",
-   "tr": "…in üzerine oturur",
-   "type": "kalip",
-   "sections": [
-    15
-   ],
-   "lesson": "s15-l07"
-  },
-  {
-   "id": "f743fb9160",
-   "en": "verifies ... aligns with",
-   "tr": "…ile örtüştüğünü doğrular",
-   "type": "kalip",
-   "sections": [
-    15
-   ],
-   "lesson": "s15-l07"
-  },
-  {
    "id": "bd5f5ba3db",
    "en": "on failure",
    "tr": "başarısızlık hâlinde",
@@ -13256,90 +11661,10 @@
    "lesson": "s15-l07"
   },
   {
-   "id": "15fe6d7d89",
-   "en": "parses raw headers",
-   "tr": "ham başlık metnini ayrıştırıp okunur hâle getirir",
-   "type": "terim",
-   "sections": [
-    15
-   ],
-   "lesson": "s15-l07"
-  },
-  {
    "id": "433d2fe930",
    "en": "received hop chain",
    "tr": "mesajın sunucudan sunucuya atlama zinciri",
    "type": "terim",
-   "sections": [
-    15
-   ],
-   "lesson": "s15-l07"
-  },
-  {
-   "id": "37c3830389",
-   "en": "hop timing anomalies",
-   "tr": "duraklar arası zaman farkındaki tuhaflıklar; sahteciliği ele verebilir",
-   "type": "terim",
-   "sections": [
-    15
-   ],
-   "lesson": "s15-l07"
-  },
-  {
-   "id": "827c11387c",
-   "en": "explicitly referenced in the exam objectives",
-   "tr": "sınav dili: sınav hedeflerinde adı doğrudan geçiyor",
-   "type": "terim",
-   "sections": [
-    15
-   ],
-   "lesson": "s15-l07"
-  },
-  {
-   "id": "b87bcb057e",
-   "en": "displays",
-   "tr": "gösterir",
-   "type": "kalip",
-   "sections": [
-    15
-   ],
-   "lesson": "s15-l07"
-  },
-  {
-   "id": "6a8ce9d157",
-   "en": "href attribute",
-   "tr": "bağlantının fiilen gittiği adresi tutan HTML özniteliği",
-   "type": "terim",
-   "sections": [
-    15
-   ],
-   "lesson": "s15-l07"
-  },
-  {
-   "id": "7c615d65e5",
-   "en": "display text",
-   "tr": "kullanıcıya gösterilen bağlantı metni; gerçek hedefle ilgisiz olabilir",
-   "type": "terim",
-   "sections": [
-    15
-   ],
-   "lesson": "s15-l07"
-  },
-  {
-   "id": "c0d8a3dee3",
-   "en": "always check",
-   "tr": "daima kontrol et",
-   "type": "kalip",
-   "sections": [
-    15
-   ],
-   "lesson": "s15-l07"
-  },
-  {
-   "id": "1b0fac19da",
-   "en": "while linking to another entirely",
-   "tr": "oysa bambaşka bir yere bağlanırken",
-   "type": "kalip",
    "sections": [
     15
    ],
@@ -13358,150 +11683,10 @@
    "lesson": "s15-l07"
   },
   {
-   "id": "de9e24a585",
-   "en": "unprotected system",
-   "tr": "koruması olmayan, izole edilmemiş makine",
-   "type": "terim",
-   "sections": [
-    15
-   ],
-   "lesson": "s15-l07"
-  },
-  {
-   "id": "8344786502",
-   "en": "before opening",
-   "tr": "açmadan önce",
-   "type": "kalip",
-   "sections": [
-    15
-   ],
-   "lesson": "s15-l07"
-  },
-  {
-   "id": "0ce0837ece",
-   "en": "submit to",
-   "tr": "…e gönder",
-   "type": "kalip",
-   "sections": [
-    15
-   ],
-   "lesson": "s15-l07"
-  },
-  {
-   "id": "9d5299a796",
-   "en": "never open",
-   "tr": "asla açma",
-   "type": "kalip",
-   "sections": [
-    15
-   ],
-   "lesson": "s15-l07"
-  },
-  {
-   "id": "88ba26bb5d",
-   "en": "Base64-encoded content",
-   "tr": "metnin okunamaz hâle getirildiği yaygın kodlama biçimi",
-   "type": "terim",
-   "sections": [
-    15
-   ],
-   "lesson": "s15-l07"
-  },
-  {
    "id": "8b18b8fe58",
    "en": "obfuscation indicator",
    "tr": "içeriğin bilerek gizlendiğine dair işaret",
    "type": "terim",
-   "sections": [
-    15
-   ],
-   "lesson": "s15-l07"
-  },
-  {
-   "id": "64d97a89cc",
-   "en": "the underlying content",
-   "tr": "altta yatan asıl içerik",
-   "type": "terim",
-   "sections": [
-    15
-   ],
-   "lesson": "s15-l07"
-  },
-  {
-   "id": "640065d497",
-   "en": "decode using",
-   "tr": "…kullanarak çöz",
-   "type": "kalip",
-   "sections": [
-    15
-   ],
-   "lesson": "s15-l07"
-  },
-  {
-   "id": "ab63f83c40",
-   "en": "the explicitly tested tool",
-   "tr": "sınav dili: sınavda adı geçen, doğrudan sorulan araç",
-   "type": "terim",
-   "sections": [
-    15
-   ],
-   "lesson": "s15-l07"
-  },
-  {
-   "id": "ca37727c52",
-   "en": "which tool analyzes",
-   "tr": "hangi aracın … incelediği",
-   "type": "kalip",
-   "sections": [
-    15
-   ],
-   "lesson": "s15-l07"
-  },
-  {
-   "id": "f414d93895",
-   "en": "is the answer",
-   "tr": "cevap odur",
-   "type": "kalip",
-   "sections": [
-    15
-   ],
-   "lesson": "s15-l07"
-  },
-  {
-   "id": "efc9ea1436",
-   "en": "raw header data",
-   "tr": "ham, ayrıştırılmamış başlık verisi",
-   "type": "terim",
-   "sections": [
-    15
-   ],
-   "lesson": "s15-l07"
-  },
-  {
-   "id": "e758d75fd5",
-   "en": "practice reading ... from bottom to top",
-   "tr": "sınav dili: alttan yukarı okumayı çalış",
-   "type": "terim",
-   "sections": [
-    15
-   ],
-   "lesson": "s15-l07"
-  },
-  {
-   "id": "e7992e4ab7",
-   "en": "spoofing indicators",
-   "tr": "sahtecilik göstergeleri",
-   "type": "kalip",
-   "sections": [
-    15
-   ],
-   "lesson": "s15-l07"
-  },
-  {
-   "id": "a0f249fc00",
-   "en": "authentication failures",
-   "tr": "doğrulama başarısızlıkları",
-   "type": "kalip",
    "sections": [
     15
    ],
