@@ -490,27 +490,6 @@
    "lesson": "s01-l01"
   },
   {
-   "id": "c3f4c5bcc6",
-   "en": "appear first",
-   "tr": "önce çıkar",
-   "type": "kalip",
-   "sections": [
-    1
-   ],
-   "lesson": "s01-l01"
-  },
-  {
-   "id": "3cc2517ce1",
-   "en": "simulate",
-   "tr": "benzetimini yapar, taklit eder • taklit eder, canlandırır",
-   "type": "kalip",
-   "sections": [
-    1,
-    28
-   ],
-   "lesson": "s01-l01"
-  },
-  {
    "id": "9b5157d0a4",
    "en": "DoD Directive 8140",
    "tr": "ABD Savunma Bakanlığı'nın siber personel yetkinlik çerçevesi; onaylı sertifikalar federal işlerde geçerli sayılır",
@@ -2636,26 +2615,6 @@
    "lesson": "s04-l01"
   },
   {
-   "id": "6436014857",
-   "en": "architecture layer",
-   "tr": "mimari katman",
-   "type": "terim",
-   "sections": [
-    4
-   ],
-   "lesson": "s04-l01"
-  },
-  {
-   "id": "d4714fe820",
-   "en": "for a given",
-   "tr": "verilen … için",
-   "type": "kalip",
-   "sections": [
-    4
-   ],
-   "lesson": "s04-l01"
-  },
-  {
    "id": "b2820171a6",
    "en": "lift-and-shift",
    "tr": "eski uygulamayı olduğu gibi buluta taşıma; bulutun avantajını kullanmaz",
@@ -3053,16 +3012,6 @@
    "lesson": "s04-l04"
   },
   {
-   "id": "da68bf3a55",
-   "en": "cluster",
-   "tr": "birlikte çalışan Kubernetes makineleri kümesi",
-   "type": "terim",
-   "sections": [
-    4
-   ],
-   "lesson": "s04-l04"
-  },
-  {
    "id": "96efbc0cd1",
    "en": "container escape",
    "tr": "container'dan çıkıp host'a erişme; root çalışıyorsa host'ta da root olur • konteynerin dışına çıkıp ana sisteme erişme",
@@ -3093,19 +3042,6 @@
     9,
     14,
     16
-   ],
-   "lesson": "s04-l05"
-  },
-  {
-   "id": "87974f45ca",
-   "en": "enables",
-   "tr": "mümkün kılar • …i mümkün kılar • …i etkinleştirir",
-   "type": "kalip",
-   "sections": [
-    4,
-    21,
-    23,
-    29
    ],
    "lesson": "s04-l05"
   },
