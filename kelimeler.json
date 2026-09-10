@@ -1423,26 +1423,6 @@
    "lesson": "s03-l01"
   },
   {
-   "id": "91d9dce2bc",
-   "en": "must be present",
-   "tr": "bulunmak zorundadır",
-   "type": "kalip",
-   "sections": [
-    3
-   ],
-   "lesson": "s03-l01"
-  },
-  {
-   "id": "b313212631",
-   "en": "risk matrix / heat map",
-   "tr": "olasılık ve etkiyi iki eksene koyup renklerle önceliklendiren tablo",
-   "type": "terim",
-   "sections": [
-    3
-   ],
-   "lesson": "s03-l01"
-  },
-  {
    "id": "75aca650ce",
    "en": "quantitative",
    "tr": "nicel: sayı ve para birimiyle ölçen",
@@ -1533,30 +1513,10 @@
    "lesson": "s03-l01"
   },
   {
-   "id": "ecd48d4d5c",
-   "en": "places … in",
-   "tr": "…i … içine yerleştirir",
-   "type": "kalip",
-   "sections": [
-    3
-   ],
-   "lesson": "s03-l01"
-  },
-  {
    "id": "e192755d74",
    "en": "real-time mental risk matrix",
    "tr": "kafanda anlık yaptığın risk değerlendirmesi; farkında olmadan aynı mantığı işletirsin",
    "type": "terim",
-   "sections": [
-    3
-   ],
-   "lesson": "s03-l01"
-  },
-  {
-   "id": "d6aa372147",
-   "en": "apply … thinking",
-   "tr": "… düşünme biçimini uygula",
-   "type": "kalip",
    "sections": [
     3
    ],
@@ -1577,16 +1537,6 @@
    "en": "baseline exposure",
    "tr": "başlangıçtaki maruziyet düzeyi",
    "type": "terim",
-   "sections": [
-    3
-   ],
-   "lesson": "s03-l02"
-  },
-  {
-   "id": "ce15802a8c",
-   "en": "raw",
-   "tr": "ham, işlenmemiş",
-   "type": "kalip",
    "sections": [
     3
    ],
@@ -1674,39 +1624,9 @@
    "lesson": "s03-l02"
   },
   {
-   "id": "d92fc45a33",
-   "en": "formalizes",
-   "tr": "kurala bağlar, resmîleştirir",
-   "type": "terim",
-   "sections": [
-    3
-   ],
-   "lesson": "s03-l02"
-  },
-  {
    "id": "0cb483bfea",
    "en": "Categorize / Authorize",
    "tr": "Categorize = sistemi kritiklik sınıfına koy; Authorize = kalan riski kabul edip işletime izin ver",
-   "type": "terim",
-   "sections": [
-    3
-   ],
-   "lesson": "s03-l02"
-  },
-  {
-   "id": "0ea388ae98",
-   "en": "states that",
-   "tr": "… diyorsa",
-   "type": "kalip",
-   "sections": [
-    3
-   ],
-   "lesson": "s03-l02"
-  },
-  {
-   "id": "994a97306a",
-   "en": "match to scope",
-   "tr": "sınav dili: hangisinin daha geniş kapsamlı olduğuna bakarak eşleştir",
    "type": "terim",
    "sections": [
     3
@@ -1718,16 +1638,6 @@
    "en": "buffer zone",
    "tr": "tampon bölge; etrafındaki hareket alanı",
    "type": "terim",
-   "sections": [
-    3
-   ],
-   "lesson": "s03-l02"
-  },
-  {
-   "id": "667db8fa33",
-   "en": "appear as",
-   "tr": "… olarak çıkarsa",
-   "type": "kalip",
    "sections": [
     3
    ],
@@ -1754,16 +1664,6 @@
    "lesson": "s03-l03"
   },
   {
-   "id": "11e8537860",
-   "en": "intentional",
-   "tr": "bilinçli, kasıtlı",
-   "type": "kalip",
-   "sections": [
-    3
-   ],
-   "lesson": "s03-l03"
-  },
-  {
    "id": "f1069fdf86",
    "en": "within appetite",
    "tr": "kabul sınırları içinde",
@@ -1774,30 +1674,10 @@
    "lesson": "s03-l03"
   },
   {
-   "id": "90e7552bb9",
-   "en": "underlying",
-   "tr": "altta yatan, asıl olan",
-   "type": "terim",
-   "sections": [
-    3
-   ],
-   "lesson": "s03-l03"
-  },
-  {
    "id": "339e8ef912",
    "en": "risk avoidance",
    "tr": "riski doğuran faaliyeti tamamen bırakarak riski yok etme",
    "type": "terim",
-   "sections": [
-    3
-   ],
-   "lesson": "s03-l03"
-  },
-  {
-   "id": "64c9014038",
-   "en": "aggressive",
-   "tr": "sert, radikal",
-   "type": "kalip",
    "sections": [
     3
    ],
@@ -1824,39 +1704,9 @@
    "lesson": "s03-l03"
   },
   {
-   "id": "dab72c4e42",
-   "en": "required elements",
-   "tr": "zorunlu unsurlar",
-   "type": "kalip",
-   "sections": [
-    3
-   ],
-   "lesson": "s03-l03"
-  },
-  {
    "id": "59494695a3",
    "en": "approval",
    "tr": "onay",
-   "type": "kalip",
-   "sections": [
-    3
-   ],
-   "lesson": "s03-l03"
-  },
-  {
-   "id": "0769be7f8e",
-   "en": "severity alone",
-   "tr": "tek başına ciddiyet derecesi",
-   "type": "kalip",
-   "sections": [
-    3
-   ],
-   "lesson": "s03-l03"
-  },
-  {
-   "id": "4ff65f8315",
-   "en": "no documented response",
-   "tr": "belgelenmiş hiçbir karşılık yok",
    "type": "kalip",
    "sections": [
     3
@@ -1934,16 +1784,6 @@
    "lesson": "s03-l04"
   },
   {
-   "id": "f2115eded7",
-   "en": "facilities",
-   "tr": "tesisler, binalar",
-   "type": "kalip",
-   "sections": [
-    3
-   ],
-   "lesson": "s03-l04"
-  },
-  {
    "id": "5766c24a91",
    "en": "compensating control",
    "tr": "asıl kontrol uygulanamadığında yerine konan, belgelenmiş alternatif • asıl kontrol (yama) uygulanamadığında yerine konan alternatif • zafiyet kapatılamıyorsa riski dengelemek için konan alternatif önlem",
@@ -1966,81 +1806,10 @@
    "lesson": "s03-l04"
   },
   {
-   "id": "268b1d6e53",
-   "en": "deliberate substitution",
-   "tr": "bilinçli yerine koyma; rastgele değil",
-   "type": "terim",
-   "sections": [
-    3
-   ],
-   "lesson": "s03-l04"
-  },
-  {
-   "id": "834beaf936",
-   "en": "addresses",
-   "tr": "ele alır, karşılar • …i karşılar",
-   "type": "kalip",
-   "sections": [
-    3,
-    24
-   ],
-   "lesson": "s03-l04"
-  },
-  {
-   "id": "a80921b217",
-   "en": "is implemented",
-   "tr": "uygulanır, hayata geçirilir",
-   "type": "kalip",
-   "sections": [
-    3
-   ],
-   "lesson": "s03-l04"
-  },
-  {
    "id": "45663c6771",
    "en": "control function",
    "tr": "kontrolün saldırı akışının hangi anında devreye girdiği",
    "type": "terim",
-   "sections": [
-    3
-   ],
-   "lesson": "s03-l05"
-  },
-  {
-   "id": "e14932f404",
-   "en": "preventative",
-   "tr": "önleyici",
-   "type": "kalip",
-   "sections": [
-    3
-   ],
-   "lesson": "s03-l05"
-  },
-  {
-   "id": "78674579c4",
-   "en": "responsive",
-   "tr": "müdahale edici",
-   "type": "kalip",
-   "sections": [
-    3
-   ],
-   "lesson": "s03-l05"
-  },
-  {
-   "id": "38708fd51b",
-   "en": "corrective",
-   "tr": "düzeltici",
-   "type": "kalip",
-   "sections": [
-    3
-   ],
-   "lesson": "s03-l05"
-  },
-  {
-   "id": "8c9dcd480d",
-   "en": "succeeding",
-   "tr": "başarılı olma",
-   "type": "kalip",
    "sections": [
     3
    ],
@@ -2061,71 +1830,10 @@
    "lesson": "s03-l05"
   },
   {
-   "id": "6c26a88e13",
-   "en": "limit damage",
-   "tr": "zararı sınırlamak",
-   "type": "terim",
-   "sections": [
-    3
-   ],
-   "lesson": "s03-l05"
-  },
-  {
-   "id": "ffed391ca2",
-   "en": "during",
-   "tr": "… sırasında",
-   "type": "kalip",
-   "sections": [
-    3,
-    5
-   ],
-   "lesson": "s03-l05"
-  },
-  {
-   "id": "c71c873886",
-   "en": "post-incident review",
-   "tr": "olay sonrası değerlendirme; ne oldu, ne öğrendik",
-   "type": "terim",
-   "sections": [
-    3
-   ],
-   "lesson": "s03-l05"
-  },
-  {
-   "id": "5bce67f8b8",
-   "en": "restore operations",
-   "tr": "işleyişi eski hâline getirmek",
-   "type": "kalip",
-   "sections": [
-    3
-   ],
-   "lesson": "s03-l05"
-  },
-  {
    "id": "2014e76a55",
    "en": "policy / standard / procedure / guideline",
    "tr": "policy = ne yapılmalı (zorunlu), standard = hangi ölçüde, procedure = adım adım nasıl, guideline = tavsiye",
    "type": "terim",
-   "sections": [
-    3
-   ],
-   "lesson": "s03-l06"
-  },
-  {
-   "id": "7696563d81",
-   "en": "formal documents",
-   "tr": "resmî belgeler",
-   "type": "kalip",
-   "sections": [
-    3
-   ],
-   "lesson": "s03-l06"
-  },
-  {
-   "id": "9b21c78784",
-   "en": "sit at the top of",
-   "tr": "…in en tepesinde yer alır",
-   "type": "kalip",
    "sections": [
     3
    ],
@@ -2142,16 +1850,6 @@
     26,
     33,
     35
-   ],
-   "lesson": "s03-l06"
-  },
-  {
-   "id": "f7f50285e1",
-   "en": "accountability",
-   "tr": "hesap verebilirlik; sorumluluğun bir kişiye/role bağlı olması",
-   "type": "terim",
-   "sections": [
-    3
    ],
    "lesson": "s03-l06"
   },
@@ -2188,46 +1886,6 @@
    "lesson": "s03-l06"
   },
   {
-   "id": "cbfd1cf6ef",
-   "en": "appropriate authority",
-   "tr": "uygun yetki seviyesi",
-   "type": "kalip",
-   "sections": [
-    3
-   ],
-   "lesson": "s03-l06"
-  },
-  {
-   "id": "c2b99a50e2",
-   "en": "enforcement",
-   "tr": "uygulatma, yaptırım",
-   "type": "kalip",
-   "sections": [
-    3
-   ],
-   "lesson": "s03-l06"
-  },
-  {
-   "id": "4068c847dc",
-   "en": "remediated",
-   "tr": "giderilmiş, kapatılmış",
-   "type": "terim",
-   "sections": [
-    3
-   ],
-   "lesson": "s03-l06"
-  },
-  {
-   "id": "62bfc01202",
-   "en": "drive prioritization",
-   "tr": "önceliklendirmeyi belirler",
-   "type": "kalip",
-   "sections": [
-    3
-   ],
-   "lesson": "s03-l06"
-  },
-  {
    "id": "18f25806d1",
    "en": "compliance framework",
    "tr": "uyulması zorunlu dış standart (PCI DSS, HIPAA, ISO 27001)",
@@ -2242,16 +1900,6 @@
    "en": "from the outside in",
    "tr": "dışarıdan içeriye doğru; kurumun kendi tercihi değil, dış zorunluluk",
    "type": "terim",
-   "sections": [
-    3
-   ],
-   "lesson": "s03-l06"
-  },
-  {
-   "id": "5080fd62c2",
-   "en": "shape",
-   "tr": "biçimlendirir, şekil verir",
-   "type": "kalip",
    "sections": [
     3
    ],
@@ -2318,26 +1966,6 @@
    "lesson": "s03-l07"
   },
   {
-   "id": "637487c884",
-   "en": "existing",
-   "tr": "mevcut, hâlihazırdaki",
-   "type": "kalip",
-   "sections": [
-    3
-   ],
-   "lesson": "s03-l07"
-  },
-  {
-   "id": "a50985b225",
-   "en": "structural framework",
-   "tr": "programın iskeletini kuran çerçeve",
-   "type": "terim",
-   "sections": [
-    3
-   ],
-   "lesson": "s03-l07"
-  },
-  {
    "id": "1f0e921b19",
    "en": "balanced program design",
    "tr": "beş işleve dengeli yatırım yapan program tasarımı",
@@ -2348,41 +1976,10 @@
    "lesson": "s03-l07"
   },
   {
-   "id": "5fffb4126e",
-   "en": "control gap",
-   "tr": "olması gereken kontrolün bulunmadığı boşluk • kontrolün olması gerekirken bulunmadığı boşluk",
-   "type": "terim",
-   "sections": [
-    3,
-    9
-   ],
-   "lesson": "s03-l07"
-  },
-  {
    "id": "22d45cae7a",
    "en": "business case",
    "tr": "yatırımın neden gerekli olduğunu iş diliyle anlatan gerekçe",
    "type": "terim",
-   "sections": [
-    3
-   ],
-   "lesson": "s03-l07"
-  },
-  {
-   "id": "e938ff1ff3",
-   "en": "undocumented gaps",
-   "tr": "sınav dili: belgelenmemiş boşluk risk yönetimi sayılmaz",
-   "type": "terim",
-   "sections": [
-    3
-   ],
-   "lesson": "s03-l07"
-  },
-  {
-   "id": "567f661035",
-   "en": "handled deliberately",
-   "tr": "bilinçli şekilde ele alınmalı",
-   "type": "kalip",
    "sections": [
     3
    ],
@@ -2410,16 +2007,6 @@
    "lesson": "s03-l07"
   },
   {
-   "id": "42274b1c1c",
-   "en": "favor … over",
-   "tr": "sınav dili: …i …e tercih et",
-   "type": "terim",
-   "sections": [
-    3
-   ],
-   "lesson": "s03-l07"
-  },
-  {
    "id": "a29d473509",
    "en": "business-impact framing",
    "tr": "bulguyu iş etkisi çerçevesinde anlatma",
@@ -2434,36 +2021,6 @@
    "en": "aligns … with",
    "tr": "…i … ile hizalayan",
    "type": "terim",
-   "sections": [
-    3
-   ],
-   "lesson": "s03-l07"
-  },
-  {
-   "id": "7cff2e9cea",
-   "en": "technically impressive",
-   "tr": "teknik açıdan gösterişli; sınavda cazip ama yanlış seçenek",
-   "type": "terim",
-   "sections": [
-    3
-   ],
-   "lesson": "s03-l07"
-  },
-  {
-   "id": "6a9f7a11b4",
-   "en": "security investment",
-   "tr": "güvenlik yatırımı",
-   "type": "kalip",
-   "sections": [
-    3
-   ],
-   "lesson": "s03-l07"
-  },
-  {
-   "id": "a12a74d8a6",
-   "en": "deploys",
-   "tr": "devreye alır, kurar",
-   "type": "kalip",
    "sections": [
     3
    ],
