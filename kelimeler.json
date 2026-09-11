@@ -3521,16 +3521,6 @@
    "lesson": "s06-l01"
   },
   {
-   "id": "976fa4b555",
-   "en": "flips to",
-   "tr": "…e döner, tersine çevrilir",
-   "type": "kalip",
-   "sections": [
-    6
-   ],
-   "lesson": "s06-l01"
-  },
-  {
    "id": "b60caa5833",
    "en": "ATT&CK for ICS",
    "tr": "ATT&CK'in endüstriyel kontrol sistemlerine özgü tekniklerini içeren matrisi",
