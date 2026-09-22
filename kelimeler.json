@@ -1041,17 +1041,6 @@
    "lesson": "s02-l03"
   },
   {
-   "id": "13cee95aff",
-   "en": "fires",
-   "tr": "tetikler, ateşler • tetiklenir, üretilir",
-   "type": "kalip",
-   "sections": [
-    2,
-    13
-   ],
-   "lesson": "s02-l03"
-  },
-  {
    "id": "d00a219aed",
    "en": "is crossed",
    "tr": "aşılır",
@@ -1154,17 +1143,6 @@
    "type": "terim",
    "sections": [
     2
-   ],
-   "lesson": "s02-l04"
-  },
-  {
-   "id": "92d72b7d0f",
-   "en": "non-negotiable",
-   "tr": "pazarlık konusu değil; tartışmasız zorunlu • sınav dili: tartışmaya kapalı, vazgeçilemez",
-   "type": "terim",
-   "sections": [
-    2,
-    13
    ],
    "lesson": "s02-l04"
   },
@@ -2354,18 +2332,6 @@
    "lesson": "s04-l04"
   },
   {
-   "id": "f687604ae8",
-   "en": "registry",
-   "tr": "container imajlarının saklandığı depo (Docker Hub gibi) • Windows'un ayarları tuttuğu merkezî yapılandırma veritabanı • kayıt defteri",
-   "type": "terim",
-   "sections": [
-    4,
-    13,
-    21
-   ],
-   "lesson": "s04-l04"
-  },
-  {
    "id": "88db37a09e",
    "en": "pushing the compromise to",
    "tr": "ele geçirmeyi …e yayarak",
@@ -3006,19 +2972,6 @@
    "lesson": "s05-l03"
   },
   {
-   "id": "0a55339e38",
-   "en": "regardless of",
-   "tr": "…e bakılmaksızın, ne olursa olsun • …e bakılmaksızın",
-   "type": "terim",
-   "sections": [
-    5,
-    8,
-    13,
-    21
-   ],
-   "lesson": "s05-l03"
-  },
-  {
    "id": "bedf43ad0a",
    "en": "along with",
    "tr": "… ile beraber",
@@ -3125,20 +3078,6 @@
    "type": "terim",
    "sections": [
     5
-   ],
-   "lesson": "s05-l04"
-  },
-  {
-   "id": "a8032f8450",
-   "en": "versus",
-   "tr": "…e karşı, … ile karşılaştırıldığında • …e karşı • …e karşı, …ile karşılaştırıldığında • …e karşılık",
-   "type": "kalip",
-   "sections": [
-    5,
-    8,
-    11,
-    13,
-    42
    ],
    "lesson": "s05-l04"
   },
@@ -7133,17 +7072,6 @@
    "lesson": "s11-l04"
   },
   {
-   "id": "37ce972692",
-   "en": "fall into",
-   "tr": "… kategorilere ayrılır • …e ayrılır",
-   "type": "kalip",
-   "sections": [
-    11,
-    13
-   ],
-   "lesson": "s11-l04"
-  },
-  {
    "id": "2a2415c508",
    "en": "proprietary",
    "tr": "özel mülk; şirkete ait, herkese açık olmayan",
@@ -8423,36 +8351,6 @@
    "lesson": "s12-l07"
   },
   {
-   "id": "daff402ffb",
-   "en": "whether ... or",
-   "tr": "ister … ister",
-   "type": "kalip",
-   "sections": [
-    13
-   ],
-   "lesson": "s13-l01"
-  },
-  {
-   "id": "fa4eef9921",
-   "en": "network socket open",
-   "tr": "bir ağ bağlantı ucunun açılması",
-   "type": "terim",
-   "sections": [
-    13
-   ],
-   "lesson": "s13-l01"
-  },
-  {
-   "id": "3374f0e261",
-   "en": "LOLBins",
-   "tr": "sistemde zaten kurulu meşru araçların saldırıda kullanılması",
-   "type": "terim",
-   "sections": [
-    13
-   ],
-   "lesson": "s13-l01"
-  },
-  {
    "id": "d22c309e78",
    "en": "Sysinternals Suite",
    "tr": "Microsoft'un canlı sistem incelemesi için verdiği ücretsiz araç seti",
@@ -8483,16 +8381,6 @@
    "lesson": "s13-l01"
   },
   {
-   "id": "556acea45e",
-   "en": "anomaly",
-   "tr": "sapma, olağandışılık",
-   "type": "kalip",
-   "sections": [
-    13
-   ],
-   "lesson": "s13-l01"
-  },
-  {
    "id": "9d5d4b273f",
    "en": "process creation (4688)",
    "tr": "yeni bir sürecin başlatıldığını gösteren kayıt",
@@ -8506,16 +8394,6 @@
    "id": "3cddcb6034",
    "en": "new service installed (7045)",
    "tr": "yeni servis kurulumu; kalıcılığın klasik göstergesi",
-   "type": "terim",
-   "sections": [
-    13
-   ],
-   "lesson": "s13-l02"
-  },
-  {
-   "id": "2020d55dba",
-   "en": "command-line arguments",
-   "tr": "komuta verilen parametreler; saldırganın asıl niyetini bunlar gösterir",
    "type": "terim",
    "sections": [
     13
@@ -8543,16 +8421,6 @@
    "lesson": "s13-l02"
   },
   {
-   "id": "b2ed221f17",
-   "en": "sophisticated",
-   "tr": "gelişmiş, ustaca davranan",
-   "type": "kalip",
-   "sections": [
-    13
-   ],
-   "lesson": "s13-l02"
-  },
-  {
    "id": "3094744fd5",
    "en": "host visibility stack",
    "tr": "host'u görebildiğin katmanların bütünü",
@@ -8563,39 +8431,9 @@
    "lesson": "s13-l02"
   },
   {
-   "id": "127cfd3acf",
-   "en": "isolated findings",
-   "tr": "birbirinden bağımsız görünen tekil bulgular",
-   "type": "terim",
-   "sections": [
-    13
-   ],
-   "lesson": "s13-l02"
-  },
-  {
-   "id": "1b795a582a",
-   "en": "mining pool",
-   "tr": "madencilerin işlem gücünü birleştirdiği havuz sunucusu",
-   "type": "terim",
-   "sections": [
-    13
-   ],
-   "lesson": "s13-l03"
-  },
-  {
    "id": "9680ca7373",
    "en": "process injection",
    "tr": "kötü kodun meşru bir sürecin bellek alanına yerleştirilmesi • kötü kodun güvenilir bir sürecin bellek alanına enjekte edilmesi",
-   "type": "terim",
-   "sections": [
-    13
-   ],
-   "lesson": "s13-l03"
-  },
-  {
-   "id": "81e0f686ee",
-   "en": "memory scanning",
-   "tr": "diskin değil, çalışan belleğin taranması",
    "type": "terim",
    "sections": [
     13
@@ -8663,16 +8501,6 @@
    "lesson": "s13-l03"
   },
   {
-   "id": "bc5b6feac0",
-   "en": "distinguish by",
-   "tr": "…e bakarak ayırt et",
-   "type": "kalip",
-   "sections": [
-    13
-   ],
-   "lesson": "s13-l03"
-  },
-  {
    "id": "7e43d5eedc",
    "en": "potentially unwanted programs (PUPs)",
    "tr": "açıkça zararlı olmayan ama kurumda istenmeyen yazılımlar",
@@ -8723,29 +8551,9 @@
    "lesson": "s13-l04"
   },
   {
-   "id": "c4ffdfc7c5",
-   "en": "zero-detection result",
-   "tr": "hiçbir motorun yakalamadığı sonuç; yeni veya özel zararlıda beklenir",
-   "type": "terim",
-   "sections": [
-    13
-   ],
-   "lesson": "s13-l04"
-  },
-  {
    "id": "f2073e1ca3",
    "en": "behavioral context",
    "tr": "dosyanın nereye, kim tarafından, ne zaman bırakıldığı bağlamı",
-   "type": "terim",
-   "sections": [
-    13
-   ],
-   "lesson": "s13-l04"
-  },
-  {
-   "id": "33a3673a92",
-   "en": "drop location",
-   "tr": "dosyanın bırakıldığı dizin",
    "type": "terim",
    "sections": [
     13
@@ -8795,30 +8603,10 @@
    "lesson": "s13-l04"
   },
   {
-   "id": "cb2c2be86b",
-   "en": "hunting technique",
-   "tr": "alarm beklemeden proaktif arama yöntemi (threat hunting)",
-   "type": "terim",
-   "sections": [
-    13
-   ],
-   "lesson": "s13-l04"
-  },
-  {
    "id": "df724a7cd5",
    "en": "process masquerading",
    "tr": "zararlının meşru bir Windows sürecinin adını takınması",
    "type": "terim",
-   "sections": [
-    13
-   ],
-   "lesson": "s13-l05"
-  },
-  {
-   "id": "8cbc4b11db",
-   "en": "binary impersonation",
-   "tr": "ikili dosya taklidi",
-   "type": "kalip",
    "sections": [
     13
    ],
@@ -8838,16 +8626,6 @@
    "id": "3b74d755b1",
    "en": "exhibits behavior",
    "tr": "davranış sergiler",
-   "type": "kalip",
-   "sections": [
-    13
-   ],
-   "lesson": "s13-l05"
-  },
-  {
-   "id": "48ed73aeea",
-   "en": "it would never normally exhibit",
-   "tr": "normalde asla sergilemeyeceği",
    "type": "kalip",
    "sections": [
     13
@@ -8875,16 +8653,6 @@
    "lesson": "s13-l05"
   },
   {
-   "id": "e783e1a506",
-   "en": "Image name",
-   "tr": "olay kaydında çalıştırılabilir dosyanın adını tutan alan",
-   "type": "terim",
-   "sections": [
-    13
-   ],
-   "lesson": "s13-l05"
-  },
-  {
    "id": "083814db3f",
    "en": "instantly",
    "tr": "anında",
@@ -8893,46 +8661,6 @@
     13
    ],
    "lesson": "s13-l05"
-  },
-  {
-   "id": "6aa082c6fb",
-   "en": "LOLBins (Living Off the Land Binaries)",
-   "tr": "araziden geçinme: sistemde zaten kurulu meşru araçlarla saldırı yürütme",
-   "type": "terim",
-   "sections": [
-    13
-   ],
-   "lesson": "s13-l06"
-  },
-  {
-   "id": "115e95ed07",
-   "en": "the binary is signed",
-   "tr": "dosya üreticisince imzalı olduğu için güvenlik ürünlerine güvenilir görünür",
-   "type": "terim",
-   "sections": [
-    13
-   ],
-   "lesson": "s13-l06"
-  },
-  {
-   "id": "47724137e2",
-   "en": "to avoid introducing",
-   "tr": "…getirmekten kaçınmak için",
-   "type": "kalip",
-   "sections": [
-    13
-   ],
-   "lesson": "s13-l06"
-  },
-  {
-   "id": "6fd8063e53",
-   "en": "-EncodedCommand",
-   "tr": "komutu base64'e çevirip gizleyen PowerShell bayrağı",
-   "type": "terim",
-   "sections": [
-    13
-   ],
-   "lesson": "s13-l06"
   },
   {
    "id": "d62dbb6882",
@@ -8985,27 +8713,6 @@
    "lesson": "s13-l06"
   },
   {
-   "id": "68024842da",
-   "en": "registry run keys",
-   "tr": "açılışta program çalıştıran kayıt defteri anahtarları",
-   "type": "terim",
-   "sections": [
-    13,
-    38
-   ],
-   "lesson": "s13-l06"
-  },
-  {
-   "id": "b099d48b3a",
-   "en": "stealthy",
-   "tr": "sessiz, fark edilmesi zor • sessiz, göze batmayan",
-   "type": "kalip",
-   "sections": [
-    13
-   ],
-   "lesson": "s13-l06"
-  },
-  {
    "id": "06d59df694",
    "en": "mshta.exe",
    "tr": "HTML uygulaması çalıştıran yerleşik araç; script çalıştırmak için kötüye kullanılır",
@@ -9049,16 +8756,6 @@
    "id": "2e6a15375b",
    "en": "registry-adjacent tools",
    "tr": "kayıt defteri ve bileşen kaydıyla ilişkili araçlar (mshta, regsvr32)",
-   "type": "terim",
-   "sections": [
-    13
-   ],
-   "lesson": "s13-l06"
-  },
-  {
-   "id": "c523ab48ae",
-   "en": "malicious use pattern",
-   "tr": "kötü niyetli kullanımın tipik kalıbı",
    "type": "terim",
    "sections": [
     13
@@ -9116,26 +8813,6 @@
    "lesson": "s13-l07"
   },
   {
-   "id": "0ba970edc7",
-   "en": "user-level malware drops",
-   "tr": "kullanıcı yetkisiyle, kullanıcı profiline bırakılan zararlı dosyalar",
-   "type": "terim",
-   "sections": [
-    13
-   ],
-   "lesson": "s13-l07"
-  },
-  {
-   "id": "8c3f95fcdc",
-   "en": "attacker drop zones",
-   "tr": "saldırganın dosya bırakmayı tercih ettiği, herkesin yazabildiği dizinler",
-   "type": "terim",
-   "sections": [
-    13
-   ],
-   "lesson": "s13-l07"
-  },
-  {
    "id": "bf884a6f7f",
    "en": "DLL hijacking",
    "tr": "uygulamanın önce bulacağı bir yere sahte DLL koyup kendi kodunu çalıştırtma",
@@ -9156,50 +8833,10 @@
    "lesson": "s13-l07"
   },
   {
-   "id": "c3cd55506a",
-   "en": "malware drop indicator",
-   "tr": "zararlının makineye bırakıldığını gösteren iz",
-   "type": "terim",
-   "sections": [
-    13
-   ],
-   "lesson": "s13-l07"
-  },
-  {
-   "id": "1984d3486e",
-   "en": "followed immediately by execution",
-   "tr": "hemen ardından çalıştırılması",
-   "type": "kalip",
-   "sections": [
-    13
-   ],
-   "lesson": "s13-l07"
-  },
-  {
-   "id": "8acf68b4f3",
-   "en": "approved change windows",
-   "tr": "değişikliğe izin verilen planlı zaman aralıkları",
-   "type": "terim",
-   "sections": [
-    13
-   ],
-   "lesson": "s13-l07"
-  },
-  {
    "id": "b86429e964",
    "en": "coinciding with",
    "tr": "…ile aynı zamana denk gelen",
    "type": "kalip",
-   "sections": [
-    13
-   ],
-   "lesson": "s13-l07"
-  },
-  {
-   "id": "99e2338730",
-   "en": "S3 object modifications",
-   "tr": "bulut depolamadaki nesnelerin değiştirilmesi",
-   "type": "terim",
    "sections": [
     13
    ],
@@ -9216,50 +8853,10 @@
    "lesson": "s13-l08"
   },
   {
-   "id": "9986bc5df1",
-   "en": "archive files",
-   "tr": "sıkıştırılmış paket dosyaları; staging'in en tipik izi",
-   "type": "terim",
-   "sections": [
-    13
-   ],
-   "lesson": "s13-l08"
-  },
-  {
    "id": "967adf4d62",
    "en": "DLP content inspection",
    "tr": "veri sızıntısı önleme sisteminin dosya içeriğini denetlemesi",
    "type": "terim",
-   "sections": [
-    13
-   ],
-   "lesson": "s13-l08"
-  },
-  {
-   "id": "5bd80231a4",
-   "en": "to defeat",
-   "tr": "etkisiz kılmak için",
-   "type": "kalip",
-   "sections": [
-    13
-   ],
-   "lesson": "s13-l08"
-  },
-  {
-   "id": "9969524aaf",
-   "en": "device control",
-   "tr": "hangi cihazın takılabileceğini kısıtlayan politika",
-   "type": "terim",
-   "sections": [
-    13
-   ],
-   "lesson": "s13-l08"
-  },
-  {
-   "id": "083b4f9098",
-   "en": "is attached",
-   "tr": "takıldığında",
-   "type": "kalip",
    "sections": [
     13
    ],
@@ -9316,16 +8913,6 @@
    "lesson": "s13-l08"
   },
   {
-   "id": "4284ea4726",
-   "en": "physical medium",
-   "tr": "fiziksel ortam",
-   "type": "kalip",
-   "sections": [
-    13
-   ],
-   "lesson": "s13-l08"
-  },
-  {
    "id": "be7fe54518",
    "en": "staging archives",
    "tr": "sızdırma öncesi hazırlanan arşiv dosyaları",
@@ -9334,36 +8921,6 @@
     13
    ],
    "lesson": "s13-l08"
-  },
-  {
-   "id": "f10d04bd69",
-   "en": "insider threat USB pattern",
-   "tr": "içeriden tehdide özgü USB kalıbı: cihaz takılması + ardından kopyalama",
-   "type": "terim",
-   "sections": [
-    13
-   ],
-   "lesson": "s13-l08"
-  },
-  {
-   "id": "a66bc3d8c1",
-   "en": "distinguish",
-   "tr": "ayırt et",
-   "type": "kalip",
-   "sections": [
-    13
-   ],
-   "lesson": "s13-l08"
-  },
-  {
-   "id": "1dcec9e37f",
-   "en": "serve three objectives",
-   "tr": "üç amaca hizmet eder",
-   "type": "kalip",
-   "sections": [
-    13
-   ],
-   "lesson": "s13-l09"
   },
   {
    "id": "96915c708d",
@@ -9386,46 +8943,6 @@
    "lesson": "s13-l09"
   },
   {
-   "id": "91b4a8af0e",
-   "en": "surfaces all unsigned or unknown entries",
-   "tr": "imzasız veya tanınmayan tüm girdileri öne çıkarır",
-   "type": "kalip",
-   "sections": [
-    13
-   ],
-   "lesson": "s13-l09"
-  },
-  {
-   "id": "a3eb73ca87",
-   "en": "change windows",
-   "tr": "değişikliğe izin verilen planlı zaman aralıkları",
-   "type": "terim",
-   "sections": [
-    13
-   ],
-   "lesson": "s13-l09"
-  },
-  {
-   "id": "a6d8eca8f4",
-   "en": "service installation",
-   "tr": "yeni Windows servisi kurulması; SYSTEM yetkisiyle çalıştığı için kalıcılıkta değerlidir",
-   "type": "terim",
-   "sections": [
-    13
-   ],
-   "lesson": "s13-l09"
-  },
-  {
-   "id": "3693b056db",
-   "en": "patch window",
-   "tr": "yama çalışması için planlanmış zaman aralığı",
-   "type": "terim",
-   "sections": [
-    13
-   ],
-   "lesson": "s13-l09"
-  },
-  {
    "id": "69942423ef",
    "en": "preserves",
    "tr": "korur, saklar",
@@ -9440,36 +8957,6 @@
    "en": "global security group",
    "tr": "etki alanı genelinde yetki taşıyan güvenlik grubu",
    "type": "terim",
-   "sections": [
-    13
-   ],
-   "lesson": "s13-l09"
-  },
-  {
-   "id": "0ff2fb463e",
-   "en": "registry persistence",
-   "tr": "kayıt defteri üzerinden sağlanan kalıcılık",
-   "type": "terim",
-   "sections": [
-    13
-   ],
-   "lesson": "s13-l09"
-  },
-  {
-   "id": "7dcce8aba6",
-   "en": "designed to accomplish",
-   "tr": "sınav dili: neyi başarmak üzere tasarlandığı",
-   "type": "terim",
-   "sections": [
-    13
-   ],
-   "lesson": "s13-l09"
-  },
-  {
-   "id": "d2dc873868",
-   "en": "objective",
-   "tr": "hedef, amaç",
-   "type": "kalip",
    "sections": [
     13
    ],
